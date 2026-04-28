@@ -36,16 +36,16 @@
         "sentence":  "They discussed the ethical implications of abortion in the seminar."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "About",
-        "translation":  "Adv.",
-        "sentence":  "Hakkında, yaklaşık"
+        "translation":  "Hakkında, yaklaşık",
+        "sentence":  "We were talking about the new YouTube project for kids."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "Above",
-        "translation":  "Adv.",
-        "sentence":  "Üzerinde, yukarısında"
+        "translation":  "Üzerinde, yukarısında",
+        "sentence":  "Please read the instructions listed above before you start."
     },
     {
         "pos":  "Adverb",
@@ -144,10 +144,10 @@
         "sentence":  "The university sent him a letter of acceptance."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Access",
-        "translation":  "Verb",
-        "sentence":  "Erişim"
+        "translation":  "Erişim / Erişmek",
+        "sentence":  "You need a password to access the company\u0027s financial database."
     },
     {
         "pos":  "Adjective",
@@ -210,10 +210,10 @@
         "sentence":  "Please let us know your decision and we will act accordingly."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Account",
-        "translation":  "Verb",
-        "sentence":  "Hesap"
+        "translation":  "Hesap / Açıklamak",
+        "sentence":  "I need to open a new bank account for my investments."
     },
     {
         "pos":  "Noun",
@@ -296,8 +296,8 @@
     {
         "pos":  "Noun / Adjective",
         "word":  "Acid",
-        "translation":  "Asit / Asitli, keskin",
-        "sentence":  "Lemon juice is a natural acid. / He has an acid wit."
+        "translation":  "Asit / Asitli, keskin / Lemon juice is a natural acid.",
+        "sentence":  "He has an acid wit."
     },
     {
         "pos":  "Verb",
@@ -324,16 +324,16 @@
         "sentence":  "The farmhouse comes with ten acres of land."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "Across",
-        "translation":  "Adv.",
-        "sentence":  "Karşısında, boydan boya"
+        "translation":  "Karşısında, boydan boya",
+        "sentence":  "He walked across the bridge to reach the other side of the city."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Act",
-        "translation":  "Noun",
-        "sentence":  "Hareket etmek"
+        "translation":  "Hareket etmek / Eylem",
+        "sentence":  "We must act quickly to solve the supply chain problem."
     },
     {
         "pos":  "Noun",
@@ -456,10 +456,10 @@
         "sentence":  "The hotel offers free Wi-Fi; additionally, breakfast is included."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Address",
-        "translation":  "Verb",
-        "sentence":  "Adres"
+        "translation":  "Adres / Ele almak",
+        "sentence":  "Please send the raw material samples to our office address."
     },
     {
         "pos":  "Adjective",
@@ -558,16 +558,16 @@
         "sentence":  "The adoption of new technology has improved our productivity."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Adult",
-        "translation":  "Adj.",
-        "sentence":  "Yetişkin"
+        "translation":  "Yetişkin",
+        "sentence":  "This movie is not suitable for children; it is for adults only."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / V. / Adj.",
         "word":  "Advance",
-        "translation":  "V.",
-        "sentence":  "Adj."
+        "translation":  "İlerleme / İlerlemek",
+        "sentence":  "We need to pay for the materials in advance."
     },
     {
         "pos":  "Adjective",
@@ -674,8 +674,8 @@
     {
         "pos":  "Prep.",
         "word":  "After",
-        "translation":  "Conj.",
-        "sentence":  "Sonra"
+        "translation":  "Conj. / Sonra",
+        "sentence":  "After five years at the firm, he felt ready for a new challenge."
     },
     {
         "pos":  "Noun",
@@ -708,10 +708,10 @@
         "sentence":  "We are playing against a very strong team in the next match."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Age",
-        "translation":  "Verb",
-        "sentence":  "Yaş"
+        "translation":  "Yaş / Yaşlanmak",
+        "sentence":  "He started his own YouTube channel at the age of thirty."
     },
     {
         "pos":  "Adjective",
@@ -792,10 +792,10 @@
         "sentence":  "We need to plan for the difficult months ahead."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Aid",
-        "translation":  "Verb",
-        "sentence":  "Yardım"
+        "translation":  "Yardım / Yardım etmek",
+        "sentence":  "The government provided financial aid to small businesses."
     },
     {
         "pos":  "Noun",
@@ -810,10 +810,10 @@
         "sentence":  "Early diagnosis is crucial in the treatment of AIDS."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Aim",
-        "translation":  "Noun",
-        "sentence":  "Hedeflemek"
+        "translation":  "Hedeflemek / Amaç",
+        "sentence":  "Our primary aim is to reduce raw material costs by 10%."
     },
     {
         "pos":  "Noun",
@@ -840,10 +840,10 @@
         "sentence":  "I arrived at Sabiha Gökçen Airport two hours before my flight."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Alarm",
-        "translation":  "Verb",
-        "sentence":  "Alarm"
+        "translation":  "Alarm / Korkutmak",
+        "sentence":  "I set my alarm for 6 AM to be ready for the early meeting."
     },
     {
         "pos":  "Noun",
@@ -900,16 +900,16 @@
         "sentence":  "He felt lucky to be alive after the serious car accident."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron.",
         "word":  "All",
-        "translation":  "Pron.",
-        "sentence":  "Hepsi, tüm"
+        "translation":  "Hepsi, tüm",
+        "sentence":  "All of our suppliers must meet high quality standards."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "All right",
-        "translation":  "Adv.",
-        "sentence":  "Tamam, peki"
+        "translation":  "Tamam, peki",
+        "sentence":  "\"Is everything all right with the new shipment?\" \"Yes, it is.\""
     },
     {
         "pos":  "Noun",
@@ -972,16 +972,16 @@
         "sentence":  "The cost-down study is almost finished; we just need the final data."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Alone",
-        "translation":  "Adv.",
-        "sentence":  "Yalnız, tek başına"
+        "translation":  "Yalnız, tek başına",
+        "sentence":  "Sometimes I prefer to work alone to focus on complex calculations."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "Along",
-        "translation":  "Adv.",
-        "sentence":  "Boyunca"
+        "translation":  "Boyunca",
+        "sentence":  "We took a long walk along the coastline in İzmir."
     },
     {
         "pos":  "Preposition",
@@ -998,8 +998,8 @@
     {
         "pos":  "Adverb",
         "word":  "Also",
-        "translation":  "Ayrıca, de",
-        "sentence":  "da"
+        "translation":  "Ayrıca, de / da",
+        "sentence":  "He is interested in silver, and he also tracks palladium prices."
     },
     {
         "pos":  "Verb",
@@ -1008,10 +1008,10 @@
         "sentence":  "We might need to alter our plans if the metal prices keep rising."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj.",
         "word":  "Alternative",
-        "translation":  "Adj.",
-        "sentence":  "Alternatif"
+        "translation":  "Alternatif",
+        "sentence":  "We are evaluating an alternative raw material to save money."
     },
     {
         "pos":  "Conj.",
@@ -1104,10 +1104,10 @@
         "sentence":  "This firm is among the top suppliers in the region."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Amount",
-        "translation":  "Verb",
-        "sentence":  "Miktar"
+        "translation":  "Miktar / Tutmak",
+        "sentence":  "The total amount of gold we have is 150 grams."
     },
     {
         "pos":  "Adjective",
@@ -1260,16 +1260,16 @@
         "sentence":  "An anonymous donor gave a million dollars to the hospital."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron.",
         "word":  "Another",
-        "translation":  "Pron.",
-        "sentence":  "Başka bir"
+        "translation":  "Başka bir",
+        "sentence":  "We need to find another way to reduce our logistics costs."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Answer",
-        "translation":  "Verb",
-        "sentence":  "Cevap"
+        "translation":  "Cevap / Cevaplamak",
+        "sentence":  "\"What is the answer to the third question?\" \"I don\u0027t know.\""
     },
     {
         "pos":  "Verb",
@@ -1290,10 +1290,10 @@
         "sentence":  "I was a bit anxious about the results of the self-evaluation."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron.",
         "word":  "Any",
-        "translation":  "Pron.",
-        "sentence":  "Hiç, herhangi"
+        "translation":  "Hiç, herhangi",
+        "sentence":  "Do you have any information about the price of silver today?"
     },
     {
         "pos":  "Pronoun",
@@ -1326,10 +1326,10 @@
         "sentence":  "It\u0027s raining, but I\u0027m going to the office anyway."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Pron.",
         "word":  "Anywhere",
-        "translation":  "Pron.",
-        "sentence":  "Herhangi bir yer"
+        "translation":  "Herhangi bir yer",
+        "sentence":  "You can\u0027t find this material anywhere else at this price."
     },
     {
         "pos":  "Adverb",
@@ -1386,10 +1386,10 @@
         "sentence":  "Apparently, the flight was canceled due to bad weather."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Appeal",
-        "translation":  "Verb",
-        "sentence":  "Başvuru"
+        "translation":  "Başvuru / Cezbetmek",
+        "sentence":  "The new car design has a lot of appeal for young buyers."
     },
     {
         "pos":  "Adjective",
@@ -1476,10 +1476,10 @@
         "sentence":  "I’d like to express my appreciation for all your hard work."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Approach",
-        "translation":  "Verb",
-        "sentence":  "Yaklaşım"
+        "translation":  "Yaklaşım / Yaklaşmak",
+        "sentence":  "We need a new approach to manage alternative suppliers."
     },
     {
         "pos":  "Adjective",
@@ -1608,10 +1608,10 @@
         "sentence":  "He served in the army for six months after university."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "Around",
-        "translation":  "Adv.",
-        "sentence":  "Etrafında, yaklaşık"
+        "translation":  "Etrafında, yaklaşık",
+        "sentence":  "I\u0027ll be in the office around 9 AM tomorrow."
     },
     {
         "pos":  "Verb",
@@ -1632,10 +1632,10 @@
         "sentence":  "The shop offers a wide array of organic vegetables."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Arrest",
-        "translation":  "Noun",
-        "sentence":  "Tutuklamak"
+        "translation":  "Tutuklamak / Tutuklama",
+        "sentence":  "The police managed to arrest the suspect late last night."
     },
     {
         "pos":  "Noun",
@@ -1698,10 +1698,10 @@
         "sentence":  "The walls of the gallery were covered with modern artwork."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "As",
-        "translation":  "Adv.",
-        "sentence":  "Olarak, gibi"
+        "translation":  "Olarak, gibi",
+        "sentence":  "I work as a strategic sourcing employee at my firm."
     },
     {
         "pos":  "Noun",
@@ -1830,10 +1830,10 @@
         "sentence":  "Do you require any financial assistance with your university fees?"
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj.",
         "word":  "Assistant",
-        "translation":  "Adj.",
-        "sentence":  "Asistan, yardımcı"
+        "translation":  "Asistan, yardımcı",
+        "sentence":  "The manager\u0027s assistant scheduled the meeting for Friday."
     },
     {
         "pos":  "Verb",
@@ -1932,10 +1932,10 @@
         "sentence":  "Please see the file in the attachment for more details."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Attack",
-        "translation":  "Verb",
-        "sentence":  "Saldırı"
+        "translation":  "Saldırı / Saldırmak",
+        "sentence":  "The company\u0027s server was hit by a cyber attack yesterday."
     },
     {
         "pos":  "Verb",
@@ -1944,10 +1944,10 @@
         "sentence":  "She worked hard to attain her goal of becoming a doctor."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Attempt",
-        "translation":  "Verb",
-        "sentence":  "Girişim"
+        "translation":  "Girişim / Girişmek",
+        "sentence":  "This is our first attempt at creating a YouTube channel for kids."
     },
     {
         "pos":  "Verb",
@@ -2106,10 +2106,10 @@
         "sentence":  "Is the manager available for a brief chat this morning?"
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / N. / V.",
         "word":  "Average",
-        "translation":  "N.",
-        "sentence":  "V."
+        "translation":  "Ortalama",
+        "sentence":  "The average price of gold has increased this month."
     },
     {
         "pos":  "Verb",
@@ -2124,10 +2124,10 @@
         "sentence":  "We eagerly await your reply to our invitation."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Award",
-        "translation":  "Verb",
-        "sentence":  "Ödül"
+        "translation":  "Ödül / Ödüllendirmek",
+        "sentence":  "He won an award for his five years of service at the firm."
     },
     {
         "pos":  "Adjective",
@@ -2172,10 +2172,10 @@
         "sentence":  "The baby started to cry as soon as the plane took off."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adv. / V.",
         "word":  "Back",
-        "translation":  "Adv.",
-        "sentence":  "V."
+        "translation":  "Arka / Geri / Desteklemek",
+        "sentence":  "I\u0027ll be back in the office after my lunch break."
     },
     {
         "pos":  "Noun",
@@ -2250,10 +2250,10 @@
         "sentence":  "I like to bake fresh cookies for my colleagues on Fridays."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Balance",
-        "translation":  "Verb",
-        "sentence":  "Denge"
+        "translation":  "Denge / Dengelemek",
+        "sentence":  "It is important to maintain a good work-life balance."
     },
     {
         "pos":  "Adjective",
@@ -2286,10 +2286,10 @@
         "sentence":  "The winners will be chosen by a secret ballot."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Ban",
-        "translation":  "Noun",
-        "sentence":  "Yasaklamak"
+        "translation":  "Yasaklamak / Yasak",
+        "sentence":  "The government decided to ban certain types of plastic bags."
     },
     {
         "pos":  "Noun",
@@ -2328,10 +2328,10 @@
         "sentence":  "Supporters held up a large banner with the team\u0027s logo."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Bar",
-        "translation":  "Verb",
-        "sentence":  "Bar, engel"
+        "translation":  "Bar, engel / Engellemek",
+        "sentence":  "There is a small coffee bar on the ground floor of our building."
     },
     {
         "pos":  "Adjective",
@@ -2364,10 +2364,10 @@
         "sentence":  "Language can be a barrier when negotiating with foreign firms."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Base",
-        "translation":  "Verb",
-        "sentence":  "Temel, üs"
+        "translation":  "Temel, üs / Dayandırmak",
+        "sentence":  "The company\u0027s headquarters are based in Istanbul."
     },
     {
         "pos":  "Noun",
@@ -2420,7 +2420,7 @@
     {
         "pos":  "Noun",
         "word":  "Bass",
-        "translation":  "Bas (ses/enstrüman)",
+        "translation":  "Bas (ses / enstrüman)",
         "sentence":  "The loud bass from the speakers made the floor vibrate."
     },
     {
@@ -2448,10 +2448,10 @@
         "sentence":  "My phone\u0027s battery died while I was waiting for the flight."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Battle",
-        "translation":  "Verb",
-        "sentence":  "Savaş"
+        "translation":  "Savaş / Savaşmak",
+        "sentence":  "The company is in a constant battle to keep its costs low."
     },
     {
         "pos":  "Noun",
@@ -2508,10 +2508,10 @@
         "sentence":  "The lion is often called the king of beasts."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Beat",
-        "translation":  "Noun",
-        "sentence":  "Yenmek"
+        "translation":  "Yenmek / Ritim",
+        "sentence":  "Our team managed to beat the competitor\u0027s offer."
     },
     {
         "pos":  "Adjective",
@@ -2570,8 +2570,8 @@
     {
         "pos":  "Prep.",
         "word":  "Before",
-        "translation":  "Conj.",
-        "sentence":  "Önce"
+        "translation":  "Conj. / Önce",
+        "sentence":  "Please review the contract before the meeting starts at 2 PM."
     },
     {
         "pos":  "Verb",
@@ -2616,10 +2616,10 @@
         "sentence":  "The researchers are studying behavioral patterns in monkeys."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "Behind",
-        "translation":  "Adv.",
-        "sentence":  "Arkasında"
+        "translation":  "Arkasında",
+        "sentence":  "The warehouse is located right behind the main production building."
     },
     {
         "pos":  "Noun",
@@ -2658,10 +2658,10 @@
         "sentence":  "The children mourned the death of their beloved dog."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Prep.",
         "word":  "Below",
-        "translation":  "Prep.",
-        "sentence":  "Altında"
+        "translation":  "Altında",
+        "sentence":  "Please find the detailed supplier list in the section below."
     },
     {
         "pos":  "Noun",
@@ -2682,10 +2682,10 @@
         "sentence":  "This new phone will be the benchmark for all future models."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Bend",
-        "translation":  "Noun",
-        "sentence":  "Bükmek"
+        "translation":  "Bükmek / Viraj",
+        "sentence":  "Be careful not to bend the metal samples during transportation."
     },
     {
         "pos":  "Preposition",
@@ -2706,10 +2706,10 @@
         "sentence":  "She is the sole beneficiary of her grandmother\u0027s will."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Benefit",
-        "translation":  "Verb",
-        "sentence":  "Fayda"
+        "translation":  "Fayda / Faydalanmak",
+        "sentence":  "One major benefit of alternative sourcing is significant cost savings."
     },
     {
         "pos":  "Adjective",
@@ -2730,16 +2730,16 @@
         "sentence":  "Besides the violin, he also plays the piano."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Best",
-        "translation":  "Adv.",
-        "sentence":  "En iyi"
+        "translation":  "En iyi",
+        "sentence":  "This firm offered the best terms for the raw material contract."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Bet",
-        "translation":  "Noun",
-        "sentence":  "Bahis oynamak"
+        "translation":  "Bahis oynamak / Bahis",
+        "sentence":  "I wouldn\u0027t bet on a sudden drop in gold prices this month."
     },
     {
         "pos":  "Verb",
@@ -2748,16 +2748,16 @@
         "sentence":  "He promised never to betray his friends."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Better",
-        "translation":  "Adv.",
-        "sentence":  "Daha iyi"
+        "translation":  "Daha iyi",
+        "sentence":  "Using alternative suppliers is a better strategy for cost management."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "Between",
-        "translation":  "Adv.",
-        "sentence":  "Arasında"
+        "translation":  "Arasında",
+        "sentence":  "The flight between Sabiha Gökçen and İzmir usually takes an hour."
     },
     {
         "pos":  "Noun",
@@ -2766,10 +2766,10 @@
         "sentence":  "Hot beverages will be served during the break."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "Beyond",
-        "translation":  "Adv.",
-        "sentence":  "Ötesinde"
+        "translation":  "Ötesinde",
+        "sentence":  "The success of this project is beyond our initial expectations."
     },
     {
         "pos":  "Noun",
@@ -2802,10 +2802,10 @@
         "sentence":  "I prefer riding my bike along the coast in İzmir on sunny days."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Bill",
-        "translation":  "Verb",
-        "sentence":  "Fatura"
+        "translation":  "Fatura / Faturalandırmak",
+        "sentence":  "Please check the electricity bill for any errors before paying it."
     },
     {
         "pos":  "Number",
@@ -2868,10 +2868,10 @@
         "sentence":  "I\u0027m a bit concerned about the delay in the raw material shipment."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Bite",
-        "translation":  "Noun",
-        "sentence":  "Isırmak"
+        "translation":  "Isırmak / Isırık",
+        "sentence":  "Be careful; that dog might bite if it feels threatened."
     },
     {
         "pos":  "Adjective",
@@ -2888,8 +2888,8 @@
     {
         "pos":  "Adj.",
         "word":  "Black",
-        "translation":  "Noun",
-        "sentence":  "Siyah"
+        "translation":  "Siyah",
+        "sentence":  "He wore a black suit to the formal anniversary dinner."
     },
     {
         "pos":  "Noun",
@@ -2898,16 +2898,16 @@
         "sentence":  "Be careful, the blade of this knife is very sharp."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Blame",
-        "translation":  "Noun",
-        "sentence":  "Suçlamak"
+        "translation":  "Suçlamak / Suç",
+        "sentence":  "You cannot blame the supplier for the natural disaster delay."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Blank",
-        "translation":  "Noun",
-        "sentence":  "Boş"
+        "translation":  "Boş / Boşluk",
+        "sentence":  "Please leave the \"middle name\" section blank if you don\u0027t have one."
     },
     {
         "pos":  "Noun",
@@ -2952,10 +2952,10 @@
         "sentence":  "The new policy was implemented without blind faith in the data."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Block",
-        "translation":  "Verb",
-        "sentence":  "Blok"
+        "translation":  "Blok / Engellemek",
+        "sentence":  "The heavy snow managed to block the main road to the factory."
     },
     {
         "pos":  "Noun",
@@ -2988,16 +2988,16 @@
         "sentence":  "A strong wind began to blow across the Sabiha Gökçen runway."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Blue",
-        "translation":  "Noun",
-        "sentence":  "Mavi"
+        "translation":  "Mavi",
+        "sentence":  "The clear blue sky over İzmir looks beautiful today."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Board",
-        "translation":  "Verb",
-        "sentence":  "Kurul, tahta"
+        "translation":  "Kurul, tahta / Binmek",
+        "sentence":  "The board of directors approved the new cost-down project."
     },
     {
         "pos":  "Verb",
@@ -3030,10 +3030,10 @@
         "sentence":  "It was a bold move to quit his job without having another one."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Bomb",
-        "translation":  "Verb",
-        "sentence":  "Bomba"
+        "translation":  "Bomba / Bombalamak",
+        "sentence":  "The bomb squad was called to investigate the suspicious package."
     },
     {
         "pos":  "Noun",
@@ -3060,10 +3060,10 @@
         "sentence":  "All employees received a Christmas bonus this year."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Book",
-        "translation":  "Verb",
-        "sentence":  "Kitap"
+        "translation":  "Kitap / Rezervasyon yapmak",
+        "sentence":  "I need to book a hotel room for my trip to Istanbul next month."
     },
     {
         "pos":  "Noun",
@@ -3090,10 +3090,10 @@
         "sentence":  "You should wear safety boots when entering the warehouse."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Border",
-        "translation":  "Verb",
-        "sentence":  "Sınır"
+        "translation":  "Sınır / Sınırlanmak",
+        "sentence":  "The truck is currently waiting at the border for customs clearance."
     },
     {
         "pos":  "Adjective",
@@ -3126,10 +3126,10 @@
         "sentence":  "My boss was very supportive of my decision to learn German."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron.",
         "word":  "Both",
-        "translation":  "Pron.",
-        "sentence":  "Her ikisi"
+        "translation":  "Her ikisi",
+        "sentence":  "Both of the financing options have their own advantages."
     },
     {
         "pos":  "Verb",
@@ -3144,10 +3144,10 @@
         "sentence":  "I always keep a bottle of water on my desk at the office."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Bottom",
-        "translation":  "Adj.",
-        "sentence":  "Alt, dip"
+        "translation":  "Alt, dip",
+        "sentence":  "Please sign your name at the bottom of the evaluation form."
     },
     {
         "pos":  "Verb",
@@ -3210,10 +3210,10 @@
         "sentence":  "Our company is planning to open a new branch in İzmir."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Brand",
-        "translation":  "Verb",
-        "sentence":  "Marka"
+        "translation":  "Marka / Markalamak",
+        "sentence":  "We are trying to find a high-quality brand for the new raw materials."
     },
     {
         "pos":  "Adjective",
@@ -3234,10 +3234,10 @@
         "sentence":  "I usually buy fresh bread from the bakery near my house."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Break",
-        "translation":  "Noun",
-        "sentence":  "Kırmak"
+        "translation":  "Kırmak / Mola",
+        "sentence":  "Let\u0027s take a short break before we start the next session."
     },
     {
         "pos":  "Noun",
@@ -3348,10 +3348,10 @@
         "sentence":  "Most homes in the area now have high-speed broadband."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Broadcast",
-        "translation":  "Noun",
-        "sentence":  "Yayınlamak"
+        "translation":  "Yayınlamak / Yayın",
+        "sentence":  "The news was broadcast live from the scene of the accident."
     },
     {
         "pos":  "Noun",
@@ -3378,10 +3378,10 @@
         "sentence":  "My brother is also interested in investing in precious metals."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Brown",
-        "translation":  "Noun",
-        "sentence":  "Kahverengi"
+        "translation":  "Kahverengi",
+        "sentence":  "I prefer the brown leather case for my professional documents."
     },
     {
         "pos":  "Noun",
@@ -3390,10 +3390,10 @@
         "sentence":  "Which web browser do you usually use?"
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Brush",
-        "translation":  "Noun",
-        "sentence":  "Fırçalamak"
+        "translation":  "Fırçalamak / Fırça",
+        "sentence":  "Don\u0027t forget to brush your teeth twice a day for good health."
     },
     {
         "pos":  "Adjective",
@@ -3428,7 +3428,7 @@
     {
         "pos":  "Noun",
         "word":  "Buffer",
-        "translation":  "Tampon bölge/alan",
+        "translation":  "Tampon bölge / alan",
         "sentence":  "The trees act as a buffer against the noise from the highway."
     },
     {
@@ -3486,10 +3486,10 @@
         "sentence":  "The burial will take place in the local cemetery tomorrow."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Burn",
-        "translation":  "Noun",
-        "sentence":  "Yanmak"
+        "translation":  "Yanmak / Yanık",
+        "sentence":  "Be careful not to burn your hand on the hot machinery."
     },
     {
         "pos":  "Verb",
@@ -3534,10 +3534,10 @@
         "sentence":  "I was very busy today with the fifth-year evaluation note."
     },
     {
-        "pos":  "Conj.",
+        "pos":  "Prep.",
         "word":  "But",
-        "translation":  "Prep.",
-        "sentence":  "Ama"
+        "translation":  "Conj. / Ama / Haricinde",
+        "sentence":  "I like the new supplier, but their prices are a bit high."
     },
     {
         "pos":  "Noun",
@@ -3558,10 +3558,10 @@
         "sentence":  "I want to buy some more silver while the price is still low."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "By",
-        "translation":  "Adv.",
-        "sentence":  "Tarafından, ile"
+        "translation":  "Tarafından, ile",
+        "sentence":  "The report was written by the strategic sourcing team."
     },
     {
         "pos":  "Exclam.",
@@ -3612,16 +3612,16 @@
         "sentence":  "According to my calculations, we should have enough money."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Call",
-        "translation":  "Noun",
-        "sentence":  "Aramak"
+        "translation":  "Aramak / Çağrı",
+        "sentence":  "I\u0027ll call the airline to check the status of the next flight."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / V. / N.",
         "word":  "Calm",
-        "translation":  "V.",
-        "sentence":  "N."
+        "translation":  "Sakin / Sakinleştirmek",
+        "sentence":  "It is important to stay calm during difficult negotiations."
     },
     {
         "pos":  "Noun",
@@ -3630,16 +3630,16 @@
         "sentence":  "We use a high-quality camera to record videos for the kids\u0027 channel."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Camp",
-        "translation":  "Verb",
-        "sentence":  "Kamp"
+        "translation":  "Kamp / Kamp yapmak",
+        "sentence":  "We decided to camp near the lake during our summer holiday."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Campaign",
-        "translation":  "Verb",
-        "sentence":  "Kampanya"
+        "translation":  "Kampanya",
+        "sentence":  "The cost reduction campaign has been very successful so far."
     },
     {
         "pos":  "Noun",
@@ -3738,10 +3738,10 @@
         "sentence":  "The warehouse has the capacity to store all our raw materials."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj.",
         "word":  "Capital",
-        "translation":  "Adj.",
-        "sentence":  "Başkent, sermaye"
+        "translation":  "Başkent, sermaye",
+        "sentence":  "We need more capital to invest in the new palladium project."
     },
     {
         "pos":  "Noun",
@@ -3762,10 +3762,10 @@
         "sentence":  "The captain of the aircraft apologized for the delay."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Capture",
-        "translation":  "Noun",
-        "sentence":  "Yakalamak, ele geçirmek"
+        "translation":  "Yakalamak, ele geçirmek",
+        "sentence":  "We need to capture a larger share of the local market."
     },
     {
         "pos":  "Noun",
@@ -3786,10 +3786,10 @@
         "sentence":  "I used my credit card to pay for the English game materials."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Care",
-        "translation":  "Verb",
-        "sentence":  "İlgi, bakım"
+        "translation":  "İlgi, bakım / Önemsemek",
+        "sentence":  "You should take care when handling expensive metals like gold."
     },
     {
         "pos":  "Noun",
@@ -3876,10 +3876,10 @@
         "sentence":  "He lost a significant amount of money at the casino in Las Vegas."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Cast",
-        "translation":  "Verb",
-        "sentence":  "Oyuncu kadrosu"
+        "translation":  "Oyuncu kadrosu / Dökmek",
+        "sentence":  "The cast of the children\u0027s show includes several talented actors."
     },
     {
         "pos":  "Noun",
@@ -3912,10 +3912,10 @@
         "sentence":  "You can find all our products in the latest autumn catalog."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Catch",
-        "translation":  "Noun",
-        "sentence":  "Yakalamak"
+        "translation":  "Yakalamak",
+        "sentence":  "I hope to catch the next flight to İzmir at 9:50 PM."
     },
     {
         "pos":  "Noun",
@@ -3936,10 +3936,10 @@
         "sentence":  "The farmer has over two hundred head of cattle on his land."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Cause",
-        "translation":  "Verb",
-        "sentence":  "Neden"
+        "translation":  "Neden / Sebep olmak",
+        "sentence":  "The main cause of the price increase was the silver shortage."
     },
     {
         "pos":  "Noun",
@@ -4014,10 +4014,10 @@
         "sentence":  "The price of silver rose by a few cents this morning."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Center",
-        "translation":  "Verb",
-        "sentence":  "Merkez"
+        "translation":  "Merkez / Merkeze almak",
+        "sentence":  "The shopping center in İzmir is always crowded on weekends."
     },
     {
         "pos":  "Adjective",
@@ -4062,16 +4062,16 @@
         "sentence":  "You will receive a certificate after completing the training course."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Chain",
-        "translation":  "Verb",
-        "sentence":  "Zincir"
+        "translation":  "Zincir / Zincirlemek",
+        "sentence":  "Managing the supply chain is a key part of my daily work."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Chair",
-        "translation":  "Verb",
-        "sentence":  "Sandalye"
+        "translation":  "Sandalye / Başkanlık etmek",
+        "sentence":  "Please take a chair and wait for the manager in the lobby."
     },
     {
         "pos":  "Noun",
@@ -4080,10 +4080,10 @@
         "sentence":  "The chairman of the board announced the new cost-down goals."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Challenge",
-        "translation":  "Verb",
-        "sentence":  "Zorluk"
+        "translation":  "Zorluk / Meydan okumak",
+        "sentence":  "Reducing costs without sacrificing quality is a big challenge."
     },
     {
         "pos":  "Adjective",
@@ -4116,10 +4116,10 @@
         "sentence":  "This project gives me a chance to use my English skills."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Change",
-        "translation":  "Noun",
-        "sentence":  "Değiştirmek"
+        "translation":  "Değiştirmek / Değişim",
+        "sentence":  "We need to change our supplier to a more reliable firm."
     },
     {
         "pos":  "Noun",
@@ -4146,10 +4146,10 @@
         "sentence":  "The main character in the cartoon is a helpful little bear."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj.",
         "word":  "Characteristic",
-        "translation":  "Adj.",
-        "sentence":  "Özellik"
+        "translation":  "Özellik",
+        "sentence":  "High quality is a key characteristic of our final products."
     },
     {
         "pos":  "Verb",
@@ -4158,10 +4158,10 @@
         "sentence":  "High inflation and low growth characterize the current economy."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Charge",
-        "translation":  "Verb",
-        "sentence":  "Ücret"
+        "translation":  "Ücret / Şarj etmek",
+        "sentence":  "There is no extra charge for delivery from this supplier."
     },
     {
         "pos":  "Noun",
@@ -4182,10 +4182,10 @@
         "sentence":  "We stayed in a charming little cottage by the sea."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Chart",
-        "translation":  "Verb",
-        "sentence":  "Grafik"
+        "translation":  "Grafik / Çizelgelemek",
+        "sentence":  "This chart shows the price trend of gold over the last six months."
     },
     {
         "pos":  "Noun",
@@ -4200,28 +4200,28 @@
         "sentence":  "The police had to chase the suspect through the narrow streets."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Chat",
-        "translation":  "Noun",
-        "sentence":  "Sohbet etmek"
+        "translation":  "Sohbet etmek / Sohbet",
+        "sentence":  "Let\u0027s have a quick chat about the car financing options."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Cheap",
-        "translation":  "Adv.",
-        "sentence":  "Ucuz"
+        "translation":  "Ucuz",
+        "sentence":  "We are looking for cheap but high-quality alternative materials."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Cheat",
-        "translation":  "Noun",
-        "sentence":  "Aldatmak, hile yapmak"
+        "translation":  "Aldatmak, hile yapmak",
+        "sentence":  "It is wrong to cheat during an exam or a negotiation."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Check",
-        "translation":  "Noun",
-        "sentence":  "Kontrol etmek"
+        "translation":  "Kontrol etmek / Kontrol",
+        "sentence":  "Please check the weight of the gold holdings once more."
     },
     {
         "pos":  "Noun",
@@ -4254,10 +4254,10 @@
         "sentence":  "The chef at the restaurant prepared a special meal for us."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Chemical",
-        "translation":  "Noun",
-        "sentence":  "Kimyasal"
+        "translation":  "Kimyasal",
+        "sentence":  "We use several chemical substances in the production process."
     },
     {
         "pos":  "Noun",
@@ -4278,10 +4278,10 @@
         "sentence":  "We had grilled chicken and vegetables for dinner last night."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Chief",
-        "translation":  "Noun",
-        "sentence":  "Baş, şef"
+        "translation":  "Baş, şef",
+        "sentence":  "The chief procurement officer approved the cost reduction plan."
     },
     {
         "pos":  "Noun",
@@ -4356,10 +4356,10 @@
         "sentence":  "Smoking cigarettes is harmful to your health and the environment."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Circle",
-        "translation":  "Verb",
-        "sentence":  "Daire, çember"
+        "translation":  "Daire, çember",
+        "sentence":  "Please draw a circle around the correct answer on the form."
     },
     {
         "pos":  "Noun",
@@ -4434,10 +4434,10 @@
         "sentence":  "The Nile valley was the birthplace of an ancient civilization."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Claim",
-        "translation":  "Noun",
-        "sentence":  "İddia etmek"
+        "translation":  "İddia etmek / Talep",
+        "sentence":  "You can claim compensation for your canceled flight."
     },
     {
         "pos":  "Verb",
@@ -4464,10 +4464,10 @@
         "sentence":  "I am taking an evening class to improve my German."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Classic",
-        "translation":  "Noun",
-        "sentence":  "Klasik"
+        "translation":  "Klasik",
+        "sentence":  "\"The Great Gatsby\" is a classic novel that everyone should read."
     },
     {
         "pos":  "Adjective",
@@ -4500,16 +4500,16 @@
         "sentence":  "We need to add a new clause to the supplier agreement."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Verb",
         "word":  "Clean",
-        "translation":  "Verb",
-        "sentence":  "Temiz"
+        "translation":  "Temiz / Temizlemek",
+        "sentence":  "Please make sure the warehouse is clean and organized."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Verb",
         "word":  "Clear",
-        "translation":  "Verb",
-        "sentence":  "Net, açık"
+        "translation":  "Net, açık / Temizlemek",
+        "sentence":  "The manager\u0027s instructions were very clear and easy to follow."
     },
     {
         "pos":  "Adverb",
@@ -4530,10 +4530,10 @@
         "sentence":  "It was a clever idea to track celebrity social media trends."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Click",
-        "translation":  "Noun",
-        "sentence":  "Tıklamak"
+        "translation":  "Tıklamak / Tık",
+        "sentence":  "Click on the link to download the latest price list."
     },
     {
         "pos":  "Noun",
@@ -4554,10 +4554,10 @@
         "sentence":  "The Mediterranean climate in İzmir is warm and sunny."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Climb",
-        "translation":  "Noun",
-        "sentence":  "Tırmanmak"
+        "translation":  "Tırmanmak / Tırmanış",
+        "sentence":  "We decided to climb the hill to get a better view of the sea."
     },
     {
         "pos":  "Verb",
@@ -4580,7 +4580,7 @@
     {
         "pos":  "Noun",
         "word":  "Clip",
-        "translation":  "Klips, ataş, (film/video) kesit",
+        "translation":  "Klips, ataş, (film / video) kesit",
         "sentence":  "He used a paper clip to hold the documents together."
     },
     {
@@ -4590,16 +4590,16 @@
         "sentence":  "There is a large clock hanging on the wall of the office."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Close1",
-        "translation":  "Noun",
-        "sentence":  "Kapatmak"
+        "translation":  "Kapatmak / Kapanış",
+        "sentence":  "Please close the window before you leave the room."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Close2",
-        "translation":  "Adv.",
-        "sentence":  "Yakın"
+        "translation":  "Yakın",
+        "sentence":  "The hotel is very close to Sabiha Gökçen Airport."
     },
     {
         "pos":  "Adjective",
@@ -4668,10 +4668,10 @@
         "sentence":  "A cluster of fans waited outside the stadium for the players."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Coach",
-        "translation":  "Verb",
-        "sentence":  "Koç, antrenör"
+        "translation":  "Koç, antrenör / Eğitmek",
+        "sentence":  "Our team coach was very happy with the match results."
     },
     {
         "pos":  "Noun",
@@ -4746,10 +4746,10 @@
         "sentence":  "It was a complete coincidence that we met in Paris."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Cold",
-        "translation":  "Noun",
-        "sentence":  "Soğuk"
+        "translation":  "Soğuk",
+        "sentence":  "The cold weather in December made the trip difficult."
     },
     {
         "pos":  "Verb",
@@ -4764,10 +4764,10 @@
         "sentence":  "The new song was a collaboration between two famous singers."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Collapse",
-        "translation":  "Noun",
-        "sentence":  "Çökmek"
+        "translation":  "Çökmek / Çöküş",
+        "sentence":  "The old building began to collapse during the earthquake."
     },
     {
         "pos":  "Noun",
@@ -4884,10 +4884,10 @@
         "sentence":  "We watched a very funny comedy at the cinema last night."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Comfort",
-        "translation":  "Verb",
-        "sentence":  "Konfor, rahatlık"
+        "translation":  "Konfor, rahatlık / Rahatlatmak",
+        "sentence":  "The new office chairs provide a lot of comfort for the staff."
     },
     {
         "pos":  "Adjective",
@@ -4902,10 +4902,10 @@
         "sentence":  "He has a large collection of vintage comic books."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Command",
-        "translation":  "Verb",
-        "sentence":  "Emir"
+        "translation":  "Emir / Emretmek",
+        "sentence":  "He has a good command of both English and German."
     },
     {
         "pos":  "Noun",
@@ -4920,10 +4920,10 @@
         "sentence":  "The graduation ceremony will commence at ten o\u0027clock."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Comment",
-        "translation":  "Verb",
-        "sentence":  "Yorum"
+        "translation":  "Yorum / Yorum yapmak",
+        "sentence":  "Please leave a comment on the draft version of the report."
     },
     {
         "pos":  "Noun",
@@ -4944,16 +4944,16 @@
         "sentence":  "The city has been a center of commerce for centuries."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Commercial",
-        "translation":  "Noun",
-        "sentence":  "Ticari"
+        "translation":  "Ticari / Reklam",
+        "sentence":  "The company is planning a new commercial for the car financing path."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Commission",
-        "translation":  "Verb",
-        "sentence":  "Komisyon"
+        "translation":  "Komisyon / Atamak",
+        "sentence":  "The agent will receive a small commission for the sale."
     },
     {
         "pos":  "Noun",
@@ -5148,10 +5148,10 @@
         "sentence":  "The red wine will complement the flavor of the meat perfectly."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Verb",
         "word":  "Complete",
-        "translation":  "Verb",
-        "sentence":  "Tam, tamam"
+        "translation":  "Tam, tamam / Tamamlamak",
+        "sentence":  "I will complete the self-evaluation note by the end of the day."
     },
     {
         "pos":  "Adverb",
@@ -5166,10 +5166,10 @@
         "sentence":  "The project is nearing completion after two years of work."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Complex",
-        "translation":  "Noun",
-        "sentence":  "Karmaşık"
+        "translation":  "Karmaşık / Yerleşke",
+        "sentence":  "Strategic sourcing involves many complex calculations and decisions."
     },
     {
         "pos":  "Noun",
@@ -5310,10 +5310,10 @@
         "sentence":  "My conception of the project was quite different from yours."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Concern",
-        "translation":  "Verb",
-        "sentence":  "Endişe"
+        "translation":  "Endişe / İlgilendirmek",
+        "sentence":  "The rising price of palladium is a major concern for us."
     },
     {
         "pos":  "Adjective",
@@ -5364,10 +5364,10 @@
         "sentence":  "The raw materials arrived at the warehouse in perfect condition."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Conduct",
-        "translation":  "Noun",
-        "sentence":  "Yürütmek"
+        "translation":  "Yürütmek / Davranış",
+        "sentence":  "We need to conduct a detailed analysis of the alternative firm."
     },
     {
         "pos":  "Verb",
@@ -5430,10 +5430,10 @@
         "sentence":  "We are still waiting for confirmation of the flight time."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Conflict",
-        "translation":  "Verb",
-        "sentence":  "Çatışma"
+        "translation":  "Çatışma / Çelişmek",
+        "sentence":  "There is a conflict between the two reports regarding the gold weight."
     },
     {
         "pos":  "Verb",
@@ -5574,10 +5574,10 @@
         "sentence":  "The organization is dedicated to the conservation of wildlife."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Conservative",
-        "translation":  "Noun",
-        "sentence":  "Muhafazakar, tutucu"
+        "translation":  "Muhafazakar, tutucu",
+        "sentence":  "He prefers a conservative approach to investing in precious metals."
     },
     {
         "pos":  "Verb",
@@ -5730,10 +5730,10 @@
         "sentence":  "The country\u0027s energy consumption has increased significantly."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Contact",
-        "translation":  "Verb",
-        "sentence":  "İletişim"
+        "translation":  "İletişim / Temas kurmak",
+        "sentence":  "I will contact the airline to claim compensation for the canceled flight."
     },
     {
         "pos":  "Verb",
@@ -5796,10 +5796,10 @@
         "sentence":  "It is my contention that the plan will not work."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Contest",
-        "translation":  "Verb",
-        "sentence":  "Yarışma"
+        "translation":  "Yarışma",
+        "sentence":  "He entered a photography contest with his photos of İzmir."
     },
     {
         "pos":  "Noun",
@@ -5832,10 +5832,10 @@
         "sentence":  "Continuous improvement is one of the core values of our company."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Contract",
-        "translation":  "Verb",
-        "sentence":  "Sözleşme"
+        "translation":  "Sözleşme / Kısıalmak",
+        "sentence":  "We need to review every clause in the contract before signing."
     },
     {
         "pos":  "Noun",
@@ -5856,10 +5856,10 @@
         "sentence":  "Contrary to popular belief, the desert can be very cold at night."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Contrast",
-        "translation":  "Verb",
-        "sentence":  "Karşıtlık"
+        "translation":  "Karşıtlık / Karşılaştırmak",
+        "sentence":  "In contrast to gold, silver prices have been very volatile lately."
     },
     {
         "pos":  "Verb",
@@ -5876,14 +5876,14 @@
     {
         "pos":  "Noun",
         "word":  "Contributor",
-        "translation":  "Katkıda bulunan kişi/yazar",
+        "translation":  "Katkıda bulunan kişi / yazar",
         "sentence":  "He is a regular contributor to several medical journals."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Control",
-        "translation":  "Verb",
-        "sentence":  "Kontrol"
+        "translation":  "Kontrol / Kontrol etmek",
+        "sentence":  "We need to maintain strict control over the warehouse inventory."
     },
     {
         "pos":  "Adjective",
@@ -5976,10 +5976,10 @@
         "sentence":  "He provided a very convincing explanation for his absence."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Cook",
-        "translation":  "Noun",
-        "sentence":  "Yemek pişirmek"
+        "translation":  "Yemek pişirmek / Aşçı",
+        "sentence":  "I like to cook traditional Turkish dishes for my family on Sundays."
     },
     {
         "pos":  "Noun",
@@ -5994,10 +5994,10 @@
         "sentence":  "Cooking is a great way to relieve stress after a long work week."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Verb",
         "word":  "Cool",
-        "translation":  "Verb",
-        "sentence":  "Serin, havalı"
+        "translation":  "Serin, havalı / Soğutmak",
+        "sentence":  "The weather in İzmir is quite cool this evening."
     },
     {
         "pos":  "Verb",
@@ -6048,10 +6048,10 @@
         "sentence":  "The pipes in the old house were made of copper."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Copy",
-        "translation":  "Verb",
-        "sentence":  "Kopya"
+        "translation":  "Kopya / Kopyalamak",
+        "sentence":  "Please make a copy of the signed supplier agreement for our files."
     },
     {
         "pos":  "Noun",
@@ -6060,10 +6060,10 @@
         "sentence":  "The author holds the copyright to all her books."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Core",
-        "translation":  "Adj.",
-        "sentence":  "Çekirdek, ana"
+        "translation":  "Çekirdek, ana",
+        "sentence":  "Cost reduction is a core part of my responsibilities at the firm."
     },
     {
         "pos":  "Noun",
@@ -6090,10 +6090,10 @@
         "sentence":  "He works for a multinational corporation."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Verb",
         "word":  "Correct",
-        "translation":  "Verb",
-        "sentence":  "Doğru"
+        "translation":  "Doğru / Düzeltmek",
+        "sentence":  "Is this the correct calculation for the total weight of the gold?"
     },
     {
         "pos":  "Noun",
@@ -6162,10 +6162,10 @@
         "sentence":  "The government has promised to fight corruption at all levels."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Cost",
-        "translation":  "Verb",
-        "sentence":  "Maliyet"
+        "translation":  "Maliyet / Maliyeti olmak",
+        "sentence":  "We are doing a study to find the actual cost of the raw materials."
     },
     {
         "pos":  "Adjective",
@@ -6216,10 +6216,10 @@
         "sentence":  "The school counselor helps students with their problems."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Count",
-        "translation":  "Noun",
-        "sentence":  "Saymak"
+        "translation":  "Saymak / Sayı",
+        "sentence":  "Don\u0027t forget to count the gram gold pieces one more time."
     },
     {
         "pos":  "Noun",
@@ -6306,10 +6306,10 @@
         "sentence":  "My cousin is helping me with the digital content for the kids\u0027 channel."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Cover",
-        "translation":  "Noun",
-        "sentence":  "Kaplamak, örtmek"
+        "translation":  "Kaplamak, örtmek / Kapak",
+        "sentence":  "Does the insurance cover the cancellation of the flight?"
     },
     {
         "pos":  "Noun",
@@ -6348,10 +6348,10 @@
         "sentence":  "She is learning the craft of traditional weaving."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Crash",
-        "translation":  "Verb",
-        "sentence":  "Çarpışma, çökme"
+        "translation":  "Çarpışma, çökme",
+        "sentence":  "I lost my unsaved data when the computer managed to crash."
     },
     {
         "pos":  "Verb",
@@ -6366,10 +6366,10 @@
         "sentence":  "The volatility in palladium prices lately is absolutely crazy."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Cream",
-        "translation":  "Adj.",
-        "sentence":  "Krema, krem rengi"
+        "translation":  "Krema, krem rengi",
+        "sentence":  "I prefer my coffee with a little bit of cream and no sugar."
     },
     {
         "pos":  "Verb",
@@ -6420,10 +6420,10 @@
         "sentence":  "The police are looking for a credible witness to the accident."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Credit",
-        "translation":  "Verb",
-        "sentence":  "Kredi"
+        "translation":  "Kredi",
+        "sentence":  "I am comparing the credit terms of the two car financing options."
     },
     {
         "pos":  "Verb",
@@ -6444,10 +6444,10 @@
         "sentence":  "Financial fraud is a serious crime that we must guard against."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Criminal",
-        "translation":  "Adj.",
-        "sentence":  "Suçlu"
+        "translation":  "Suçlu / Sabıkalı",
+        "sentence":  "The authorities are investigating the criminal activity in the market."
     },
     {
         "pos":  "Noun",
@@ -6504,10 +6504,10 @@
         "sentence":  "The wheat crop was affected by the lack of rain this spring."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Cross",
-        "translation":  "Noun",
-        "sentence":  "Karşıya geçmek"
+        "translation":  "Karşıya geçmek / Haç",
+        "sentence":  "Be careful when you cross the busy street in front of the office."
     },
     {
         "pos":  "Noun",
@@ -6558,10 +6558,10 @@
         "sentence":  "Be careful not to crush the flowers."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Cry",
-        "translation":  "Noun",
-        "sentence":  "Ağlamak"
+        "translation":  "Ağlamak / Çığlık",
+        "sentence":  "The baby started to cry when the plane finally landed in İzmir."
     },
     {
         "pos":  "Noun",
@@ -6612,10 +6612,10 @@
         "sentence":  "I found the alternative material samples in the storage cupboard."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Cure",
-        "translation":  "Noun",
-        "sentence":  "İyileştirmek"
+        "translation":  "İyileştirmek / Tedavi",
+        "sentence":  "Scientists are working hard to find a cure for the disease."
     },
     {
         "pos":  "Noun",
@@ -6642,10 +6642,10 @@
         "sentence":  "We need to check the current currency exchange rates for the deal."
     },
     {
-        "pos":  "Adjective",
+        "pos":  "Adjective / Noun",
         "word":  "Current",
-        "translation":  "Noun",
-        "sentence":  "Mevcut, güncel"
+        "translation":  "Mevcut, güncel / Akım",
+        "sentence":  "The current price of silver is much higher than last month."
     },
     {
         "pos":  "Adverb",
@@ -6666,10 +6666,10 @@
         "sentence":  "We chose light blue curtains for the new office windows."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Curve",
-        "translation":  "Verb",
-        "sentence":  "Eğri"
+        "translation":  "Eğri / Kıvırmak",
+        "sentence":  "The curve on the graph shows a steady increase in gold value."
     },
     {
         "pos":  "Adjective",
@@ -6696,10 +6696,10 @@
         "sentence":  "Our goal is to provide high-quality products to every customer."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Cut",
-        "translation":  "Noun",
-        "sentence":  "Kesmek"
+        "translation":  "Kesmek / Kesik",
+        "sentence":  "We managed to cut costs by switching to an alternative supplier."
     },
     {
         "pos":  "Adjective",
@@ -6714,10 +6714,10 @@
         "sentence":  "She kept a cutting of the newspaper article."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Cycle",
-        "translation":  "Verb",
-        "sentence":  "Döngü"
+        "translation":  "Döngü / Bisiklet sürmek",
+        "sentence":  "The business cycle affects the demand for raw materials."
     },
     {
         "pos":  "Adjective",
@@ -6732,10 +6732,10 @@
         "sentence":  "I asked my dad for his opinion on the car financing plan."
     },
     {
-        "pos":  "Adjective",
+        "pos":  "Adjective / Adv.",
         "word":  "Daily",
-        "translation":  "Adv.",
-        "sentence":  "Günlük"
+        "translation":  "Günlük",
+        "sentence":  "I check the precious metal prices on a daily basis."
     },
     {
         "pos":  "Noun / Adjective",
@@ -6750,10 +6750,10 @@
         "sentence":  "The new dam will provide electricity for the whole region."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Damage",
-        "translation":  "Verb",
-        "sentence":  "Hasar"
+        "translation":  "Hasar / Hasar vermek",
+        "sentence":  "The storm managed to damage some of the stock in the warehouse."
     },
     {
         "pos":  "Adjective",
@@ -6762,10 +6762,10 @@
         "sentence":  "Smoking is extremely damaging to your health."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Dance",
-        "translation":  "Verb",
-        "sentence":  "Dans"
+        "translation":  "Dans / Dans etmek",
+        "sentence":  "The kids on the YouTube channel will learn a fun new dance."
     },
     {
         "pos":  "Noun",
@@ -6798,10 +6798,10 @@
         "sentence":  "I wouldn\u0027t dare to ask him such a personal question."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Dark",
-        "translation":  "Noun",
-        "sentence":  "Karanlık"
+        "translation":  "Karanlık",
+        "sentence":  "It was already dark by the time I finished the self-evaluation."
     },
     {
         "pos":  "Noun",
@@ -6822,10 +6822,10 @@
         "sentence":  "The company keeps all its customer records in a large database."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Date",
-        "translation":  "Verb",
-        "sentence":  "Tarih"
+        "translation":  "Tarih / Tarih atmak",
+        "sentence":  "What is the exact date of your fifth work anniversary?"
     },
     {
         "pos":  "Noun",
@@ -6864,10 +6864,10 @@
         "sentence":  "Some species of spiders are extremely deadly."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Deal",
-        "translation":  "Noun",
-        "sentence":  "İlgilenmek"
+        "translation":  "İlgilenmek / Anlaşma",
+        "sentence":  "We managed to close a great deal with the alternative firm."
     },
     {
         "pos":  "Noun",
@@ -6888,10 +6888,10 @@
         "sentence":  "The news of the founder\u0027s death was a shock to everyone at the firm."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Debate",
-        "translation":  "Verb",
-        "sentence":  "Tartışma"
+        "translation":  "Tartışma / Tartışmak",
+        "sentence":  "There is an ongoing debate about the future of palladium prices."
     },
     {
         "pos":  "Noun",
@@ -6972,10 +6972,10 @@
         "sentence":  "You must declare any valuable items at the airport customs."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Decline",
-        "translation":  "Noun",
-        "sentence":  "Reddetmek, düşmek"
+        "translation":  "Reddetmek, düşmek / Düşüş",
+        "sentence":  "We saw a slight decline in silver prices early this morning."
     },
     {
         "pos":  "Verb",
@@ -6990,10 +6990,10 @@
         "sentence":  "The decoration of the children\u0027s YouTube set looks very colorful."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Decrease",
-        "translation":  "Noun",
-        "sentence":  "Azaltmak"
+        "translation":  "Azaltmak / Azalış",
+        "sentence":  "Our main goal is to decrease the cost of production materials."
     },
     {
         "pos":  "Adjective",
@@ -7020,10 +7020,10 @@
         "sentence":  "The bridge was deemed unsafe and was closed to traffic."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Deep",
-        "translation":  "Adv.",
-        "sentence":  "Derin"
+        "translation":  "Derin",
+        "sentence":  "He has a deep understanding of the strategic sourcing process."
     },
     {
         "pos":  "Adverb",
@@ -7038,10 +7038,10 @@
         "sentence":  "The system will use the default settings if you don\u0027t change them."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Defeat",
-        "translation":  "Noun",
-        "sentence":  "Yenmek"
+        "translation":  "Yenmek / Yenilgi",
+        "sentence":  "The team worked hard to defeat the competitor in the market."
     },
     {
         "pos":  "Noun",
@@ -7122,10 +7122,10 @@
         "sentence":  "He has a university degree in strategic sourcing and logistics."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Delay",
-        "translation":  "Noun",
-        "sentence":  "Geciktirmek"
+        "translation":  "Geciktirmek / Gecikme",
+        "sentence":  "The flight cancellation caused a major delay in my schedule."
     },
     {
         "pos":  "Noun",
@@ -7188,10 +7188,10 @@
         "sentence":  "Please track the delivery of the new silver bars carefully."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Demand",
-        "translation":  "Verb",
-        "sentence":  "Talep"
+        "translation":  "Talep / Talep etmek",
+        "sentence":  "There is a high demand for educational content for young kids."
     },
     {
         "pos":  "Noun",
@@ -7386,10 +7386,10 @@
         "sentence":  "Please provide a brief description of your work tasks for the note."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Desert",
-        "translation":  "Verb",
-        "sentence":  "Çöl"
+        "translation":  "Çöl / Firar etmek, terk etmek",
+        "sentence":  "The landscape was as dry and empty as a vast desert."
     },
     {
         "pos":  "Verb",
@@ -7398,10 +7398,10 @@
         "sentence":  "After five years of hard work, you deserve a good promotion."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Design",
-        "translation":  "Verb",
-        "sentence":  "Tasarım"
+        "translation":  "Tasarım / Tasarlamak",
+        "sentence":  "I am working on the design for the kids\u0027 YouTube channel logo."
     },
     {
         "pos":  "Verb",
@@ -7422,10 +7422,10 @@
         "sentence":  "A good knowledge of English is highly desirable for this job."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Desire",
-        "translation":  "Verb",
-        "sentence":  "Arzu, istek"
+        "translation":  "Arzu, istek / Arzu etmek",
+        "sentence":  "He has a strong desire to succeed in the field of asset management."
     },
     {
         "pos":  "Noun",
@@ -7488,10 +7488,10 @@
         "sentence":  "The storm was very destructive, damaging many homes."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Detail",
-        "translation":  "Verb",
-        "sentence":  "Detay"
+        "translation":  "Detay / Detaylandırmak",
+        "sentence":  "Please pay close attention to every detail in the silver calculation."
     },
     {
         "pos":  "Adjective",
@@ -7770,10 +7770,10 @@
         "sentence":  "The two nations are trying to find a diplomatic solution to the conflict."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Verb",
         "word":  "Direct",
-        "translation":  "Verb",
-        "sentence":  "Doğrudan"
+        "translation":  "Doğrudan / Yönetmek",
+        "sentence":  "We want to establish direct communication with the manufacturer."
     },
     {
         "pos":  "Noun",
@@ -7914,10 +7914,10 @@
         "sentence":  "The disclosure of the secret documents caused a major scandal."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Discount",
-        "translation":  "Verb",
-        "sentence":  "İndirim"
+        "translation":  "İndirim / İndirim yapmak",
+        "sentence":  "The firm offered us a 5% discount for the bulk silver order."
     },
     {
         "pos":  "Verb",
@@ -7992,10 +7992,10 @@
         "sentence":  "Please save the backup of the sourcing data on an external disk."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Dislike",
-        "translation":  "Noun",
-        "sentence":  "Sevmemek"
+        "translation":  "Sevmemek / Hoşlanmama",
+        "sentence":  "I dislike it when suppliers change their terms at the last minute."
     },
     {
         "pos":  "Verb",
@@ -8022,10 +8022,10 @@
         "sentence":  "The building of the dam will displace thousands of local residents."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Display",
-        "translation":  "Noun",
-        "sentence":  "Sergilemek"
+        "translation":  "Sergilemek / Ekran",
+        "sentence":  "The monitor will display the real-time value of your gold holdings."
     },
     {
         "pos":  "Noun",
@@ -8172,10 +8172,10 @@
         "sentence":  "Traffic had to be diverted because of a serious accident."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Divide",
-        "translation":  "Noun",
-        "sentence":  "Bölmek"
+        "translation":  "Bölmek / Bölünme",
+        "sentence":  "We should divide the cost reduction goals into monthly targets."
     },
     {
         "pos":  "Adjective",
@@ -8220,10 +8220,10 @@
         "sentence":  "The government\u0027s economic doctrine is based on free trade."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Document",
-        "translation":  "Verb",
-        "sentence":  "Doküman"
+        "translation":  "Doküman / Belgelemek",
+        "sentence":  "Please document every step of the cost-down study carefully."
     },
     {
         "pos":  "Noun",
@@ -8316,58 +8316,58 @@
         "sentence":  "He drew a small red dot in the center of the circle."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / V. / Adv.",
         "word":  "Double",
-        "translation":  "V.",
-        "sentence":  "Adv."
+        "translation":  "Çift, iki kat / Katlamak",
+        "sentence":  "We hope to double our savings through alternative sourcing."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Doubt",
-        "translation":  "Verb",
-        "sentence":  "Şüphe"
+        "translation":  "Şüphe / Şüphe duymak",
+        "sentence":  "There is no doubt that silver value will increase in the long run."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Prep.",
         "word":  "Down",
-        "translation":  "Prep.",
-        "sentence":  "Aşağı"
+        "translation":  "Aşağı",
+        "sentence":  "Raw material prices went down slightly after the announcement."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Download",
-        "translation":  "Noun",
-        "sentence":  "İndirmek"
+        "translation":  "İndirmek / İndirme",
+        "sentence":  "You can download the car financing comparison table from the link."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Adj.",
         "word":  "Downstairs",
-        "translation":  "Adj.",
-        "sentence":  "Alt kat"
+        "translation":  "Alt kat",
+        "sentence":  "The procurement team\u0027s office is located downstairs."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Noun",
         "word":  "Downtown",
-        "translation":  "Noun",
-        "sentence":  "Şehir merkezi"
+        "translation":  "Şehir merkezi",
+        "sentence":  "I prefer living downtown in İzmir to be close to everything."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Downward",
-        "translation":  "Adv.",
-        "sentence":  "Aşağıya doğru"
+        "translation":  "Aşağıya doğru",
+        "sentence":  "The downward trend in costs is a positive sign for the firm."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Det.",
         "word":  "Dozen",
-        "translation":  "Det.",
-        "sentence":  "Düzine"
+        "translation":  "Düzine",
+        "sentence":  "We ordered a dozen new safety helmets for the warehouse staff."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Draft",
-        "translation":  "Verb",
-        "sentence":  "Taslak"
+        "translation":  "Taslak / Taslağını hazırlamak",
+        "sentence":  "I am writing the first draft of my five-year performance review."
     },
     {
         "pos":  "Verb",
@@ -8412,16 +8412,16 @@
         "sentence":  "The drawing shows the layout of the new factory in İzmir."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Dream",
-        "translation":  "Verb",
-        "sentence":  "Rüya, hayal"
+        "translation":  "Rüya, hayal / Hayal kurmak",
+        "sentence":  "My dream is to travel around the world after I retire."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Dress",
-        "translation":  "Verb",
-        "sentence":  "Elbise"
+        "translation":  "Elbise / Giyinmek",
+        "sentence":  "You should dress formally for the work anniversary dinner."
     },
     {
         "pos":  "Adjective",
@@ -8436,16 +8436,16 @@
         "sentence":  "The boat began to drift slowly out to sea."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Drink",
-        "translation":  "Verb",
-        "sentence":  "İçecek"
+        "translation":  "İçecek / İçmek",
+        "sentence":  "What is your favorite drink to have with dinner in İzmir?"
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Drive",
-        "translation":  "Noun",
-        "sentence":  "Sürmek"
+        "translation":  "Sürmek / Sürüş",
+        "sentence":  "It takes about forty minutes to drive from my home to the office."
     },
     {
         "pos":  "Noun",
@@ -8466,10 +8466,10 @@
         "sentence":  "Driving in İzmir can be a bit challenging during rush hour."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Drop",
-        "translation":  "Noun",
-        "sentence":  "Düşürmek"
+        "translation":  "Düşürmek / Düşüş",
+        "sentence":  "We expect a significant drop in raw material costs this quarter."
     },
     {
         "pos":  "Noun",
@@ -8502,10 +8502,10 @@
         "sentence":  "It is illegal and dangerous to drive a car while drunk."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Verb",
         "word":  "Dry",
-        "translation":  "Verb",
-        "sentence":  "Kuru"
+        "translation":  "Kuru / Kurulamak",
+        "sentence":  "Ensure the alternative material samples are kept in a dry place."
     },
     {
         "pos":  "Adjective",
@@ -8586,10 +8586,10 @@
         "sentence":  "She is a dynamic leader who inspires everyone in the team."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron.",
         "word":  "Each",
-        "translation":  "Pron.",
-        "sentence":  "Her biri"
+        "translation":  "Her biri",
+        "sentence":  "Each alternative firm must be evaluated based on quality and cost."
     },
     {
         "pos":  "Adjective",
@@ -8604,10 +8604,10 @@
         "sentence":  "I use my headphones to protect my ears from the loud noise in the factory."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Early",
-        "translation":  "Adv.",
-        "sentence":  "Erken"
+        "translation":  "Erken",
+        "sentence":  "I arrived at Sabiha Gökçen early to avoid the morning rush."
     },
     {
         "pos":  "Verb",
@@ -8646,10 +8646,10 @@
         "sentence":  "You can easily calculate the total gold weight using a digital scale."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj. / Adv.",
         "word":  "East",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Doğu",
+        "sentence":  "The sunrise over the east side of İzmir is absolutely beautiful."
     },
     {
         "pos":  "Adjective",
@@ -8844,10 +8844,10 @@
         "sentence":  "We managed to save eighty thousand dollars this year."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron.",
         "word":  "Either",
-        "translation":  "Pron.",
-        "sentence":  "Ya da, ikisinden biri"
+        "translation":  "Ya da, ikisinden biri",
+        "sentence":  "You can choose either the Birevim plan or a traditional bank loan."
     },
     {
         "pos":  "Adjective",
@@ -8988,10 +8988,10 @@
         "sentence":  "If we can\u0027t find the material here, we will look elsewhere."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Email",
-        "translation":  "Verb",
-        "sentence":  "E-posta"
+        "translation":  "E-posta / E-posta göndermek",
+        "sentence":  "I will email you the final list of German fruits and vegetables."
     },
     {
         "pos":  "Verb",
@@ -9138,10 +9138,10 @@
         "sentence":  "The program aims to empower young women in the workplace."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Verb",
         "word":  "Empty",
-        "translation":  "Verb",
-        "sentence":  "Boş"
+        "translation":  "Boş / Boşaltmak",
+        "sentence":  "Please don\u0027t leave the empty boxes in the middle of the hallway."
     },
     {
         "pos":  "Verb",
@@ -9162,10 +9162,10 @@
         "sentence":  "The course is designed to encompass all aspects of modern history."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Encounter",
-        "translation":  "Noun",
-        "sentence":  "Karşılaşmak"
+        "translation":  "Karşılaşmak / Karşılaşma",
+        "sentence":  "We might encounter some problems with the flight refund."
     },
     {
         "pos":  "Verb",
@@ -9186,10 +9186,10 @@
         "sentence":  "The recent sales figures are very encouraging for the company."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "End",
-        "translation":  "Verb",
-        "sentence":  "Son"
+        "translation":  "Son / Bitirmek",
+        "sentence":  "By the end of the year, we will reach our cost reduction targets."
     },
     {
         "pos":  "Noun",
@@ -9318,10 +9318,10 @@
         "sentence":  "Switching to this firm saved us an enormous amount of money."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron. / Adv.",
         "word":  "Enough",
-        "translation":  "Pron.",
-        "sentence":  "Adv."
+        "translation":  "Yeterli",
+        "sentence":  "We have enough silver in stock for the next three months."
     },
     {
         "pos":  "Verb",
@@ -9468,10 +9468,10 @@
         "sentence":  "The first episode of the kids\u0027 channel will be about animals."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / V. / N.",
         "word":  "Equal",
-        "translation":  "V.",
-        "sentence":  "N."
+        "translation":  "Eşit / Eşitlemek",
+        "sentence":  "The benefits of the two car plans are almost equal."
     },
     {
         "pos":  "Noun",
@@ -9540,10 +9540,10 @@
         "sentence":  "The conflict began to escalate as more troops were sent to the border."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Escape",
-        "translation":  "Noun",
-        "sentence":  "Kaçmak"
+        "translation":  "Kaçmak / Kaçış",
+        "sentence":  "I like to go to the coast to escape the stress of the city."
     },
     {
         "pos":  "Adverb",
@@ -9594,10 +9594,10 @@
         "sentence":  "He works for a real estate agency in the center of İzmir."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Estimate",
-        "translation":  "Noun",
-        "sentence":  "Tahmin etmek"
+        "translation":  "Tahmin etmek / Tahmin",
+        "sentence":  "Can you estimate the total cost of the alternative materials?"
     },
     {
         "pos":  "Adjective",
@@ -9648,10 +9648,10 @@
         "sentence":  "The teacher gave a positive evaluation of the student\u0027s progress."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Adj.",
         "word":  "Even",
-        "translation":  "Adj.",
-        "sentence":  "Bile"
+        "translation":  "Bile / Çift (sayı)",
+        "sentence":  "Even with the discount, the price of silver is still quite high."
     },
     {
         "pos":  "Noun",
@@ -9726,10 +9726,10 @@
         "sentence":  "It was evident that he was not telling the truth."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Evil",
-        "translation":  "Noun",
-        "sentence":  "Kötü, fena"
+        "translation":  "Kötü, fena / Kötülük",
+        "sentence":  "The villain in the children\u0027s story is not really evil, just lonely."
     },
     {
         "pos":  "Verb",
@@ -9818,8 +9818,8 @@
     {
         "pos":  "Prep.",
         "word":  "Except",
-        "translation":  "Conj.",
-        "sentence":  "Hariç"
+        "translation":  "Conj. / Hariç",
+        "sentence":  "Everyone was at the meeting except for the sourcing manager."
     },
     {
         "pos":  "Noun",
@@ -9846,10 +9846,10 @@
         "sentence":  "Excessive drinking can lead to serious health problems."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Exchange",
-        "translation":  "Verb",
-        "sentence":  "Değişim"
+        "translation":  "Değişim / Takas etmek",
+        "sentence":  "The exchange rate for the dollar is quite high today."
     },
     {
         "pos":  "Adjective",
@@ -9894,10 +9894,10 @@
         "sentence":  "This room is used exclusively for private meetings."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Excuse",
-        "translation":  "Verb",
-        "sentence":  "Mazeret"
+        "translation":  "Mazeret / Affetmek",
+        "sentence":  "There is no excuse for missing the deadline for the sourcing report."
     },
     {
         "pos":  "Verb",
@@ -9912,16 +9912,16 @@
         "sentence":  "The execution of the plan was delayed by several weeks."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Executive",
-        "translation":  "Adj.",
-        "sentence":  "Yönetici"
+        "translation":  "Yönetici / Yönetsel",
+        "sentence":  "The executive team approved the plan for alternative materials."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Exercise",
-        "translation":  "Verb",
-        "sentence":  "Egzersiz"
+        "translation":  "Egzersiz / Alıştırma yapmak",
+        "sentence":  "You should exercise regularly to stay healthy and focused."
     },
     {
         "pos":  "Verb",
@@ -9930,10 +9930,10 @@
         "sentence":  "You need to exert more pressure to open the door."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Exhibit",
-        "translation":  "Noun",
-        "sentence":  "Sergilemek"
+        "translation":  "Sergilemek / Sergi",
+        "sentence":  "The museum in İzmir will exhibit ancient gold coins next month."
     },
     {
         "pos":  "Noun",
@@ -9960,10 +9960,10 @@
         "sentence":  "The existence of the new firm was only discovered last week."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Exit",
-        "translation":  "Verb",
-        "sentence":  "Çıkış"
+        "translation":  "Çıkış / Çıkmak",
+        "sentence":  "Turn right at the next exit to reach the factory entrance."
     },
     {
         "pos":  "Adjective",
@@ -10026,10 +10026,10 @@
         "sentence":  "Silver is much less expensive than gold or palladium."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Experience",
-        "translation":  "Verb",
-        "sentence":  "Deneyim"
+        "translation":  "Deneyim / Deneyimlemek",
+        "sentence":  "I have four years of experience in strategic sourcing."
     },
     {
         "pos":  "Adjective",
@@ -10038,10 +10038,10 @@
         "sentence":  "We need an experienced person to manage the alternative firm."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Experiment",
-        "translation":  "Verb",
-        "sentence":  "Deney"
+        "translation":  "Deney / Deney yapmak",
+        "sentence":  "The production team is running an experiment with the new material."
     },
     {
         "pos":  "Adjective",
@@ -10050,10 +10050,10 @@
         "sentence":  "The new drug is still in the experimental stage."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Expert",
-        "translation":  "Adj.",
-        "sentence":  "Uzman"
+        "translation":  "Uzman",
+        "sentence":  "He is an expert in analyzing football match betting options."
     },
     {
         "pos":  "Noun",
@@ -10134,10 +10134,10 @@
         "sentence":  "Dynamite is a powerful chemical explosive."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Export",
-        "translation":  "Verb",
-        "sentence":  "İhracat"
+        "translation":  "İhracat / İhraç etmek",
+        "sentence":  "Our firm aims to export more products to the German market."
     },
     {
         "pos":  "Verb",
@@ -10200,10 +10200,10 @@
         "sentence":  "We hired an external consultant to review our cost reduction plan."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / N. / Adv.",
         "word":  "Extra",
-        "translation":  "N.",
-        "sentence":  "Adv."
+        "translation":  "Ekstra, fazladan",
+        "sentence":  "I am doing some extra work to prepare for the kids\u0027 channel."
     },
     {
         "pos":  "Noun / Verb",
@@ -10218,10 +10218,10 @@
         "sentence":  "The growth of the firm over the last five years has been extraordinary."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Extreme",
-        "translation":  "Noun",
-        "sentence":  "Aşırı, uç"
+        "translation":  "Aşırı, uç",
+        "sentence":  "The extreme heat in the factory can be quite uncomfortable."
     },
     {
         "pos":  "Adverb",
@@ -10254,10 +10254,10 @@
         "sentence":  "We had a fabulous time at the party last night."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Face",
-        "translation":  "Verb",
-        "sentence":  "Yüz"
+        "translation":  "Yüz / Yüzleşmek",
+        "sentence":  "We must face the challenge of rising raw material costs."
     },
     {
         "pos":  "Verb",
@@ -10356,10 +10356,10 @@
         "sentence":  "He was caught trying to use a fake passport."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Fall",
-        "translation":  "Noun",
-        "sentence":  "Düşmek"
+        "translation":  "Düşmek / Düşüş, sonbahar",
+        "sentence":  "Prices of palladium might fall after the initial market shock."
     },
     {
         "pos":  "Adjective",
@@ -10380,10 +10380,10 @@
         "sentence":  "I am very familiar with the strategic sourcing terminology."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Family",
-        "translation":  "Adj.",
-        "sentence":  "Aile"
+        "translation":  "Aile / Ailesel",
+        "sentence":  "I\u0027m planning to visit my family in İzmir after the work week."
     },
     {
         "pos":  "Adjective",
@@ -10416,10 +10416,10 @@
         "sentence":  "The book is a work of pure fantasy."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Adj.",
         "word":  "Far",
-        "translation":  "Adj.",
-        "sentence":  "Uzak"
+        "translation":  "Uzak",
+        "sentence":  "The factory is not very far from the city center of İzmir."
     },
     {
         "pos":  "Noun",
@@ -10428,10 +10428,10 @@
         "sentence":  "How much is the train fare from Izmir to Istanbul?"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Farm",
-        "translation":  "Verb",
-        "sentence":  "Çiftlik"
+        "translation":  "Çiftlik / Çiftçilik yapmak",
+        "sentence":  "There are many organic farms in the countryside around İzmir."
     },
     {
         "pos":  "Noun",
@@ -10464,10 +10464,10 @@
         "sentence":  "She always wears fashionable clothes to the office meetings."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Fast",
-        "translation":  "Adv.",
-        "sentence":  "Hızlı"
+        "translation":  "Hızlı",
+        "sentence":  "We need a fast solution for the canceled flight problem."
     },
     {
         "pos":  "Verb",
@@ -10476,10 +10476,10 @@
         "sentence":  "Please fasten your seatbelt before the plane takes off."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Fat",
-        "translation":  "Noun",
-        "sentence":  "Şişman"
+        "translation":  "Şişman / Yağ",
+        "sentence":  "You should avoid eating too much fat to stay healthy."
     },
     {
         "pos":  "Adjective",
@@ -10506,10 +10506,10 @@
         "sentence":  "The delay was not the supplier\u0027s fault, but a logistics issue."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Favor",
-        "translation":  "Verb",
-        "sentence":  "İyilik"
+        "translation":  "İyilik / Desteklemek",
+        "sentence":  "Can you do me a favor and check these gold weights?"
     },
     {
         "pos":  "Adjective",
@@ -10518,16 +10518,16 @@
         "sentence":  "The company received a very favorable report from the auditors."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Favorite",
-        "translation":  "Noun",
-        "sentence":  "Favori"
+        "translation":  "Favori",
+        "sentence":  "Silver is my favorite precious metal to invest in."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Fear",
-        "translation":  "Verb",
-        "sentence":  "Korku"
+        "translation":  "Korku / Korkmak",
+        "sentence":  "There is no need to fear the performance review; you did great."
     },
     {
         "pos":  "Noun",
@@ -10542,10 +10542,10 @@
         "sentence":  "The bird in the cartoon has bright, colorful feathers."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Feature",
-        "translation":  "Verb",
-        "sentence":  "Özellik"
+        "translation":  "Özellik / Yer vermek",
+        "sentence":  "The new software has a special feature for cost tracking."
     },
     {
         "pos":  "Noun",
@@ -10566,10 +10566,10 @@
         "sentence":  "How much is the annual fee for the Akbank investment account?"
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Feed",
-        "translation":  "Noun",
-        "sentence":  "Beslemek"
+        "translation":  "Beslemek / Besleme, akış",
+        "sentence":  "I need to feed the data into the system for the final report."
     },
     {
         "pos":  "Noun",
@@ -10578,10 +10578,10 @@
         "sentence":  "My boss gave me positive feedback on my cost-down study."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Feel",
-        "translation":  "Noun",
-        "sentence":  "Hissetmek"
+        "translation":  "Hissetmek / His",
+        "sentence":  "I feel very confident about my future at this company."
     },
     {
         "pos":  "Noun",
@@ -10602,10 +10602,10 @@
         "sentence":  "He was charged with a felony and sent to prison."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Female",
-        "translation":  "Noun",
-        "sentence":  "Kadın, dişi"
+        "translation":  "Kadın, dişi",
+        "sentence":  "The majority of the employees in the sourcing department are female."
     },
     {
         "pos":  "Adjective / Noun",
@@ -10632,10 +10632,10 @@
         "sentence":  "He had to stay home because he had a high fever and a cold."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Adj.",
         "word":  "Few",
-        "translation":  "Adj.",
-        "sentence":  "Az, birkaç"
+        "translation":  "Az, birkaç",
+        "sentence":  "A few alternative firms have already submitted their quotes."
     },
     {
         "pos":  "Noun",
@@ -10680,10 +10680,10 @@
         "sentence":  "The cost of the alternative material is fifty dollars per unit."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Fight",
-        "translation":  "Noun",
-        "sentence":  "Savaşmak, kavga"
+        "translation":  "Savaşmak, kavga / Kavga",
+        "sentence":  "We must fight to keep our production costs as low as possible."
     },
     {
         "pos":  "Noun",
@@ -10692,16 +10692,16 @@
         "sentence":  "The fighting in the region has affected the supply of palladium."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Figure",
-        "translation":  "Verb",
-        "sentence":  "Rakam, şekil"
+        "translation":  "Rakam, şekil / Anlamak",
+        "sentence":  "These figures show a clear 10% reduction in sourcing costs."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "File",
-        "translation":  "Verb",
-        "sentence":  "Dosya"
+        "translation":  "Dosya / Dosyalamak",
+        "sentence":  "Please save the cost-down report as a PDF file."
     },
     {
         "pos":  "Verb",
@@ -10710,10 +10710,10 @@
         "sentence":  "You need to fill out the evaluation form before Friday."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Film",
-        "translation":  "Verb",
-        "sentence":  "Film"
+        "translation":  "Film / Filme çekmek",
+        "sentence":  "We will film the educational songs at a studio in İzmir."
     },
     {
         "pos":  "Noun",
@@ -10728,10 +10728,10 @@
         "sentence":  "You need to replace the air filter in your car."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Final",
-        "translation":  "Noun",
-        "sentence":  "Final, son"
+        "translation":  "Final, son",
+        "sentence":  "This is the final version of the alternative material list."
     },
     {
         "pos":  "Adverb",
@@ -10740,10 +10740,10 @@
         "sentence":  "Finally, I managed to calculate the total weight of my gold."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Finance",
-        "translation":  "Verb",
-        "sentence":  "Finans"
+        "translation":  "Finans / Finanse etmek",
+        "sentence":  "I am comparing different finance options for my new car."
     },
     {
         "pos":  "Adjective",
@@ -10782,16 +10782,16 @@
         "sentence":  "I accidentally cut my finger while opening the metal sample box."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Finish",
-        "translation":  "Noun",
-        "sentence":  "Bitirmek"
+        "translation":  "Bitirmek / Bitiş",
+        "sentence":  "I will finish the German fruit and vegetable list by tonight."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Fire",
-        "translation":  "Verb",
-        "sentence":  "Ateş, yangın"
+        "translation":  "Ateş, yangın / İşten çıkarmak",
+        "sentence":  "The safety manager checked all the fire extinguishers today."
     },
     {
         "pos":  "Noun",
@@ -10830,10 +10830,10 @@
         "sentence":  "He firmly believes that the government is doing the right thing."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Adv.",
         "word":  "First",
-        "translation":  "Adv.",
-        "sentence":  "Birinci, ilk"
+        "translation":  "Birinci, ilk",
+        "sentence":  "The first step in a cost-down study is data collection."
     },
     {
         "pos":  "Adjective",
@@ -10842,10 +10842,10 @@
         "sentence":  "The government\u0027s fiscal year begins in April."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Fish",
-        "translation":  "Verb",
-        "sentence":  "Balık"
+        "translation":  "Balık / Balık tutmak",
+        "sentence":  "I enjoyed a delicious grilled fish at the harbor in İzmir."
     },
     {
         "pos":  "Noun",
@@ -10860,10 +10860,10 @@
         "sentence":  "He had a fit of coughing that lasted for several minutes."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Adj.",
         "word":  "Fit",
-        "translation":  "Adj.",
-        "sentence":  "Uymak"
+        "translation":  "Uymak / Formda",
+        "sentence":  "This alternative material will fit our production needs perfectly."
     },
     {
         "pos":  "Noun",
@@ -10878,10 +10878,10 @@
         "sentence":  "My five years at the company have been full of learning."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Fix",
-        "translation":  "Noun",
-        "sentence":  "Tamir etmek"
+        "translation":  "Tamir etmek / Çözüm",
+        "sentence":  "We need to fix the error in the sourcing budget immediately."
     },
     {
         "pos":  "Adjective",
@@ -10902,10 +10902,10 @@
         "sentence":  "Keep all flammable materials away from the open flame."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Flash",
-        "translation":  "Verb",
-        "sentence":  "Flaş, parıltı"
+        "translation":  "Flaş, parıltı / Parlamak",
+        "sentence":  "I saw a sudden flash of light from the welding area."
     },
     {
         "pos":  "Adjective",
@@ -10974,10 +10974,10 @@
         "sentence":  "Some lighter materials will float on the surface of the water."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Flood",
-        "translation":  "Verb",
-        "sentence":  "Sel"
+        "translation":  "Sel / Su basmak",
+        "sentence":  "The heavy rain caused a small flood in the warehouse basement."
     },
     {
         "pos":  "Noun",
@@ -10998,10 +10998,10 @@
         "sentence":  "The small business began to flourish after the new manager arrived."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Flow",
-        "translation":  "Noun",
-        "sentence":  "Akmak"
+        "translation":  "Akmak / Akış",
+        "sentence":  "We need to ensure a steady flow of raw materials to the factory."
     },
     {
         "pos":  "Noun",
@@ -11022,28 +11022,28 @@
         "sentence":  "You should drink plenty of fluids when you have a fever."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Fly",
-        "translation":  "Noun",
-        "sentence":  "Uçmak"
+        "translation":  "Uçmak / Sinek",
+        "sentence":  "I usually fly from Sabiha Gökçen to İzmir for my business trips."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Flying",
-        "translation":  "Adj.",
-        "sentence":  "Uçuş"
+        "translation":  "Uçuş / Uçan",
+        "sentence":  "Flying is the fastest way to travel between Istanbul and İzmir."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Focus",
-        "translation":  "Noun",
-        "sentence":  "Odaklanmak"
+        "translation":  "Odaklanmak / Odak",
+        "sentence":  "We must focus on finding alternative firms to reduce costs."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Fold",
-        "translation":  "Noun",
-        "sentence":  "Katlamak"
+        "translation":  "Katlamak / Kat",
+        "sentence":  "Please fold the documents neatly before putting them in the file."
     },
     {
         "pos":  "Adjective",
@@ -11052,10 +11052,10 @@
         "sentence":  "We bought some folding chairs for the office celebration."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Folk",
-        "translation":  "Adj.",
-        "sentence":  "Halk"
+        "translation":  "Halk / Halksal",
+        "sentence":  "The children\u0027s channel will feature some traditional folk songs."
     },
     {
         "pos":  "Verb",
@@ -11064,10 +11064,10 @@
         "sentence":  "I follow the silver market trends every single morning."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / N. / Prep.",
         "word":  "Following",
-        "translation":  "N.",
-        "sentence":  "Prep."
+        "translation":  "Takip eden / Takipçiler / Takiben",
+        "sentence":  "The following report outlines our new cost-down strategy."
     },
     {
         "pos":  "Adjective",
@@ -11118,10 +11118,10 @@
         "sentence":  "My parents forbid me to stay out late on school nights."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Force",
-        "translation":  "Verb",
-        "sentence":  "Güç"
+        "translation":  "Güç / Zorlamak",
+        "sentence":  "We shouldn\u0027t force the supplier to accept unfair terms."
     },
     {
         "pos":  "Noun / Verb",
@@ -11178,10 +11178,10 @@
         "sentence":  "Please remember to put a fork and a knife on the dinner table."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Form",
-        "translation":  "Verb",
-        "sentence":  "Form, şekil"
+        "translation":  "Form, şekil / Oluşturmak",
+        "sentence":  "You need to fill out the evaluation form by the end of the week."
     },
     {
         "pos":  "Adjective",
@@ -11268,10 +11268,10 @@
         "sentence":  "The meeting provided a forum for residents to express their concerns."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Adj.",
         "word":  "Forward",
-        "translation":  "Adj.",
-        "sentence":  "İleriye doğru"
+        "translation":  "İleriye doğru",
+        "sentence":  "I am looking forward to starting my fifth year at the company."
     },
     {
         "pos":  "Noun",
@@ -11340,10 +11340,10 @@
         "sentence":  "Police found fragments of glass at the scene of the accident."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Frame",
-        "translation":  "Verb",
-        "sentence":  "Çerçeve"
+        "translation":  "Çerçeve / Çerçevelemek",
+        "sentence":  "I bought a beautiful frame for our team photo."
     },
     {
         "pos":  "Noun",
@@ -11370,10 +11370,10 @@
         "sentence":  "He was sent to prison for tax fraud."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv. / V.",
         "word":  "Free",
-        "translation":  "Adv.",
-        "sentence":  "V."
+        "translation":  "Özgür, ücretsiz / Serbest bırakmak",
+        "sentence":  "The initial consultation with the alternative firm is free."
     },
     {
         "pos":  "Noun",
@@ -11478,10 +11478,10 @@
         "sentence":  "I received an email from the strategic sourcing department."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Front",
-        "translation":  "Adj.",
-        "sentence":  "Ön, ön taraf"
+        "translation":  "Ön, ön taraf",
+        "sentence":  "Please wait for me in front of the main office building."
     },
     {
         "pos":  "Adjective",
@@ -11520,10 +11520,10 @@
         "sentence":  "It is not very healthy to fry food every single day."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Fuel",
-        "translation":  "Verb",
-        "sentence":  "Yakıt"
+        "translation":  "Yakıt / Yakıt sağlamak",
+        "sentence":  "The cost of fuel affects the transportation prices of our goods."
     },
     {
         "pos":  "Verb",
@@ -11550,16 +11550,16 @@
         "sentence":  "I fully support the new cost reduction strategy."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Fun",
-        "translation":  "Adj.",
-        "sentence":  "Eğlence"
+        "translation":  "Eğlence / Eğlenceli",
+        "sentence":  "Learning English through games like Taboo is very fun."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Function",
-        "translation":  "Verb",
-        "sentence":  "Fonksiyon"
+        "translation":  "Fonksiyon / İşlev görmek",
+        "sentence":  "The main function of this software is to track supplier performance."
     },
     {
         "pos":  "Adjective",
@@ -11568,10 +11568,10 @@
         "sentence":  "The new furniture is both beautiful and functional."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Fund",
-        "translation":  "Verb",
-        "sentence":  "Fon"
+        "translation":  "Fon / Finanse etmek",
+        "sentence":  "We need to create a special fund for emergency material purchases."
     },
     {
         "pos":  "Adjective",
@@ -11628,10 +11628,10 @@
         "sentence":  "We ordered some new furniture for the sourcing department office."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Further",
-        "translation":  "Adv.",
-        "sentence":  "Daha ileri, daha fazla"
+        "translation":  "Daha ileri, daha fazla",
+        "sentence":  "We need further information before we sign the contract."
     },
     {
         "pos":  "Adverb",
@@ -11640,16 +11640,16 @@
         "sentence":  "The price is low; furthermore, the quality is excellent."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Future",
-        "translation":  "Adj.",
-        "sentence":  "Gelecek"
+        "translation":  "Gelecek / Gelecekteki",
+        "sentence":  "I am planning my future career steps at this firm."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Gain",
-        "translation":  "Noun",
-        "sentence":  "Kazanmak"
+        "translation":  "Kazanmak / Kazanç",
+        "sentence":  "Switching to this supplier will help us gain a competitive advantage."
     },
     {
         "pos":  "Noun",
@@ -11874,10 +11874,10 @@
         "sentence":  "There are no ghost stories on my children\u0027s YouTube channel."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Giant",
-        "translation":  "Noun",
-        "sentence":  "Dev"
+        "translation":  "Dev",
+        "sentence":  "The firm we are negotiating with is a giant in the industry."
     },
     {
         "pos":  "Noun",
@@ -11970,10 +11970,10 @@
         "sentence":  "You must wear protective gloves when handling raw materials."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Go",
-        "translation":  "Noun",
-        "sentence":  "Gitmek"
+        "translation":  "Gitmek / Deneme",
+        "sentence":  "I need to go to Akbank to talk about my palladium account."
     },
     {
         "pos":  "Noun",
@@ -11988,10 +11988,10 @@
         "sentence":  "Thank God, the flight was rescheduled for the next morning."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Gold",
-        "translation":  "Adj.",
-        "sentence":  "Altın"
+        "translation":  "Altın",
+        "sentence":  "I have 3 half, 1 quarter, and 2 gram gold pieces in my collection."
     },
     {
         "pos":  "Adjective",
@@ -12006,16 +12006,16 @@
         "sentence":  "Some executives enjoy playing golf during business trips."
     },
     {
-        "pos":  "Adjective",
+        "pos":  "Adjective / Noun",
         "word":  "Good",
-        "translation":  "Noun",
-        "sentence":  "İyi"
+        "translation":  "İyi / İyilik",
+        "sentence":  "It\u0027s a good idea to diversify your investments with silver and gold."
     },
     {
-        "pos":  "Exclam.",
+        "pos":  "Exclam. / Noun",
         "word":  "Goodbye",
-        "translation":  "Noun",
-        "sentence":  "Hoşça kal"
+        "translation":  "Hoşça kal",
+        "sentence":  "I said goodbye to my colleagues before leaving for the weekend."
     },
     {
         "pos":  "Noun",
@@ -12072,10 +12072,10 @@
         "sentence":  "She moved across the stage with the grace of a professional dancer."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Grade",
-        "translation":  "Verb",
-        "sentence":  "Derece, not"
+        "translation":  "Derece, not / Puanlamak",
+        "sentence":  "This is high-grade silver that meets all our quality standards."
     },
     {
         "pos":  "Adverb",
@@ -12084,10 +12084,10 @@
         "sentence":  "We will gradually increase the amount of alternative materials."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Graduate",
-        "translation":  "Verb",
-        "sentence":  "Mezun"
+        "translation":  "Mezun / Mezun olmak",
+        "sentence":  "He is a recent graduate who joined our sourcing team as an intern."
     },
     {
         "pos":  "Noun",
@@ -12116,14 +12116,14 @@
     {
         "pos":  "Noun",
         "word":  "Grandparent",
-        "translation":  "Büyükanne",
-        "sentence":  "baba"
+        "translation":  "Büyükanne / baba",
+        "sentence":  "I spent my summer holidays at my grandparents\u0027 house."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Grant",
-        "translation":  "Noun",
-        "sentence":  "Vermek, hibe etmek"
+        "translation":  "Vermek, hibe etmek / Hibe",
+        "sentence":  "The company will grant a special bonus for your fifth anniversary."
     },
     {
         "pos":  "Adjective",
@@ -12174,10 +12174,10 @@
         "sentence":  "I don\u0027t think you understand the gravity of the problem."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Gray",
-        "translation":  "Noun",
-        "sentence":  "Gri"
+        "translation":  "Gri",
+        "sentence":  "The sky in İzmir was gray and cloudy after the flight cancellation."
     },
     {
         "pos":  "Adjective",
@@ -12192,10 +12192,10 @@
         "sentence":  "The new law will greatly affect small business owners."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Green",
-        "translation":  "Noun",
-        "sentence":  "Yeşil"
+        "translation":  "Yeşil",
+        "sentence":  "We are moving towards \"green\" and sustainable sourcing methods."
     },
     {
         "pos":  "Noun",
@@ -12276,16 +12276,16 @@
         "sentence":  "The growth of the silver market has been very impressive lately."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Guarantee",
-        "translation":  "Noun",
-        "sentence":  "Garanti etmek"
+        "translation":  "Garanti etmek / Garanti",
+        "sentence":  "We can guarantee the quality of the alternative raw materials."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Guard",
-        "translation":  "Verb",
-        "sentence":  "Koruma, nöbetçi"
+        "translation":  "Koruma, nöbetçi / Korumak",
+        "sentence":  "The security guard checked my ID at the factory entrance."
     },
     {
         "pos":  "Noun",
@@ -12294,10 +12294,10 @@
         "sentence":  "The army is fighting against guerrilla forces in the mountains."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Guess",
-        "translation":  "Noun",
-        "sentence":  "Tahmin etmek"
+        "translation":  "Tahmin etmek / Tahmin",
+        "sentence":  "Can you guess how many grams of gold I have in total?"
     },
     {
         "pos":  "Noun",
@@ -12312,10 +12312,10 @@
         "sentence":  "Students can seek guidance from the school counselor."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Guide",
-        "translation":  "Verb",
-        "sentence":  "Rehber"
+        "translation":  "Rehber / Rehberlik etmek",
+        "sentence":  "This manual will guide you through the strategic sourcing process."
     },
     {
         "pos":  "Noun",
@@ -12390,10 +12390,10 @@
         "sentence":  "She has long, dark hair and always looks professional."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Det. / Pron.",
         "word":  "Half",
-        "translation":  "Det.",
-        "sentence":  "Pron."
+        "translation":  "Yarım",
+        "sentence":  "I have three half gold pieces in my personal collection."
     },
     {
         "pos":  "Adverb",
@@ -12414,10 +12414,10 @@
         "sentence":  "Production came to a halt due to a technical failure."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Hand",
-        "translation":  "Verb",
-        "sentence":  "El"
+        "translation":  "El / Uzatmak",
+        "sentence":  "Can you lend me a hand with this heavy container of silver?"
     },
     {
         "pos":  "Noun",
@@ -12426,10 +12426,10 @@
         "sentence":  "Only a handful of people turned up for the meeting."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Handle",
-        "translation":  "Noun",
-        "sentence":  "Ele almak, yönetmek"
+        "translation":  "Ele almak, yönetmek / Sap",
+        "sentence":  "I can handle the negotiations with the alternative firm myself."
     },
     {
         "pos":  "Noun",
@@ -12486,10 +12486,10 @@
         "sentence":  "The ships waited in the harbor for the storm to pass."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Hard",
-        "translation":  "Adv.",
-        "sentence":  "Zor, sert"
+        "translation":  "Zor, sert",
+        "sentence":  "It is hard work, but managing alternative suppliers is rewarding."
     },
     {
         "pos":  "Adverb",
@@ -12504,10 +12504,10 @@
         "sentence":  "You need to upgrade your computer\u0027s hardware to run this program."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Harm",
-        "translation":  "Verb",
-        "sentence":  "Zarar"
+        "translation":  "Zarar / Zarar vermek",
+        "sentence":  "The flight cancellation didn\u0027t do much harm to my schedule."
     },
     {
         "pos":  "Adjective",
@@ -12540,10 +12540,10 @@
         "sentence":  "Don\u0027t forget to wear your hard hat when you visit the factory."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Hate",
-        "translation":  "Noun",
-        "sentence":  "Nefret etmek"
+        "translation":  "Nefret etmek / Nefret",
+        "sentence":  "I hate it when flight delays mess up my travel plans to İzmir."
     },
     {
         "pos":  "Noun",
@@ -12582,10 +12582,10 @@
         "sentence":  "He is the expert who will help us with the palladium investment."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Head",
-        "translation":  "Verb",
-        "sentence":  "Kafa, başkan"
+        "translation":  "Kafa, başkan / Yönelmek",
+        "sentence":  "She is the head of the strategic sourcing department."
     },
     {
         "pos":  "Noun",
@@ -12648,10 +12648,10 @@
         "sentence":  "You should put your heart into everything you do at work."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Heat",
-        "translation":  "Verb",
-        "sentence":  "Isı"
+        "translation":  "Isı / Isıtmak",
+        "sentence":  "The heat in the production area can be quite intense."
     },
     {
         "pos":  "Noun",
@@ -12708,10 +12708,10 @@
         "sentence":  "The traffic in Istanbul during rush hour can be absolute hell."
     },
     {
-        "pos":  "Exclam.",
+        "pos":  "Exclam. / Noun",
         "word":  "Hello",
-        "translation":  "Noun",
-        "sentence":  "Merhaba"
+        "translation":  "Merhaba",
+        "sentence":  "I said hello to the new intern in the sourcing department."
     },
     {
         "pos":  "Noun",
@@ -12720,10 +12720,10 @@
         "sentence":  "You should always wear a helmet when riding a motorcycle."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Help",
-        "translation":  "Noun",
-        "sentence":  "Yardım etmek"
+        "translation":  "Yardım etmek / Yardım",
+        "sentence":  "Can you help me find a professional title for these work tasks?"
     },
     {
         "pos":  "Adjective",
@@ -12738,10 +12738,10 @@
         "sentence":  "He is only seventeen, hence his inability to vote in the election."
     },
     {
-        "pos":  "Pron.",
+        "pos":  "Pron. / Det.",
         "word":  "Her",
-        "translation":  "Det.",
-        "sentence":  "Ona"
+        "translation":  "Ona / Onun (dişi)",
+        "sentence":  "I gave her the updated list of alternative suppliers."
     },
     {
         "pos":  "Noun",
@@ -12816,10 +12816,10 @@
         "sentence":  "There is a clear hierarchy within the military."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv. / N.",
         "word":  "High",
-        "translation":  "Adv.",
-        "sentence":  "N."
+        "translation":  "Yüksek / Yükseklik",
+        "sentence":  "The high cost of silver is affecting our overall budget."
     },
     {
         "pos":  "Adjective",
@@ -12828,10 +12828,10 @@
         "sentence":  "The case involved several high-profile politicians."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Highlight",
-        "translation":  "Noun",
-        "sentence":  "Vurgulamak"
+        "translation":  "Vurgulamak / En önemli kısım",
+        "sentence":  "I want to highlight my cost reduction success in the note."
     },
     {
         "pos":  "Adverb",
@@ -12882,16 +12882,16 @@
         "sentence":  "She fell and broke her hip while she was ice skating."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Hire",
-        "translation":  "Noun",
-        "sentence":  "İşe almak"
+        "translation":  "İşe almak / Kiralama",
+        "sentence":  "We plan to hire a new assistant for the sourcing team."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron.",
         "word":  "His",
-        "translation":  "Pron.",
-        "sentence":  "Onun"
+        "translation":  "Onun / Onunki (erkek)",
+        "sentence":  "His analysis of the football match was very detailed."
     },
     {
         "pos":  "Noun",
@@ -12918,10 +12918,10 @@
         "sentence":  "The history of our company is full of successful projects."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Hit",
-        "translation":  "Noun",
-        "sentence":  "Vurmak"
+        "translation":  "Vurmak / Darbe, başarı",
+        "sentence":  "The rise in silver prices hit our budget quite hard."
     },
     {
         "pos":  "Noun",
@@ -12936,10 +12936,10 @@
         "sentence":  "Ice hockey is not as popular in Turkey as football is."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Hold",
-        "translation":  "Noun",
-        "sentence":  "Tutmak"
+        "translation":  "Tutmak / Tutuş",
+        "sentence":  "Please hold the samples carefully while I weigh them."
     },
     {
         "pos":  "Noun",
@@ -12966,10 +12966,10 @@
         "sentence":  "We should treat our professional ethics as something holy."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adv. / Adj.",
         "word":  "Home",
-        "translation":  "Adv.",
-        "sentence":  "Adj."
+        "translation":  "Ev / Eve / Eve ait",
+        "sentence":  "I\u0027ll be working from home in İzmir this Friday."
     },
     {
         "pos":  "Noun",
@@ -13008,10 +13008,10 @@
         "sentence":  "I like to add a little honey to my tea instead of sugar."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Honor",
-        "translation":  "Verb",
-        "sentence":  "Onur"
+        "translation":  "Onur / Onurlandırmak",
+        "sentence":  "It is an honor to work with such a professional sourcing team."
     },
     {
         "pos":  "Noun / Verb",
@@ -13020,10 +13020,10 @@
         "sentence":  "He hung his coat on the hook behind the door."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Hope",
-        "translation":  "Noun",
-        "sentence":  "Umut etmek"
+        "translation":  "Umut etmek / Umut",
+        "sentence":  "I hope to get a promotion on my fifth work anniversary."
     },
     {
         "pos":  "Adjective",
@@ -13074,10 +13074,10 @@
         "sentence":  "The nearest hospital is only ten minutes away from the office."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Host",
-        "translation":  "Verb",
-        "sentence":  "Ev sahibi"
+        "translation":  "Ev sahibi / Ağırlamak",
+        "sentence":  "We will host a meeting for all our alternative suppliers."
     },
     {
         "pos":  "Noun",
@@ -13116,10 +13116,10 @@
         "sentence":  "I spent an hour calculating the total weight of my gold holdings."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "House",
-        "translation":  "Verb",
-        "sentence":  "Ev"
+        "translation":  "Ev / Barındırmak",
+        "sentence":  "We need a larger warehouse to house all the new materials."
     },
     {
         "pos":  "Noun",
@@ -13152,10 +13152,10 @@
         "sentence":  "There was a huge increase in the demand for palladium."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Human",
-        "translation":  "Noun",
-        "sentence":  "İnsani"
+        "translation":  "İnsani / İnsan",
+        "sentence":  "Human error is the most common cause of data mistakes."
     },
     {
         "pos":  "Adjective",
@@ -13206,10 +13206,10 @@
         "sentence":  "I\u0027m always hungry after a long day at the factory."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Hunt",
-        "translation":  "Noun",
-        "sentence":  "Avlamak"
+        "translation":  "Avlamak / Av",
+        "sentence":  "We are on a hunt for the most reliable alternative supplier."
     },
     {
         "pos":  "Noun",
@@ -13224,16 +13224,16 @@
         "sentence":  "The hurricane caused a lot of damage to the coastal areas."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Hurry",
-        "translation":  "Verb",
-        "sentence":  "Acele"
+        "translation":  "Acele / Acele etmek",
+        "sentence":  "We need to hurry if we want to catch the last ferry in İzmir."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Adj. / N.",
         "word":  "Hurt",
-        "translation":  "Adj.",
-        "sentence":  "N."
+        "translation":  "İncitmek / İncinmiş / Acı",
+        "sentence":  "I didn\u0027t mean to hurt his feelings with my criticism."
     },
     {
         "pos":  "Noun",
@@ -13290,10 +13290,10 @@
         "sentence":  "I have a great idea for an educational song for the YouTube channel."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Ideal",
-        "translation":  "Noun",
-        "sentence":  "İdeal"
+        "translation":  "İdeal",
+        "sentence":  "This firm is the ideal partner for our alternative material needs."
     },
     {
         "pos":  "Adjective",
@@ -13464,10 +13464,10 @@
         "sentence":  "Vaccinations help to make children immune to certain diseases."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Impact",
-        "translation":  "Verb",
-        "sentence":  "Etki"
+        "translation":  "Etki / Etkilemek",
+        "sentence":  "The rising gold price has a significant impact on our budget."
     },
     {
         "pos":  "Adjective",
@@ -13500,10 +13500,10 @@
         "sentence":  "Does this report imply that we need to find more suppliers?"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Import",
-        "translation":  "Verb",
-        "sentence":  "İthalat"
+        "translation":  "İthalat / İthal etmek",
+        "sentence":  "We need to import certain raw materials from alternative firms."
     },
     {
         "pos":  "Noun",
@@ -13572,10 +13572,10 @@
         "sentence":  "There has been a significant improvement in our sourcing process."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "In",
-        "translation":  "Adv.",
-        "sentence":  "İçinde"
+        "translation":  "İçinde / İçeri",
+        "sentence":  "I will be in İzmir for my work anniversary celebration."
     },
     {
         "pos":  "Noun",
@@ -13680,10 +13680,10 @@
         "sentence":  "Please correct any incorrect information in the document."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Increase",
-        "translation":  "Noun",
-        "sentence":  "Artırmak"
+        "translation":  "Artırmak / Artış",
+        "sentence":  "We expect a steady increase in the value of palladium this year."
     },
     {
         "pos":  "Adverb",
@@ -13770,10 +13770,10 @@
         "sentence":  "The flight delay had an indirect effect on my work schedule."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Individual",
-        "translation":  "Adj.",
-        "sentence":  "Birey"
+        "translation":  "Birey / Bireysel",
+        "sentence":  "Each individual team member contributes to our collective success."
     },
     {
         "pos":  "Adjective",
@@ -13872,10 +13872,10 @@
         "sentence":  "The storm managed to inflict severe damage on the coastal town."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Influence",
-        "translation":  "Verb",
-        "sentence":  "Etki"
+        "translation":  "Etki / Etkilemek",
+        "sentence":  "Market drivers have a big influence on the price of precious metals."
     },
     {
         "pos":  "Adjective",
@@ -14076,10 +14076,10 @@
         "sentence":  "The insertion of a new clause in the contract was necessary."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "Inside",
-        "translation":  "Adv.",
-        "sentence":  "İçinde"
+        "translation":  "İçinde / İçeri",
+        "sentence":  "Please keep the palladium samples inside the safe."
     },
     {
         "pos":  "Noun",
@@ -14364,10 +14364,10 @@
         "sentence":  "The museum has several interactive displays for children."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Interest",
-        "translation":  "Verb",
-        "sentence":  "Faiz, ilgi"
+        "translation":  "Faiz, ilgi / İlgisini çekmek",
+        "sentence":  "The interest rates at Akbank might affect your car loan decision."
     },
     {
         "pos":  "Adjective",
@@ -14478,10 +14478,10 @@
         "sentence":  "The military intervention lasted for several months."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Interview",
-        "translation":  "Verb",
-        "sentence":  "Röportaj, mülakat"
+        "translation":  "Röportaj, mülakat",
+        "sentence":  "I had a successful interview for my current position five years ago."
     },
     {
         "pos":  "Adjective",
@@ -14622,10 +14622,10 @@
         "sentence":  "The police are investigating his involvement in the crime."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Iron",
-        "translation":  "Verb",
-        "sentence":  "Demir"
+        "translation":  "Demir / Ütülemek",
+        "sentence":  "Iron is a common material used in our factory\u0027s production."
     },
     {
         "pos":  "Adjective",
@@ -14676,10 +14676,10 @@
         "sentence":  "Many elderly people live in social isolation."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Issue",
-        "translation":  "Verb",
-        "sentence":  "Mesele"
+        "translation":  "Mesele / Yayınlamak, vermek",
+        "sentence":  "We need to resolve the issue with the flight cancellation quickly."
     },
     {
         "pos":  "Noun",
@@ -14690,8 +14690,8 @@
     {
         "pos":  "Pronoun",
         "word":  "It",
-        "translation":  "O (cansız",
-        "sentence":  "hayvan)"
+        "translation":  "O (cansız / hayvan)",
+        "sentence":  "It is the best time to invest in precious metals."
     },
     {
         "pos":  "Noun",
@@ -14726,8 +14726,8 @@
     {
         "pos":  "Noun",
         "word":  "Jam",
-        "translation":  "Reçel",
-        "sentence":  "Sıkışıklık"
+        "translation":  "Reçel / Sıkışıklık",
+        "sentence":  "I was late for work because of a traffic jam in İzmir."
     },
     {
         "pos":  "Noun",
@@ -14778,10 +14778,10 @@
         "sentence":  "The two companies have issued a joint statement."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Joke",
-        "translation":  "Verb",
-        "sentence":  "Şaka"
+        "translation":  "Şaka / Şaka yapmak",
+        "sentence":  "He told a funny joke during the lunch break."
     },
     {
         "pos":  "Noun",
@@ -14814,10 +14814,10 @@
         "sentence":  "The children\u0027s songs will bring joy to many families."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Judge",
-        "translation":  "Verb",
-        "sentence":  "Hakim"
+        "translation":  "Hakim / Yargılamak",
+        "sentence":  "It is hard to judge a supplier based on just one meeting."
     },
     {
         "pos":  "Noun",
@@ -14844,10 +14844,10 @@
         "sentence":  "We plan to launch the YouTube channel in July."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Jump",
-        "translation":  "Noun",
-        "sentence":  "Zıplamak"
+        "translation":  "Zıplamak / Zıplayış",
+        "sentence":  "The price of gold saw a sudden jump last night."
     },
     {
         "pos":  "Noun",
@@ -14916,10 +14916,10 @@
         "sentence":  "Please keep a record of all your cost-down studies."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Key",
-        "translation":  "Adj.",
-        "sentence":  "Anahtar"
+        "translation":  "Anahtar / Temel, ana",
+        "sentence":  "Reliability is the key factor in our relationship with suppliers."
     },
     {
         "pos":  "Noun",
@@ -14928,10 +14928,10 @@
         "sentence":  "I need a more ergonomic keyboard for my office desk."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Kick",
-        "translation":  "Noun",
-        "sentence":  "Tekmelemek"
+        "translation":  "Tekmelemek / Tekme",
+        "sentence":  "The little boy in the video likes to kick the ball."
     },
     {
         "pos":  "Noun",
@@ -14970,10 +14970,10 @@
         "sentence":  "The factory is located fifty kilometers away from İzmir."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Kind",
-        "translation":  "Adj.",
-        "sentence":  "Tür"
+        "translation":  "Tür / Nazik",
+        "sentence":  "What kind of alternative hammadde (raw material) are we looking for?"
     },
     {
         "pos":  "Noun",
@@ -14994,10 +14994,10 @@
         "sentence":  "The United Kingdom consists of four different countries."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Kiss",
-        "translation":  "Noun",
-        "sentence":  "Öpmek"
+        "translation":  "Öpmek / Öpücük",
+        "sentence":  "She gave her daughter a kiss before leaving for the airport."
     },
     {
         "pos":  "Noun",
@@ -15024,10 +15024,10 @@
         "sentence":  "Be careful with that sharp knife in the kitchen."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Knock",
-        "translation":  "Noun",
-        "sentence":  "Vurmak, çalmak (kapı)"
+        "translation":  "Vurmak, çalmak (kapı)",
+        "sentence":  "Please knock on the door before entering the meeting room."
     },
     {
         "pos":  "Verb",
@@ -15048,10 +15048,10 @@
         "sentence":  "The lab is testing the quality of the new material samples."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Label",
-        "translation":  "Verb",
-        "sentence":  "Etiket"
+        "translation":  "Etiket / Etiketlemek",
+        "sentence":  "Each bag of silver must have a clear label with its weight."
     },
     {
         "pos":  "Noun",
@@ -15066,10 +15066,10 @@
         "sentence":  "The raw materials are sent to an independent laboratory for analysis."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Lack",
-        "translation":  "Verb",
-        "sentence":  "Eksiklik"
+        "translation":  "Eksiklik / -den yoksun olmak",
+        "sentence":  "A lack of alternative suppliers can increase our risks."
     },
     {
         "pos":  "Noun",
@@ -15096,10 +15096,10 @@
         "sentence":  "I need a brighter lamp for my study desk at home."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Land",
-        "translation":  "Verb",
-        "sentence":  "Kara, arazi"
+        "translation":  "Kara, arazi / İniş yapmak",
+        "sentence":  "The plane is expected to land in İzmir at 20:30."
     },
     {
         "pos":  "Noun",
@@ -15174,16 +15174,16 @@
         "sentence":  "The doctor used a laser to perform the eye surgery."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Adv. / V.",
         "word":  "Last",
-        "translation":  "Adv.",
-        "sentence":  "V."
+        "translation":  "Son / Sürmek",
+        "sentence":  "The sourcing meeting will last for about two hours."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Late",
-        "translation":  "Adv.",
-        "sentence":  "Geç"
+        "translation":  "Geç",
+        "sentence":  "I was late for the meeting because of the flight cancellation."
     },
     {
         "pos":  "Adverb",
@@ -15192,10 +15192,10 @@
         "sentence":  "I haven\u0027t seen much of him lately."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Adj.",
         "word":  "Later",
-        "translation":  "Adj.",
-        "sentence":  "Daha sonra"
+        "translation":  "Daha sonra",
+        "sentence":  "I will calculate the total weight of the gold later tonight."
     },
     {
         "pos":  "Adjective",
@@ -15210,10 +15210,10 @@
         "sentence":  "Given the choice between tea and coffee, I prefer the latter."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Laugh",
-        "translation":  "Noun",
-        "sentence":  "Gülmek"
+        "translation":  "Gülmek / Gülüş",
+        "sentence":  "We had a good laugh during the team lunch yesterday."
     },
     {
         "pos":  "Noun",
@@ -15222,10 +15222,10 @@
         "sentence":  "The house was filled with the laughter of children."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Launch",
-        "translation":  "Noun",
-        "sentence":  "Başlatmak"
+        "translation":  "Başlatmak / Lansman",
+        "sentence":  "We are getting ready to launch the new cost-down study."
     },
     {
         "pos":  "Noun",
@@ -15282,10 +15282,10 @@
         "sentence":  "Being lazy is not an option when you manage multiple suppliers."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Lead",
-        "translation":  "Noun",
-        "sentence":  "Liderlik etmek"
+        "translation":  "Liderlik etmek / Kurşun",
+        "sentence":  "I will lead the project to find alternative firms in Germany."
     },
     {
         "pos":  "Noun",
@@ -15348,10 +15348,10 @@
         "sentence":  "Constant learning is part of my professional development."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Adv.",
         "word":  "Least",
-        "translation":  "Adv.",
-        "sentence":  "En az"
+        "translation":  "En az",
+        "sentence":  "We need at least three different quotes from alternative firms."
     },
     {
         "pos":  "Noun",
@@ -15360,22 +15360,22 @@
         "sentence":  "I bought a high-quality leather wallet with my last bonus."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Leave",
-        "translation":  "Noun",
-        "sentence":  "Ayrılmak, bırakmak"
+        "translation":  "Ayrılmak, bırakmak / İzin",
+        "sentence":  "I will leave for İzmir early tomorrow morning."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Lecture",
-        "translation":  "Verb",
-        "sentence":  "Ders, konferans"
+        "translation":  "Ders, konferans",
+        "sentence":  "I attended a lecture on digital marketing trends last week."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv. / N.",
         "word":  "Left",
-        "translation":  "Adv.",
-        "sentence":  "N."
+        "translation":  "Sol / Geriye kalan",
+        "sentence":  "There is only one gram of gold left in the small box."
     },
     {
         "pos":  "Noun",
@@ -15474,10 +15474,10 @@
         "sentence":  "She is a prominent advocate for lesbian and gay rights."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Adv.",
         "word":  "Less",
-        "translation":  "Adv.",
-        "sentence":  "Daha az"
+        "translation":  "Daha az",
+        "sentence":  "Investing in silver is less expensive than investing in gold."
     },
     {
         "pos":  "Adjective",
@@ -15510,10 +15510,10 @@
         "sentence":  "I received an official letter regarding my five-year anniversary."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj. / V.",
         "word":  "Level",
-        "translation":  "Adj.",
-        "sentence":  "V."
+        "translation":  "Seviye / Düzlemek",
+        "sentence":  "My English vocabulary is currently at a B1 level."
     },
     {
         "pos":  "Adjective",
@@ -15582,16 +15582,16 @@
         "sentence":  "This is a once-in-a-lifetime opportunity."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Lift",
-        "translation":  "Noun",
-        "sentence":  "Kaldırmak"
+        "translation":  "Kaldırmak / Asansör",
+        "sentence":  "Can you help me lift this heavy silver bar?"
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj. / V.",
         "word":  "Light",
-        "translation":  "Adj.",
-        "sentence":  "V."
+        "translation":  "Işık / Hafif / Yakmak",
+        "sentence":  "The light in the warehouse needs to be replaced."
     },
     {
         "pos":  "Noun",
@@ -15620,14 +15620,14 @@
     {
         "pos":  "Noun",
         "word":  "Limb",
-        "translation":  "Uzuv (kol/bacak)",
+        "translation":  "Uzuv (kol / bacak)",
         "sentence":  "He lost a limb in a tragic industrial accident."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Limit",
-        "translation":  "Verb",
-        "sentence":  "Sınır"
+        "translation":  "Sınır / Sınırlamak",
+        "sentence":  "We must stay within our budget limit for raw materials."
     },
     {
         "pos":  "Noun",
@@ -15642,10 +15642,10 @@
         "sentence":  "Our supply of alternative hammadde is limited at the moment."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Line",
-        "translation":  "Verb",
-        "sentence":  "Hat, çizgi"
+        "translation":  "Hat, çizgi / Sıralamak",
+        "sentence":  "The production line is working at full capacity today."
     },
     {
         "pos":  "Adjective",
@@ -15666,10 +15666,10 @@
         "sentence":  "The smell of perfume continued to linger in the room."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Link",
-        "translation":  "Verb",
-        "sentence":  "Bağlantı"
+        "translation":  "Bağlantı / Bağlamak",
+        "sentence":  "There is a clear link between market drivers and metal prices."
     },
     {
         "pos":  "Noun",
@@ -15684,16 +15684,16 @@
         "sentence":  "I use a lip balm during the cold winter months in Istanbul."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Liquid",
-        "translation":  "Adj.",
-        "sentence":  "Sıvı"
+        "translation":  "Sıvı",
+        "sentence":  "Be careful not to spill any liquid on the sourcing report."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "List",
-        "translation":  "Verb",
-        "sentence":  "Liste"
+        "translation":  "Liste / Listelemek",
+        "sentence":  "I made a list of all the alternative firms we need to contact."
     },
     {
         "pos":  "Verb",
@@ -15750,16 +15750,16 @@
         "sentence":  "Please don\u0027t drop litter on the street."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Det.",
         "word":  "Little",
-        "translation":  "Det.",
-        "sentence":  "Küçük, az"
+        "translation":  "Küçük, az",
+        "sentence":  "I have a little bit of silver stored in a safe place."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Adj. / Adv.",
         "word":  "Live",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Yaşamak / Canlı",
+        "sentence":  "I live in İzmir and commute to work every day."
     },
     {
         "pos":  "Adjective",
@@ -15774,16 +15774,16 @@
         "sentence":  "The liver is a vital organ that filters toxins from the blood."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Living",
-        "translation":  "Noun",
-        "sentence":  "Yaşayan"
+        "translation":  "Yaşayan / Geçim",
+        "sentence":  "Making a living as a YouTuber requires a lot of hard work."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Load",
-        "translation":  "Verb",
-        "sentence":  "Yük"
+        "translation":  "Yük / Yüklemek",
+        "sentence":  "We need to load the silver bars onto the truck by noon."
     },
     {
         "pos":  "Noun",
@@ -15798,10 +15798,10 @@
         "sentence":  "Groups are trying to lobby the government for better environmental laws."
     },
     {
-        "pos":  "Adjective",
+        "pos":  "Adjective / Noun",
         "word":  "Local",
-        "translation":  "Noun",
-        "sentence":  "Yerel"
+        "translation":  "Yerel",
+        "sentence":  "Buying from local suppliers can reduce transportation costs."
     },
     {
         "pos":  "Verb",
@@ -15822,10 +15822,10 @@
         "sentence":  "The location of the factory is very convenient for logistics."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Lock",
-        "translation":  "Noun",
-        "sentence":  "Kilitlemek"
+        "translation":  "Kilitlemek / Kilit",
+        "sentence":  "Don\u0027t forget to lock the door to the material storage room."
     },
     {
         "pos":  "Noun / Verb",
@@ -15858,10 +15858,10 @@
         "sentence":  "Working from home can sometimes feel a bit lonely."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Long",
-        "translation":  "Adv.",
-        "sentence":  "Uzun"
+        "translation":  "Uzun",
+        "sentence":  "The process of finding an alternative firm took a long time."
     },
     {
         "pos":  "Adjective",
@@ -15870,10 +15870,10 @@
         "sentence":  "The two countries have a long-standing friendship."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Long-term",
-        "translation":  "Adv.",
-        "sentence":  "Uzun vadeli"
+        "translation":  "Uzun vadeli",
+        "sentence":  "Silver is a great long-term investment for your future."
     },
     {
         "pos":  "Adjective",
@@ -15882,10 +15882,10 @@
         "sentence":  "He is a longtime supporter of the local football team."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Look",
-        "translation":  "Noun",
-        "sentence":  "Bakmak"
+        "translation":  "Bakmak / Görünüş",
+        "sentence":  "I look for new cost-down opportunities every day."
     },
     {
         "pos":  "Verb",
@@ -15930,10 +15930,10 @@
         "sentence":  "I thought I had lost my keys at the airport, but they were in my bag."
     },
     {
-        "pos":  "Pron.",
+        "pos":  "Pron. / Det.",
         "word":  "Lot",
-        "translation":  "Det.",
-        "sentence":  "Çok, çok fazla"
+        "translation":  "Çok, çok fazla",
+        "sentence":  "We have a lot of work to do before the launch of the channel."
     },
     {
         "pos":  "Noun",
@@ -15942,10 +15942,10 @@
         "sentence":  "He won a million dollars in the national lottery."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Loud",
-        "translation":  "Adv.",
-        "sentence":  "Yüksek sesli"
+        "translation":  "Yüksek sesli",
+        "sentence":  "The noise in the factory is very loud, so wear your earplugs."
     },
     {
         "pos":  "Adverb",
@@ -15954,16 +15954,16 @@
         "sentence":  "Please don\u0027t speak loudly in the office during working hours."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Love",
-        "translation":  "Verb",
-        "sentence":  "Aşk, sevgi"
+        "translation":  "Aşk, sevgi / Sevmek",
+        "sentence":  "I love my job and the challenges it brings every day."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv. / N.",
         "word":  "Low",
-        "translation":  "Adv.",
-        "sentence":  "N."
+        "translation":  "Düşük / Alçak",
+        "sentence":  "Our goal is to keep the sourcing costs as low as possible."
     },
     {
         "pos":  "Verb",
@@ -16044,10 +16044,10 @@
         "sentence":  "I saw an ad for a new car in a lifestyle magazine."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Magic",
-        "translation":  "Adj.",
-        "sentence":  "Sihir"
+        "translation":  "Sihir / Sihirli",
+        "sentence":  "There is no magic formula for success; it requires hard work."
     },
     {
         "pos":  "Adjective",
@@ -16074,10 +16074,10 @@
         "sentence":  "We didn\u0027t realize the magnitude of the problem at first."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Mail",
-        "translation":  "Verb",
-        "sentence":  "Posta"
+        "translation":  "Posta / Postalamak",
+        "sentence":  "I will check my mail for the final contract from the supplier."
     },
     {
         "pos":  "Adjective",
@@ -16116,10 +16116,10 @@
         "sentence":  "Regular maintenance is necessary to keep the car running well."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Major",
-        "translation":  "Noun",
-        "sentence":  "Büyük, önemli"
+        "translation":  "Büyük, önemli / Binbaşı, ana dal",
+        "sentence":  "Reliability is a major factor in our sourcing decisions."
     },
     {
         "pos":  "Noun",
@@ -16128,10 +16128,10 @@
         "sentence":  "The majority of our suppliers are located in Germany."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Make",
-        "translation":  "Noun",
-        "sentence":  "Yapmak"
+        "translation":  "Yapmak / Marka",
+        "sentence":  "I need to make a decision about the car financing plan."
     },
     {
         "pos":  "Noun",
@@ -16146,10 +16146,10 @@
         "sentence":  "This film was three years in the making."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Male",
-        "translation":  "Noun",
-        "sentence":  "Erkek"
+        "translation":  "Erkek",
+        "sentence":  "There are five male engineers in our production team."
     },
     {
         "pos":  "Noun",
@@ -16236,16 +16236,16 @@
         "sentence":  "The original manuscript of the book was found in a library."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron.",
         "word":  "Many",
-        "translation":  "Pron.",
-        "sentence":  "Birçok"
+        "translation":  "Birçok",
+        "sentence":  "Many people are interested in silver as a safe investment."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Map",
-        "translation":  "Verb",
-        "sentence":  "Harita"
+        "translation":  "Harita / Haritalandırmak",
+        "sentence":  "I used a map to find the location of the new supplier."
     },
     {
         "pos":  "Noun",
@@ -16284,10 +16284,10 @@
         "sentence":  "The biologist is studying marine life in the Mediterranean."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Mark",
-        "translation":  "Noun",
-        "sentence":  "İşaretlemek"
+        "translation":  "İşaretlemek / İşaret, not",
+        "sentence":  "Please mark the total weight on each gold piece."
     },
     {
         "pos":  "Noun",
@@ -16296,10 +16296,10 @@
         "sentence":  "Use a red marker to highlight the important dates."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Market",
-        "translation":  "Verb",
-        "sentence":  "Piyasa, pazar"
+        "translation":  "Piyasa, pazar / Pazarlamak",
+        "sentence":  "The silver market is very active these days."
     },
     {
         "pos":  "Noun",
@@ -16344,10 +16344,10 @@
         "sentence":  "You are required to wear a mask inside the hospital."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj.",
         "word":  "Mass",
-        "translation":  "Adj.",
-        "sentence":  "Kütle, kitle"
+        "translation":  "Kütle, kitle / Kitlesel",
+        "sentence":  "We are planning a mass production of the new product line."
     },
     {
         "pos":  "Noun",
@@ -16362,16 +16362,16 @@
         "sentence":  "The transition to alternative materials saved us a massive amount."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Master",
-        "translation":  "Verb",
-        "sentence":  "Efendi, usta"
+        "translation":  "Efendi, usta / Uzmanlaşmak",
+        "sentence":  "I want to master the art of strategic sourcing."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / V.",
         "word":  "Match",
-        "translation":  "V.",
-        "sentence":  "Maç, eşleşme"
+        "translation":  "Maç, eşleşme / Eşleşmek",
+        "sentence":  "I am analyzing the betting options for the next football match."
     },
     {
         "pos":  "Adjective",
@@ -16386,10 +16386,10 @@
         "sentence":  "He’s been my best mate since we were at school."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Material",
-        "translation":  "Adj.",
-        "sentence":  "Malzeme"
+        "translation":  "Malzeme / Maddi",
+        "sentence":  "Finding alternative raw material is my main task at work."
     },
     {
         "pos":  "Noun",
@@ -16410,10 +16410,10 @@
         "sentence":  "A strong background in mathematics is helpful for financial analysis."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Matter",
-        "translation":  "Verb",
-        "sentence":  "Mesele"
+        "translation":  "Mesele / Önemli olmak",
+        "sentence":  "Quality is a matter of great importance in our company."
     },
     {
         "pos":  "Adjective / Verb",
@@ -16428,10 +16428,10 @@
         "sentence":  "We need to maximize our resources to finish on time."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Maximum",
-        "translation":  "Noun",
-        "sentence":  "Maksimum"
+        "translation":  "Maksimum",
+        "sentence":  "We want to achieve the maximum possible cost reduction."
     },
     {
         "pos":  "Noun",
@@ -16442,8 +16442,8 @@
     {
         "pos":  "Modal Verb",
         "word":  "May",
-        "translation":  "-ebilir (olasılık",
-        "sentence":  "izin)"
+        "translation":  "-ebilir (olasılık / izin)",
+        "sentence":  "You may need to contact the airline for your flight refund."
     },
     {
         "pos":  "Adverb",
@@ -16506,10 +16506,10 @@
         "sentence":  "I am working on the report; meanwhile, the team is testing the samples."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Measure",
-        "translation":  "Noun",
-        "sentence":  "Ölçmek"
+        "translation":  "Ölçmek / Ölçü, önlem",
+        "sentence":  "We must measure the success of our cost-down work."
     },
     {
         "pos":  "Noun",
@@ -16584,10 +16584,10 @@
         "sentence":  "She practices meditation every morning to reduce stress."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Medium",
-        "translation":  "Noun",
-        "sentence":  "Orta"
+        "translation":  "Orta / Araç, ortam",
+        "sentence":  "Digital content is a powerful medium for education."
     },
     {
         "pos":  "Verb",
@@ -16662,10 +16662,10 @@
         "sentence":  "Strategic thinking requires a lot of mental effort."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Mention",
-        "translation":  "Noun",
-        "sentence":  "Bahsetmek"
+        "translation":  "Bahsetmek / Mansiyon",
+        "sentence":  "Did you mention the cost reduction in your evaluation note?"
     },
     {
         "pos":  "Noun",
@@ -16722,10 +16722,10 @@
         "sentence":  "Success should be based on merit, not on who you know."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Mess",
-        "translation":  "Verb",
-        "sentence":  "Dağınıklık"
+        "translation":  "Dağınıklık / Dağıtmak",
+        "sentence":  "Please clean up the mess in the material testing area."
     },
     {
         "pos":  "Noun",
@@ -16764,10 +16764,10 @@
         "sentence":  "The researchers explained the methodology used in their study."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Middle",
-        "translation":  "Adj.",
-        "sentence":  "Orta"
+        "translation":  "Orta",
+        "sentence":  "I\u0027ll meet you in the middle of the hall at 2 PM."
     },
     {
         "pos":  "Noun",
@@ -16812,10 +16812,10 @@
         "sentence":  "The group is known for its militant approach to environmental issues."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Military",
-        "translation":  "Noun",
-        "sentence":  "Askeri"
+        "translation":  "Askeri / Ordu",
+        "sentence":  "Global military spending can sometimes affect palladium prices."
     },
     {
         "pos":  "Noun",
@@ -16842,10 +16842,10 @@
         "sentence":  "The company saved one million dollars through the cost-down project."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Mind",
-        "translation":  "Verb",
-        "sentence":  "Zihin"
+        "translation":  "Zihin / Önemsemek, takmak",
+        "sentence":  "Do you mind if we reschedule the sourcing meeting?"
     },
     {
         "pos":  "Pronoun",
@@ -16884,10 +16884,10 @@
         "sentence":  "We need to minimize costs to stay competitive in the market."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Minimum",
-        "translation":  "Noun",
-        "sentence":  "Minimum"
+        "translation":  "Minimum",
+        "sentence":  "We need a minimum of three quotes from different suppliers."
     },
     {
         "pos":  "Noun",
@@ -16986,16 +16986,16 @@
         "sentence":  "Our mission is to reduce costs without compromising quality."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Mistake",
-        "translation":  "Verb",
-        "sentence":  "Hata"
+        "translation":  "Hata / Hata yapmak",
+        "sentence":  "Making a mistake in the price calculation can be very costly."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Mix",
-        "translation":  "Noun",
-        "sentence":  "Karıştırmak"
+        "translation":  "Karıştırmak / Karışım",
+        "sentence":  "You can mix different investment assets like gold and silver."
     },
     {
         "pos":  "Adjective",
@@ -17040,10 +17040,10 @@
         "sentence":  "What is your preferred mode of transport?"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Model",
-        "translation":  "Verb",
-        "sentence":  "Model"
+        "translation":  "Model / Modelini yapmak",
+        "sentence":  "I am looking at a new SUV model for my car purchase."
     },
     {
         "pos":  "Adjective",
@@ -17060,7 +17060,7 @@
     {
         "pos":  "Adjective",
         "word":  "Modest",
-        "translation":  "Alçakgönüllü, mütevazı (miktar/tavır)",
+        "translation":  "Alçakgönüllü, mütevazı (miktar / tavır)",
         "sentence":  "He lives in a modest house in a quiet part of town."
     },
     {
@@ -17112,10 +17112,10 @@
         "sentence":  "Investing your money wisely is the key to financial freedom."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Monitor",
-        "translation":  "Verb",
-        "sentence":  "Monitör"
+        "translation":  "Monitör / İzlemek",
+        "sentence":  "I monitor the precious metal prices on my second screen."
     },
     {
         "pos":  "Noun",
@@ -17172,10 +17172,10 @@
         "sentence":  "The moon was very bright during my flight back to İzmir."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Moral",
-        "translation":  "Noun",
-        "sentence":  "Ahlaki"
+        "translation":  "Ahlaki / Moral, ders",
+        "sentence":  "Maintaining high moral standards is essential in sourcing."
     },
     {
         "pos":  "Noun",
@@ -17184,10 +17184,10 @@
         "sentence":  "The film explores the boundaries of human morality."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Adv.",
         "word":  "More",
-        "translation":  "Pron.",
-        "sentence":  "Adv."
+        "translation":  "Daha fazla",
+        "sentence":  "We need more data about the drivers of silver prices."
     },
     {
         "pos":  "Adverb",
@@ -17220,10 +17220,10 @@
         "sentence":  "I was bitten by a mosquito while I was sleeping."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron. / Adv.",
         "word":  "Most",
-        "translation":  "Pron.",
-        "sentence":  "Adv."
+        "translation":  "En çok, çoğu",
+        "sentence":  "Most of our raw materials come from reliable suppliers in Europe."
     },
     {
         "pos":  "Adverb",
@@ -17262,10 +17262,10 @@
         "sentence":  "The police are still trying to establish a motive for the crime."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Motor",
-        "translation":  "Adj.",
-        "sentence":  "Motor"
+        "translation":  "Motor",
+        "sentence":  "The motor of the car I\u0027m looking at is very powerful."
     },
     {
         "pos":  "Noun",
@@ -17298,10 +17298,10 @@
         "sentence":  "(Genellikle biyolojik veya günlük konuşmada kullanılır.)"
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Move",
-        "translation":  "Noun",
-        "sentence":  "Hareket etmek, taşınmak"
+        "translation":  "Hareket etmek, taşınmak / Hamle",
+        "sentence":  "We are ready to move to the next stage of the project."
     },
     {
         "pos":  "Noun",
@@ -17322,10 +17322,10 @@
         "sentence":  "It was a very moving story that brought tears to my eyes."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron. / Adv.",
         "word":  "Much",
-        "translation":  "Pron.",
-        "sentence":  "Adv."
+        "translation":  "Çok",
+        "sentence":  "How much silver should we buy this month?"
     },
     {
         "pos":  "Noun",
@@ -17352,10 +17352,10 @@
         "sentence":  "The municipal elections will take place next month."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Murder",
-        "translation":  "Verb",
-        "sentence":  "Cinayet"
+        "translation":  "Cinayet / Öldürmek",
+        "sentence":  "(Genelde haberlerde veya kurgu metinlerde geçer.)"
     },
     {
         "pos":  "Noun",
@@ -17376,10 +17376,10 @@
         "sentence":  "The music for the children\u0027s channel must be very catchy."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Musical",
-        "translation":  "Noun",
-        "sentence":  "Müzikal"
+        "translation":  "Müzikal",
+        "sentence":  "I am looking for high-quality musical instruments for the songs."
     },
     {
         "pos":  "Noun",
@@ -17442,10 +17442,10 @@
         "sentence":  "The bacteria are too small to be seen with the naked eye."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Name",
-        "translation":  "Verb",
-        "sentence":  "İsim"
+        "translation":  "İsim / İsimlendirmek",
+        "sentence":  "What is the name of the alternative firm in Germany?"
     },
     {
         "pos":  "Adverb",
@@ -17454,16 +17454,16 @@
         "sentence":  "We have two main problems, namely a lack of time and money."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Narrative",
-        "translation":  "Adj.",
-        "sentence":  "Anlatı, hikaye"
+        "translation":  "Anlatı, hikaye",
+        "sentence":  "The narrative of the children\u0027s video should be easy to follow."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Verb",
         "word":  "Narrow",
-        "translation":  "Verb",
-        "sentence":  "Dar"
+        "translation":  "Dar / Daraltmak",
+        "sentence":  "We need to narrow down our list of potential suppliers."
     },
     {
         "pos":  "Adjective",
@@ -17478,10 +17478,10 @@
         "sentence":  "The entire nation is following the economic changes."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "National",
-        "translation":  "Noun",
-        "sentence":  "Ulusal"
+        "translation":  "Ulusal / Vatandaş",
+        "sentence":  "The national price for gold is updated every minute."
     },
     {
         "pos":  "Adjective",
@@ -17490,10 +17490,10 @@
         "sentence":  "The strike has caused nationwide disruption to rail services."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Native",
-        "translation":  "Noun",
-        "sentence":  "Yerli, ana"
+        "translation":  "Yerli, ana",
+        "sentence":  "I want to sound like a native speaker in English."
     },
     {
         "pos":  "Adjective",
@@ -17526,10 +17526,10 @@
         "sentence":  "The ship\u0027s navigation system failed in the heavy fog."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adj.",
         "word":  "Near",
-        "translation":  "Adj.",
-        "sentence":  "Yakın"
+        "translation":  "Yakın",
+        "sentence":  "Is there a bank near the office where I can buy palladium?"
     },
     {
         "pos":  "Adjective / Adverb",
@@ -17574,10 +17574,10 @@
         "sentence":  "(Günlük kullanım.)"
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Need",
-        "translation":  "Noun",
-        "sentence":  "İhtiyaç duymak"
+        "translation":  "İhtiyaç duymak / İhtiyaç",
+        "sentence":  "We need to analyze the drivers of the silver price increase."
     },
     {
         "pos":  "Noun",
@@ -17586,10 +17586,10 @@
         "sentence":  "(Günlük kullanım.)"
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Negative",
-        "translation":  "Noun",
-        "sentence":  "Olumsuz"
+        "translation":  "Olumsuz",
+        "sentence":  "A negative review from a supplier can hurt our reputation."
     },
     {
         "pos":  "Verb / Noun",
@@ -17628,10 +17628,10 @@
         "sentence":  "The war has caused a lot of concern in neighboring countries."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron. / Adv.",
         "word":  "Neither",
-        "translation":  "Pron.",
-        "sentence":  "Adv."
+        "translation":  "Ne o ne öbürü",
+        "sentence":  "Neither of the two financing options is perfect, but one is better."
     },
     {
         "pos":  "Noun",
@@ -17718,10 +17718,10 @@
         "sentence":  "I read the newspaper while having my morning coffee in İzmir."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv. / N.",
         "word":  "Next",
-        "translation":  "Adv.",
-        "sentence":  "N."
+        "translation":  "Sonraki",
+        "sentence":  "Next month, I will reach my fifth year at the company."
     },
     {
         "pos":  "Preposition",
@@ -17738,7 +17738,7 @@
     {
         "pos":  "Noun",
         "word":  "Niche",
-        "translation":  "Niş, uygun yer/alan",
+        "translation":  "Niş, uygun yer / alan",
         "sentence":  "The company has found a profitable niche in the luxury market."
     },
     {
@@ -17778,10 +17778,10 @@
         "sentence":  "The value of silver has increased by ninety percent in some periods."
     },
     {
-        "pos":  "Exclam.",
+        "pos":  "Exclam. / Det.",
         "word":  "No",
-        "translation":  "Det.",
-        "sentence":  "Hayır"
+        "translation":  "Hayır / Hiç",
+        "sentence":  "There is no doubt that palladium is a valuable asset."
     },
     {
         "pos":  "Pronoun",
@@ -17868,10 +17868,10 @@
         "sentence":  "The meeting is scheduled to start at noon."
     },
     {
-        "pos":  "Conj.",
+        "pos":  "Adv.",
         "word":  "Nor",
-        "translation":  "Adv.",
-        "sentence":  "Ne de"
+        "translation":  "Conj. / Ne de",
+        "sentence":  "He doesn\u0027t like gold, nor does he like silver as an investment."
     },
     {
         "pos":  "Noun",
@@ -17880,10 +17880,10 @@
         "sentence":  "Working late is the norm in many high-pressure jobs."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Normal",
-        "translation":  "Noun",
-        "sentence":  "Normal"
+        "translation":  "Normal",
+        "sentence":  "It is normal for market prices to fluctuate daily."
     },
     {
         "pos":  "Adverb",
@@ -17892,10 +17892,10 @@
         "sentence":  "Normally, I take the ferry to get across İzmir."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj. / Adv.",
         "word":  "North",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Kuzey",
+        "sentence":  "Russia, which is in the north, is a major producer of palladium."
     },
     {
         "pos":  "Adjective",
@@ -17928,10 +17928,10 @@
         "sentence":  "The region is famous for its fruit, notably its grapes and apples."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Note",
-        "translation":  "Verb",
-        "sentence":  "Not"
+        "translation":  "Not / Not etmek",
+        "sentence":  "I am drafting a note for my fifth-year self-evaluation."
     },
     {
         "pos":  "Noun",
@@ -17946,10 +17946,10 @@
         "sentence":  "Nothing is more important than family and health."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Notice",
-        "translation":  "Noun",
-        "sentence":  "Fark etmek"
+        "translation":  "Fark etmek / İlan, fark",
+        "sentence":  "I didn\u0027t notice the small change in the silver price at first."
     },
     {
         "pos":  "Verb",
@@ -17996,8 +17996,8 @@
     {
         "pos":  "Adv.",
         "word":  "Now",
-        "translation":  "Conj.",
-        "sentence":  "Şimdi"
+        "translation":  "Conj. / Şimdi",
+        "sentence":  "I am now ready to present my cost-down study."
     },
     {
         "pos":  "Adverb",
@@ -18018,10 +18018,10 @@
         "sentence":  "Nuclear energy production requires various specialized metals."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Number",
-        "translation":  "Verb",
-        "sentence":  "Sayı, numara"
+        "translation":  "Sayı, numara / Numaralandırmak",
+        "sentence":  "A large number of alternative firms have sent us their quotes."
     },
     {
         "pos":  "Adjective",
@@ -18072,10 +18072,10 @@
         "sentence":  "All employees must obey the safety regulations at the factory."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Object",
-        "translation":  "Verb",
-        "sentence":  "Nesne"
+        "translation":  "Nesne / İtiraz etmek",
+        "sentence":  "The main object of this meeting is to review supplier prices."
     },
     {
         "pos":  "Noun",
@@ -18084,10 +18084,10 @@
         "sentence":  "Does anyone have any objection to the proposed plan?"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Objective",
-        "translation":  "Adj.",
-        "sentence":  "Hedef"
+        "translation":  "Hedef / Nesnel",
+        "sentence":  "Our primary objective is to reduce raw material costs by 10%."
     },
     {
         "pos":  "Noun",
@@ -18228,10 +18228,10 @@
         "sentence":  "This is a summary of my cost-reduction achievements."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Prep.",
         "word":  "Off",
-        "translation":  "Prep.",
-        "sentence":  "Kapalı, dışına"
+        "translation":  "Kapalı, dışına",
+        "sentence":  "I have two days off next week to spend in İzmir."
     },
     {
         "pos":  "Verb",
@@ -18258,10 +18258,10 @@
         "sentence":  "We should avoid using offensive language in professional emails."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Offer",
-        "translation":  "Noun",
-        "sentence":  "Teklif etmek"
+        "translation":  "Teklif etmek / Teklif",
+        "sentence":  "The alternative firm made a very competitive offer."
     },
     {
         "pos":  "Noun",
@@ -18282,10 +18282,10 @@
         "sentence":  "The customs officer checked the shipment of precious metals."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Official",
-        "translation":  "Noun",
-        "sentence":  "Resmi"
+        "translation":  "Resmi / Memur",
+        "sentence":  "We are waiting for an official statement from the airline."
     },
     {
         "pos":  "Noun",
@@ -18312,10 +18312,10 @@
         "sentence":  "Rising oil prices can increase transportation costs for our goods."
     },
     {
-        "pos":  "Excl.",
+        "pos":  "Adj. / Adv.",
         "word":  "OK",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Excl. / Tamam, peki",
+        "sentence":  "OK, let\u0027s proceed with the Birevim car financing plan."
     },
     {
         "pos":  "Adjective",
@@ -18330,22 +18330,22 @@
         "sentence":  "Some of our sourcing methods are a bit old-fashioned."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adv.",
         "word":  "On",
-        "translation":  "Adv.",
-        "sentence":  "Üzerinde"
+        "translation":  "Üzerinde / Açık",
+        "sentence":  "I am working on a new project for the children\u0027s channel."
     },
     {
         "pos":  "Adv.",
         "word":  "Once",
-        "translation":  "Conj.",
-        "sentence":  "Bir kez"
+        "translation":  "Conj. / Bir kez / Olunca",
+        "sentence":  "I only check the palladium prices once a day."
     },
     {
-        "pos":  "Num.",
+        "pos":  "Det. / Pron.",
         "word":  "One",
-        "translation":  "Det.",
-        "sentence":  "Pron."
+        "translation":  "Num. / Bir",
+        "sentence":  "One of our main goals is to improve supplier management."
     },
     {
         "pos":  "Adjective",
@@ -18360,16 +18360,16 @@
         "sentence":  "(Günlük kullanım.)"
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Online",
-        "translation":  "Adv.",
-        "sentence":  "Çevrimiçi"
+        "translation":  "Çevrimiçi",
+        "sentence":  "You can track celebrity followings online using special tools."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Only",
-        "translation":  "Adv.",
-        "sentence":  "Sadece"
+        "translation":  "Sadece",
+        "sentence":  "Only a few employees have been with the firm for five years."
     },
     {
         "pos":  "Preposition",
@@ -18378,10 +18378,10 @@
         "sentence":  "We are moving the raw materials onto the new production line."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Verb",
         "word":  "Open",
-        "translation":  "Verb",
-        "sentence":  "Açık"
+        "translation":  "Açık / Açmak",
+        "sentence":  "The market for silver is open 24 hours a day."
     },
     {
         "pos":  "Noun",
@@ -18456,10 +18456,10 @@
         "sentence":  "I am opposed to taking unnecessary risks with our investments."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv. / Prep. / N.",
         "word":  "Opposite",
-        "translation":  "Adv.",
-        "sentence":  "Prep."
+        "translation":  "Karşıt, zıt",
+        "sentence":  "The alternative firm is located on the opposite side of the city."
     },
     {
         "pos":  "Noun",
@@ -18510,10 +18510,10 @@
         "sentence":  "The students have to take an oral exam at the end of the course."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Orange",
-        "translation":  "Adj.",
-        "sentence":  "Portakal"
+        "translation":  "Portakal / Turuncu",
+        "sentence":  "(Günlük kullanım.)"
     },
     {
         "pos":  "Noun",
@@ -18522,10 +18522,10 @@
         "sentence":  "He plays the violin in a world-famous symphony orchestra."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Order",
-        "translation":  "Verb",
-        "sentence":  "Sipariş, düzen"
+        "translation":  "Sipariş, düzen / Sipariş vermek",
+        "sentence":  "I need to place an order for more alternative raw materials."
     },
     {
         "pos":  "Adjective",
@@ -18588,10 +18588,10 @@
         "sentence":  "We must check the origin of all raw materials we import."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Original",
-        "translation":  "Noun",
-        "sentence":  "Orijinal"
+        "translation":  "Orijinal",
+        "sentence":  "The original plan was to buy a car in February."
     },
     {
         "pos":  "Adverb",
@@ -18606,10 +18606,10 @@
         "sentence":  "The game is thought to have originated in ancient China."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Pron.",
         "word":  "Other",
-        "translation":  "Pron.",
-        "sentence":  "Diğer"
+        "translation":  "Diğer",
+        "sentence":  "Are there any other alternative firms we should consider?"
     },
     {
         "pos":  "Adverb",
@@ -18642,10 +18642,10 @@
         "sentence":  "We can manage the social media automation project ourselves."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Prep.",
         "word":  "Out",
-        "translation":  "Prep.",
-        "sentence":  "Dışarıda"
+        "translation":  "Dışarıda",
+        "sentence":  "The truth about the silver price increase will soon be out."
     },
     {
         "pos":  "Noun",
@@ -18696,10 +18696,10 @@
         "sentence":  "The company has over fifty retail outlets across the country."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Outline",
-        "translation":  "Verb",
-        "sentence":  "Taslak"
+        "translation":  "Taslak / Özetlemek",
+        "sentence":  "Can you outline the main points of the strategic sourcing plan?"
     },
     {
         "pos":  "Noun",
@@ -18720,10 +18720,10 @@
         "sentence":  "The public was filled with outrage over the new tax law."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Prep. / N. / Adj.",
         "word":  "Outside",
-        "translation":  "Prep.",
-        "sentence":  "N."
+        "translation":  "Dışarıda / Dış / Dışarı",
+        "sentence":  "Let\u0027s meet outside the office at 6 PM."
     },
     {
         "pos":  "Noun",
@@ -18744,16 +18744,16 @@
         "sentence":  "(Günlük kullanım.)"
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adverb",
         "word":  "Over",
-        "translation":  "Adverb",
-        "sentence":  "Üzerinde"
+        "translation":  "Üzerinde / Bitti",
+        "sentence":  "The meeting is over, and we can finally go home."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adverb",
         "word":  "Overall",
-        "translation":  "Adverb",
-        "sentence":  "Genel"
+        "translation":  "Genel / Genel olarak",
+        "sentence":  "The overall performance of the department has improved."
     },
     {
         "pos":  "Verb",
@@ -18780,10 +18780,10 @@
         "sentence":  "He became a global celebrity almost overnight."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Adj.",
         "word":  "Overseas",
-        "translation":  "Adj.",
-        "sentence":  "Yurt dışı"
+        "translation":  "Yurt dışı",
+        "sentence":  "We are looking for more overseas suppliers for our factory."
     },
     {
         "pos":  "Verb",
@@ -18816,10 +18816,10 @@
         "sentence":  "I owe my success to the support of my colleagues."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Pron. / Verb",
         "word":  "Own",
-        "translation":  "Pron.",
-        "sentence":  "Verb"
+        "translation":  "Kendi / Sahip olmak",
+        "sentence":  "I want to own a new car by the end of the year."
     },
     {
         "pos":  "Noun",
@@ -18846,22 +18846,22 @@
         "sentence":  "The meeting will start at nine o\u0027clock sharp."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Pace",
-        "translation":  "Verb",
-        "sentence":  "Hız, adım"
+        "translation":  "Hız, adım / Adımlamak",
+        "sentence":  "The pace of the silver price increase is very fast."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Pack",
-        "translation":  "Noun",
-        "sentence":  "Paketlemek"
+        "translation":  "Paketlemek / Paket",
+        "sentence":  "I need to pack my bags for my business trip to Germany."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Package",
-        "translation":  "Verb",
-        "sentence":  "Paket"
+        "translation":  "Paket / Paketlemek",
+        "sentence":  "The package containing the raw material samples has arrived."
     },
     {
         "pos":  "Noun",
@@ -18894,10 +18894,10 @@
         "sentence":  "It was painful to see the gold prices drop so suddenly."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Paint",
-        "translation":  "Noun",
-        "sentence":  "Boyamak"
+        "translation":  "Boyamak / Boya",
+        "sentence":  "We need to paint the new storage area in the warehouse."
     },
     {
         "pos":  "Noun",
@@ -19002,10 +19002,10 @@
         "sentence":  "The study looks at the importance of parental involvement in education."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Park",
-        "translation":  "Verb",
-        "sentence":  "Park"
+        "translation":  "Park / Park etmek",
+        "sentence":  "It is difficult to find a place to park near the office in İzmir."
     },
     {
         "pos":  "Noun",
@@ -19098,10 +19098,10 @@
         "sentence":  "We are having a small party for my fifth work anniversary."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Pass",
-        "translation":  "Noun",
-        "sentence":  "Geçmek"
+        "translation":  "Geçmek / Geçiş",
+        "sentence":  "I need to pass the B2 English exam to get my certification."
     },
     {
         "pos":  "Noun",
@@ -19152,10 +19152,10 @@
         "sentence":  "You should never share your password with anyone else."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / N. / Prep. / Adv.",
         "word":  "Past",
-        "translation":  "N.",
-        "sentence":  "Prep."
+        "translation":  "Geçmiş / Geçmişte",
+        "sentence":  "In the past, we only used one supplier for this material."
     },
     {
         "pos":  "Noun",
@@ -19194,10 +19194,10 @@
         "sentence":  "Teaching small children requires a lot of patience."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adjective",
         "word":  "Patient",
-        "translation":  "Adjective",
-        "sentence":  "Hasta"
+        "translation":  "Hasta / Sabırlı",
+        "sentence":  "You need to be patient when investing in precious metals."
     },
     {
         "pos":  "Noun / Verb",
@@ -19224,10 +19224,10 @@
         "sentence":  "He paused for a moment to collect his thoughts."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Pay",
-        "translation":  "Noun",
-        "sentence":  "Ödemek"
+        "translation":  "Ödemek / Maaş",
+        "sentence":  "How much did you pay for that gram of gold?"
     },
     {
         "pos":  "Noun",
@@ -19326,10 +19326,10 @@
         "sentence":  "How do you perceive the current economic situation?"
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj. / Adv.",
         "word":  "Percent",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Yüzde",
+        "sentence":  "We achieved a five percent cost reduction this year."
     },
     {
         "pos":  "Noun",
@@ -19398,10 +19398,10 @@
         "sentence":  "I have permission to work from home two days a week."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Permit",
-        "translation":  "Noun",
-        "sentence":  "İzin vermek"
+        "translation":  "İzin vermek / İzin belgesi",
+        "sentence":  "The manager will permit us to start the new project next month."
     },
     {
         "pos":  "Verb",
@@ -19506,16 +19506,16 @@
         "sentence":  "My professional philosophy is based on transparency and cost efficiency."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Phone",
-        "translation":  "Verb",
-        "sentence":  "Telefon"
+        "translation":  "Telefon / Telefon etmek",
+        "sentence":  "I need to phone the supplier in Germany to confirm the shipment."
     },
     {
-        "pos":  "Photograph",
+        "pos":  "Noun",
         "word":  "Photo",
-        "translation":  "Noun",
-        "sentence":  "Fotoğraf"
+        "translation":  "Photograph / Fotoğraf",
+        "sentence":  "I took a photo of the gold bars to keep as a record."
     },
     {
         "pos":  "Noun",
@@ -19548,16 +19548,16 @@
         "sentence":  "We can use piano melodies for the educational children\u0027s songs."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Pick",
-        "translation":  "Noun",
-        "sentence":  "Seçmek, toplamak"
+        "translation":  "Seçmek, toplamak / Seçim",
+        "sentence":  "I need to pick the most reliable alternative firm among the options."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Picture",
-        "translation":  "Verb",
-        "sentence":  "Resim"
+        "translation":  "Resim / Hayal etmek",
+        "sentence":  "Can you picture the YouTube channel reaching 10,000 subscribers?"
     },
     {
         "pos":  "Noun",
@@ -19572,10 +19572,10 @@
         "sentence":  "The children\u0027s video will have a song about a little pig."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Pile",
-        "translation":  "Verb",
-        "sentence":  "Yığın"
+        "translation":  "Yığın / Üst üste yığmak",
+        "sentence":  "There is a pile of evaluation notes on my desk waiting to be signed."
     },
     {
         "pos":  "Noun",
@@ -19590,16 +19590,16 @@
         "sentence":  "The pilot apologized for the flight delay at Sabiha Gökçen."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Pin",
-        "translation":  "Verb",
-        "sentence":  "İğne"
+        "translation":  "İğne / İğnelemek",
+        "sentence":  "I used a pin to attach the anniversary note to the board."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Pink",
-        "translation":  "Noun",
-        "sentence":  "Pembe"
+        "translation":  "Pembe",
+        "sentence":  "(Renk.)"
     },
     {
         "pos":  "Noun / Verb",
@@ -19634,8 +19634,8 @@
     {
         "pos":  "Noun",
         "word":  "Pitch",
-        "translation":  "Saha",
-        "sentence":  "Ses tonu"
+        "translation":  "Saha / Ses tonu / Atış",
+        "sentence":  "(Spor veya müzik bağlamında kullanılır.)"
     },
     {
         "pos":  "Noun",
@@ -19644,10 +19644,10 @@
         "sentence":  "It\u0027s a pity that you couldn\u0027t come to the party."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Place",
-        "translation":  "Verb",
-        "sentence":  "Yer"
+        "translation":  "Yer / Yerleştirmek",
+        "sentence":  "İzmir is a great place to start a new digital project."
     },
     {
         "pos":  "Noun",
@@ -19662,10 +19662,10 @@
         "sentence":  "I prefer a plain and clear design for my social media pages."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Plan",
-        "translation":  "Verb",
-        "sentence":  "Plan"
+        "translation":  "Plan / Planlamak",
+        "sentence":  "My plan for the next year is to increase my palladium holdings."
     },
     {
         "pos":  "Noun",
@@ -19686,16 +19686,16 @@
         "sentence":  "Strategic planning is the most important part of sourcing."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Plant",
-        "translation":  "Verb",
-        "sentence":  "Bitki, fabrika"
+        "translation":  "Bitki, fabrika / Dikmek",
+        "sentence":  "We visited the chemical plant to inspect the raw materials."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Plastic",
-        "translation":  "Adj.",
-        "sentence":  "Plastik"
+        "translation":  "Plastik",
+        "sentence":  "We are trying to use less plastic in our packaging process."
     },
     {
         "pos":  "Noun",
@@ -19710,10 +19710,10 @@
         "sentence":  "YouTube is the perfect platform for my educational content."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Play",
-        "translation":  "Noun",
-        "sentence":  "Oynamak"
+        "translation":  "Oynamak / Oyun",
+        "sentence":  "The children will play and learn with our new videos."
     },
     {
         "pos":  "Noun",
@@ -19730,7 +19730,7 @@
     {
         "pos":  "Verb",
         "word":  "Plead",
-        "translation":  "Yalvarmak, (suçunu) kabul etmek/etmemek",
+        "translation":  "Yalvarmak, (suçunu) kabul etmek / etmemek",
         "sentence":  "He decided to plead guilty to the charges."
     },
     {
@@ -19740,10 +19740,10 @@
         "sentence":  "It was a pleasant surprise to receive a bonus for my 5th year."
     },
     {
-        "pos":  "Exclam.",
+        "pos":  "Exclam. / Verb",
         "word":  "Please",
-        "translation":  "Verb",
-        "sentence":  "Lütfen"
+        "translation":  "Lütfen / Memnun etmek",
+        "sentence":  "Please calculate the total weight of these three half-gold pieces."
     },
     {
         "pos":  "Adjective",
@@ -19770,10 +19770,10 @@
         "sentence":  "There is plenty of information online about silver price trends."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Plot",
-        "translation":  "Verb",
-        "sentence":  "Konu, kurgu"
+        "translation":  "Konu, kurgu / Komplo",
+        "sentence":  "(Genelde hikayeler için kullanılır.)"
     },
     {
         "pos":  "Verb / Noun",
@@ -19788,10 +19788,10 @@
         "sentence":  "The company\u0027s share price began to plunge after the news."
     },
     {
-        "pos":  "Prep.",
+        "pos":  "Prep. / Adj.",
         "word":  "Plus",
-        "translation":  "Adj.",
-        "sentence":  "Artı, ek olarak"
+        "translation":  "Artı, ek olarak",
+        "sentence":  "My experience plus my English skills make me a strong candidate."
     },
     {
         "pos":  "Noun",
@@ -19806,10 +19806,10 @@
         "sentence":  "(Edebiyat terimi.)"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Point",
-        "translation":  "Verb",
-        "sentence":  "Nokta"
+        "translation":  "Nokta / İşaret etmek",
+        "sentence":  "The main point of the self-evaluation is to show my growth."
     },
     {
         "pos":  "Adjective",
@@ -19818,10 +19818,10 @@
         "sentence":  "(Fiziksel özellik.)"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Poison",
-        "translation":  "Verb",
-        "sentence":  "Zehir"
+        "translation":  "Zehir / Zehirlemek",
+        "sentence":  "(Genel kullanım.)"
     },
     {
         "pos":  "Adjective",
@@ -19896,10 +19896,10 @@
         "sentence":  "I’m just going to pop into the shop for a minute."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj.",
         "word":  "Pop",
-        "translation":  "Adj.",
-        "sentence":  "Pop (müzik vb.)"
+        "translation":  "Pop (müzik vb.)",
+        "sentence":  "(Genel kullanım.)"
     },
     {
         "pos":  "Adjective",
@@ -19946,14 +19946,14 @@
     {
         "pos":  "Verb",
         "word":  "Pose",
-        "translation":  "Poz vermek",
-        "sentence":  "Teşkil etmek"
+        "translation":  "Poz vermek / Teşkil etmek",
+        "sentence":  "High raw material prices pose a challenge to our budget."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Position",
-        "translation":  "Verb",
-        "sentence":  "Konum"
+        "translation":  "Konum / Konumlandırmak",
+        "sentence":  "My position as a strategic sourcing employee is very important."
     },
     {
         "pos":  "Adjective",
@@ -19992,10 +19992,10 @@
         "sentence":  "I will possibly travel to Germany for a supplier visit in May."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Post",
-        "translation":  "Verb",
-        "sentence":  "Posta, gönderi"
+        "translation":  "Posta, gönderi / Paylaşmak",
+        "sentence":  "I will post a new video on my YouTube channel next week."
     },
     {
         "pos":  "Verb",
@@ -20022,10 +20022,10 @@
         "sentence":  "(Yiyecek.)"
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Potential",
-        "translation":  "Noun",
-        "sentence":  "Potansiyel"
+        "translation":  "Potansiyel",
+        "sentence":  "We are evaluating the potential of several new alternative firms."
     },
     {
         "pos":  "Adverb",
@@ -20036,8 +20036,8 @@
     {
         "pos":  "Noun",
         "word":  "Pound",
-        "translation":  "Sterlin",
-        "sentence":  "Pound (ağırlık)"
+        "translation":  "Sterlin / Pound (ağırlık)",
+        "sentence":  "(Para birimi veya ağırlık birimi.)"
     },
     {
         "pos":  "Verb",
@@ -20058,10 +20058,10 @@
         "sentence":  "Some raw materials are delivered in the form of a fine powder."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Power",
-        "translation":  "Verb",
-        "sentence":  "Güç"
+        "translation":  "Güç / Güç vermek",
+        "sentence":  "Knowledge of the market gives you the power to negotiate better."
     },
     {
         "pos":  "Adjective",
@@ -20076,10 +20076,10 @@
         "sentence":  "Finding alternative suppliers is a practical way to save money."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Practice",
-        "translation":  "Verb",
-        "sentence":  "Uygulama, pratik"
+        "translation":  "Uygulama, pratik / Pratik yapmak",
+        "sentence":  "I need more practice to speak German fluently."
     },
     {
         "pos":  "Noun",
@@ -20088,10 +20088,10 @@
         "sentence":  "He is a general practitioner with over twenty years of experience."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Praise",
-        "translation":  "Verb",
-        "sentence":  "Övgü"
+        "translation":  "Övgü / Övmek",
+        "sentence":  "My manager gave me a lot of praise for the cost-down project."
     },
     {
         "pos":  "Verb",
@@ -20268,10 +20268,10 @@
         "sentence":  "Your presence at the meeting is required."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / N. / V.",
         "word":  "Present",
-        "translation":  "N.",
-        "sentence":  "V."
+        "translation":  "Mevcut / Hediye / Sunmak",
+        "sentence":  "I will present the cost-reduction results to the management."
     },
     {
         "pos":  "Noun",
@@ -20322,10 +20322,10 @@
         "sentence":  "The presidential election will take place next month."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Press",
-        "translation":  "Noun",
-        "sentence":  "Basmak"
+        "translation":  "Basmak / Basın",
+        "sentence":  "Press the button to start the machine in the factory."
     },
     {
         "pos":  "Noun",
@@ -20358,10 +20358,10 @@
         "sentence":  "(Günlük kullanım.)"
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv.",
         "word":  "Pretty",
-        "translation":  "Adv.",
-        "sentence":  "Güzel"
+        "translation":  "Güzel / Oldukça",
+        "sentence":  "The silver price increase was pretty impressive last week."
     },
     {
         "pos":  "Verb",
@@ -20406,10 +20406,10 @@
         "sentence":  "The eagle circled high in the sky, searching for its prey."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Price",
-        "translation":  "Verb",
-        "sentence":  "Fiyat"
+        "translation":  "Fiyat / Fiyatlandırmak",
+        "sentence":  "The price of palladium has reached a new high this January."
     },
     {
         "pos":  "Noun",
@@ -20436,10 +20436,10 @@
         "sentence":  "My primary goal is to finish my B2 English vocabulary."
     },
     {
-        "pos":  "Princess",
+        "pos":  "Noun",
         "word":  "Prince",
-        "translation":  "Noun",
-        "sentence":  "Prens"
+        "translation":  "Princess / Prens / Prenses",
+        "sentence":  "(Genel terim.)"
     },
     {
         "pos":  "Adj. / Noun",
@@ -20448,10 +20448,10 @@
         "sentence":  "The principal goal of this meeting is to reduce production costs."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj.",
         "word":  "Principal",
-        "translation":  "Adj.",
-        "sentence":  "Müdür"
+        "translation":  "Müdür / Asıl, temel",
+        "sentence":  "The principal reason for the meeting is cost reduction."
     },
     {
         "pos":  "Noun",
@@ -20460,10 +20460,10 @@
         "sentence":  "I follow the principle of honesty in all my work tasks."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Print",
-        "translation":  "Noun",
-        "sentence":  "Yazdırmak"
+        "translation":  "Yazdırmak / Baskı",
+        "sentence":  "I need to print the new list of A1 English words."
     },
     {
         "pos":  "Noun",
@@ -20580,10 +20580,10 @@
         "sentence":  "The proceeds from the charity event will be used to build a school."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Process",
-        "translation":  "Verb",
-        "sentence":  "Süreç"
+        "translation":  "Süreç / İşlemek",
+        "sentence":  "The process of managing alternative firms is very detailed."
     },
     {
         "pos":  "Noun",
@@ -20646,10 +20646,10 @@
         "sentence":  "Sourcing is a very challenging but interesting profession."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Professional",
-        "translation":  "Noun",
-        "sentence":  "Profesyonel"
+        "translation":  "Profesyonel",
+        "sentence":  "It is important to maintain a professional attitude at work."
     },
     {
         "pos":  "Noun",
@@ -20682,10 +20682,10 @@
         "sentence":  "The discovery of the new material had a profound impact on the industry."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Program",
-        "translation":  "Verb",
-        "sentence":  "Program"
+        "translation":  "Program / Programlamak",
+        "sentence":  "We are using a new program to track raw material prices."
     },
     {
         "pos":  "Noun",
@@ -20694,10 +20694,10 @@
         "sentence":  "I am learning Python for my social media programming project."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Progress",
-        "translation":  "Verb",
-        "sentence":  "İlerleme"
+        "translation":  "İlerleme / İlerlemek",
+        "sentence":  "I am making good progress with my German lessons."
     },
     {
         "pos":  "Adjective",
@@ -20712,10 +20712,10 @@
         "sentence":  "The law will prohibit the use of certain harmful chemicals."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Project",
-        "translation":  "Verb",
-        "sentence":  "Proje"
+        "translation":  "Proje / Tasarlamak",
+        "sentence":  "My latest project is a YouTube channel for children."
     },
     {
         "pos":  "Noun",
@@ -20730,10 +20730,10 @@
         "sentence":  "He is a prominent figure in the field of strategic sourcing."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Promise",
-        "translation":  "Noun",
-        "sentence":  "Söz vermek"
+        "translation":  "Söz vermek / Söz",
+        "sentence":  "I promise to finish the match analysis by 7 PM."
     },
     {
         "pos":  "Adjective",
@@ -20744,8 +20744,8 @@
     {
         "pos":  "Verb",
         "word":  "Promote",
-        "translation":  "Terfi ettirmek",
-        "sentence":  "Tanıtım yapmak"
+        "translation":  "Terfi ettirmek / Tanıtım yapmak",
+        "sentence":  "The company decided to promote me after five years of service."
     },
     {
         "pos":  "Noun",
@@ -20886,10 +20886,10 @@
         "sentence":  "A diet high in protein is essential for muscle recovery."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Protest",
-        "translation":  "Verb",
-        "sentence":  "Protesto"
+        "translation":  "Protesto / Protesto etmek",
+        "sentence":  "(Toplumsal terim.)"
     },
     {
         "pos":  "Noun",
@@ -20964,10 +20964,10 @@
         "sentence":  "(Genel terim.)"
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Public",
-        "translation":  "Noun",
-        "sentence":  "Halk, kamu"
+        "translation":  "Halk, kamu",
+        "sentence":  "The public interest in silver has increased recently."
     },
     {
         "pos":  "Noun",
@@ -20994,10 +20994,10 @@
         "sentence":  "She has a successful career in the academic publishing industry."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Pull",
-        "translation":  "Noun",
-        "sentence":  "Çekmek"
+        "translation":  "Çekmek",
+        "sentence":  "(Genel kullanım.)"
     },
     {
         "pos":  "Noun",
@@ -21018,22 +21018,22 @@
         "sentence":  "He managed to block the punch and defend himself."
     },
     {
-        "pos":  "Punishment",
+        "pos":  "Verb / Noun",
         "word":  "Punish",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Punishment / Cezalandırmak / Ceza",
+        "sentence":  "(Hukuki terim.)"
     },
     {
         "pos":  "Noun",
         "word":  "Punk",
-        "translation":  "Punk (kültür/müzik)",
+        "translation":  "Punk (kültür / müzik)",
         "sentence":  "He was very interested in punk rock music during his youth."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Purchase",
-        "translation":  "Verb",
-        "sentence":  "Satın alma"
+        "translation":  "Satın alma / Satın almak",
+        "sentence":  "I am planning to purchase a new car soon."
     },
     {
         "pos":  "Adjective",
@@ -21066,10 +21066,10 @@
         "sentence":  "He spent his life in the pursuit of scientific knowledge."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Push",
-        "translation":  "Noun",
-        "sentence":  "İtmek"
+        "translation":  "İtmek",
+        "sentence":  "(Genel kullanım.)"
     },
     {
         "pos":  "Verb",
@@ -21138,10 +21138,10 @@
         "sentence":  "The team is on a quest to find the highest quality raw materials."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Question",
-        "translation":  "Verb",
-        "sentence":  "Soru"
+        "translation":  "Soru / Sorgulamak",
+        "sentence":  "If you have any questions about the car loan, feel free to ask."
     },
     {
         "pos":  "Noun",
@@ -21150,16 +21150,16 @@
         "sentence":  "Please fill out the questionnaire regarding your recent flight experience."
     },
     {
-        "pos":  "Quickly",
+        "pos":  "Adj. / Adv.",
         "word":  "Quick",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Quickly / Hızlı / Hızlıca",
+        "sentence":  "I need a quick analysis of the Beşiktaş match results."
     },
     {
-        "pos":  "Quietly",
+        "pos":  "Adj. / Adv.",
         "word":  "Quiet",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Quietly / Sessiz / Sessizce",
+        "sentence":  "I like to work in a quiet office during the morning."
     },
     {
         "pos":  "Verb",
@@ -21180,16 +21180,16 @@
         "sentence":  "The government has set a quota on the import of certain goods."
     },
     {
-        "pos":  "Quote",
+        "pos":  "Noun / Verb",
         "word":  "Quotation",
-        "translation":  "Noun",
-        "sentence":  "Verb"
+        "translation":  "Quote / Alıntı, teklif / Teklif vermek",
+        "sentence":  "I received a quote from three different alternative firms."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Race",
-        "translation":  "Verb",
-        "sentence":  "Yarış"
+        "translation":  "Yarış / Yarışmak",
+        "sentence":  "(Spor veya rekabet bağlamında.)"
     },
     {
         "pos":  "Adjective",
@@ -21264,16 +21264,16 @@
         "sentence":  "(Ulaşım terimi.)"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Rain",
-        "translation":  "Verb",
-        "sentence":  "Yağmur"
+        "translation":  "Yağmur / Yağmak",
+        "sentence":  "It started to rain just as I left the airport in İzmir."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Raise",
-        "translation":  "Noun",
-        "sentence":  "Artırmak"
+        "translation":  "Artırmak / Zam",
+        "sentence":  "I am going to ask for a raise during my 5th-year review."
     },
     {
         "pos":  "Noun / Verb",
@@ -21288,16 +21288,16 @@
         "sentence":  "The samples were selected at random for quality testing."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Range",
-        "translation":  "Verb",
-        "sentence":  "Menzil, çeşitlilik"
+        "translation":  "Menzil, çeşitlilik",
+        "sentence":  "We offer a wide range of alternative raw materials."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Rank",
-        "translation":  "Verb",
-        "sentence":  "Sıra, rütbe"
+        "translation":  "Sıra, rütbe / Sıralamak",
+        "sentence":  "Our company ranks high in the strategic sourcing industry."
     },
     {
         "pos":  "Noun",
@@ -21312,16 +21312,16 @@
         "sentence":  "The suspect was arrested and charged with rape."
     },
     {
-        "pos":  "Rapidly",
+        "pos":  "Adj. / Adv.",
         "word":  "Rapid",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Rapidly / Hızlı / Hızla",
+        "sentence":  "Silver prices have been increasing rapidly since January."
     },
     {
-        "pos":  "Rarely",
+        "pos":  "Adj. / Adv.",
         "word":  "Rare",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Rarely / Nadir / Nadiren",
+        "sentence":  "It is rare to find such high-quality palladium at this price."
     },
     {
         "pos":  "Noun",
@@ -21330,10 +21330,10 @@
         "sentence":  "We need to call pest control to deal with the rats in the basement."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Rate",
-        "translation":  "Verb",
-        "sentence":  "Oran"
+        "translation":  "Oran / Değer biçmek",
+        "sentence":  "The interest rate at Akbank will affect my car financing."
     },
     {
         "pos":  "Adverb",
@@ -21372,16 +21372,16 @@
         "sentence":  "A single ray of sunshine came through the office window."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Reach",
-        "translation":  "Noun",
-        "sentence":  "Ulaşmak"
+        "translation":  "Ulaşmak",
+        "sentence":  "We hope to reach our cost-down targets by June."
     },
     {
-        "pos":  "Reaction",
+        "pos":  "Verb / Noun",
         "word":  "React",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Reaction / Tepki vermek / Tepki",
+        "sentence":  "How did the supplier react to your proposal?"
     },
     {
         "pos":  "Verb",
@@ -21534,10 +21534,10 @@
         "sentence":  "He picked up the receiver and dialed the number for the supplier."
     },
     {
-        "pos":  "Recently",
+        "pos":  "Adj. / Adv.",
         "word":  "Recent",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Recently / Son zamanlarda",
+        "sentence":  "Have you seen the recent changes in the silver market?"
     },
     {
         "pos":  "Noun",
@@ -21582,10 +21582,10 @@
         "sentence":  "I recognize the importance of alternative raw materials."
     },
     {
-        "pos":  "Recommendation",
+        "pos":  "Verb / Noun",
         "word":  "Recommend",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Recommendation / Önermek / Öneri",
+        "sentence":  "Can you recommend a good alternative supplier?"
     },
     {
         "pos":  "Noun",
@@ -21594,10 +21594,10 @@
         "sentence":  "The reconstruction of the bridge will take several months."
     },
     {
-        "pos":  "Recording",
+        "pos":  "N. / V. / N.",
         "word":  "Record",
-        "translation":  "N.",
-        "sentence":  "V."
+        "translation":  "Recording / Kayıt / Kaydetmek",
+        "sentence":  "I keep a record of every gram of gold I buy."
     },
     {
         "pos":  "Verb",
@@ -21636,22 +21636,22 @@
         "sentence":  "We aim to recycle as much metal as possible in our factory."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Red",
-        "translation":  "Noun",
-        "sentence":  "Kırmızı"
+        "translation":  "Kırmızı",
+        "sentence":  "(Renk.)"
     },
     {
-        "pos":  "Reduction",
+        "pos":  "Verb / Noun",
         "word":  "Reduce",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Reduction / Azaltmak / Azalma",
+        "sentence":  "Our main task is to reduce raw material costs."
     },
     {
-        "pos":  "Reference",
+        "pos":  "Verb / Noun",
         "word":  "Refer",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Reference / Atıfta bulunmak / Referans",
+        "sentence":  "Please refer to the sourcing report for more details."
     },
     {
         "pos":  "Noun",
@@ -21720,10 +21720,10 @@
         "sentence":  "We hope to regain our market share with this new strategy."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Regard",
-        "translation":  "Noun",
-        "sentence":  "Saygı duymak, kabul etmek"
+        "translation":  "Saygı duymak, kabul etmek / Bakış",
+        "sentence":  "I regard this anniversary as a major milestone."
     },
     {
         "pos":  "Adverb",
@@ -21738,16 +21738,16 @@
         "sentence":  "The old military regime was replaced by a democratic government."
     },
     {
-        "pos":  "Regional",
+        "pos":  "Noun / Adj.",
         "word":  "Region",
-        "translation":  "Noun",
-        "sentence":  "Adj."
+        "translation":  "Regional / Bölge / Bölgesel",
+        "sentence":  "Sourcing materials from this region is very cost-effective."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Register",
-        "translation":  "Noun",
-        "sentence":  "Kaydolmak"
+        "translation":  "Kaydolmak / Kayıt",
+        "sentence":  "You need to register for the car financing program."
     },
     {
         "pos":  "Noun",
@@ -21756,16 +21756,16 @@
         "sentence":  "Please complete your registration for the seminar by Friday."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Regret",
-        "translation":  "Noun",
-        "sentence":  "Pişman olmak"
+        "translation":  "Pişman olmak / Pişmanlık",
+        "sentence":  "I don\u0027t regret my decision to move to İzmir."
     },
     {
-        "pos":  "Regularly",
+        "pos":  "Adj. / Adv.",
         "word":  "Regular",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Regularly / Düzenli / Düzenli olarak",
+        "sentence":  "I check the silver prices regularly throughout the day."
     },
     {
         "pos":  "Verb",
@@ -21822,34 +21822,34 @@
         "sentence":  "Dealing with rejection is a part of the sales process."
     },
     {
-        "pos":  "Related",
+        "pos":  "Verb / Adj.",
         "word":  "Relate",
-        "translation":  "Verb",
-        "sentence":  "Adj."
+        "translation":  "Related / İlişkilendirmek / İlişkili",
+        "sentence":  "Sourcing is closely related to supply chain management."
     },
     {
-        "pos":  "Relationship",
+        "pos":  "Noun",
         "word":  "Relation",
-        "translation":  "Noun",
-        "sentence":  "İlişki"
+        "translation":  "Relationship / İlişki",
+        "sentence":  "We have a strong relationship with our German suppliers."
     },
     {
-        "pos":  "Relatively",
+        "pos":  "Adj. / N. / Adv.",
         "word":  "Relative",
-        "translation":  "Adj.",
-        "sentence":  "N."
+        "translation":  "Relatively / Akraba / Göreceli / Nispeten",
+        "sentence":  "Silver is relatively cheap compared to gold and palladium."
     },
     {
-        "pos":  "Relaxed",
+        "pos":  "V. / Adj.",
         "word":  "Relax",
-        "translation":  "Relaxing",
-        "sentence":  "V."
+        "translation":  "Relaxed / Relaxing / Rahatlamak / Rahat / Rahatlatıcı",
+        "sentence":  "After a long day at the factory, I like to relax by the sea."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Release",
-        "translation":  "Noun",
-        "sentence":  "Serbest bırakmak, yayınlamak"
+        "translation":  "Serbest bırakmak, yayınlamak",
+        "sentence":  "The airline will release a statement about the flight cancellation."
     },
     {
         "pos":  "Noun",
@@ -21894,10 +21894,10 @@
         "sentence":  "I was so relieved to hear that the flight was not canceled."
     },
     {
-        "pos":  "Religious",
+        "pos":  "Noun / Adj.",
         "word":  "Religion",
-        "translation":  "Noun",
-        "sentence":  "Adj."
+        "translation":  "Religious / Din / Dini",
+        "sentence":  "(Genel terimler.)"
     },
     {
         "pos":  "Adjective",
@@ -21930,10 +21930,10 @@
         "sentence":  "The remains of an old factory were found near the coast."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Remark",
-        "translation":  "Verb",
-        "sentence":  "Görüş, gözlem"
+        "translation":  "Görüş, gözlem / Belirtmek",
+        "sentence":  "I made a small remark about the supplier\u0027s delivery time."
     },
     {
         "pos":  "Adjective",
@@ -22008,10 +22008,10 @@
         "sentence":  "He is a renowned expert in strategic asset management."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Rent",
-        "translation":  "Verb",
-        "sentence":  "Kira"
+        "translation":  "Kira / Kiralamak",
+        "sentence":  "I pay a reasonable rent for my apartment in İzmir."
     },
     {
         "pos":  "Noun",
@@ -22020,16 +22020,16 @@
         "sentence":  "We are looking for a car rental service in İzmir for the weekend."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Repair",
-        "translation":  "Noun",
-        "sentence":  "Tamir etmek"
+        "translation":  "Tamir etmek / Tamir",
+        "sentence":  "We had to repair the production machine last week."
     },
     {
-        "pos":  "Repeated",
+        "pos":  "Verb / Adj.",
         "word":  "Repeat",
-        "translation":  "Verb",
-        "sentence":  "Adj."
+        "translation":  "Repeated / Tekrarlamak / Tekrarlanan",
+        "sentence":  "I had to repeat the calculation to be absolutely sure."
     },
     {
         "pos":  "Verb",
@@ -22044,16 +22044,16 @@
         "sentence":  "We found a suitable replacement for the discontinued material."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Reply",
-        "translation":  "Noun",
-        "sentence":  "Cevap vermek"
+        "translation":  "Cevap vermek / Cevap",
+        "sentence":  "I am waiting for a reply from the German sourcing office."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Report",
-        "translation":  "Verb",
-        "sentence":  "Rapor"
+        "translation":  "Rapor / Raporlamak",
+        "sentence":  "I am writing a detailed report on cost-reduction strategies."
     },
     {
         "pos":  "Adverb",
@@ -22086,10 +22086,10 @@
         "sentence":  "The union provides fair representation for all workers."
     },
     {
-        "pos":  "N.",
+        "pos":  "N. / Adj.",
         "word":  "Representative",
-        "translation":  "Adj.",
-        "sentence":  "Temsilci"
+        "translation":  "Temsilci / Temsili",
+        "sentence":  "The sales representative from the firm visited our factory."
     },
     {
         "pos":  "Verb",
@@ -22116,10 +22116,10 @@
         "sentence":  "Our company has a great reputation for quality sourcing."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Request",
-        "translation":  "Verb",
-        "sentence":  "İstek, talep"
+        "translation":  "İstek, talep / Rica etmek",
+        "sentence":  "I sent a request to the firm for a new price list."
     },
     {
         "pos":  "Verb",
@@ -22134,16 +22134,16 @@
         "sentence":  "Lowering costs is a key requirement for this project."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Rescue",
-        "translation":  "Noun",
-        "sentence":  "Kurtarmak"
+        "translation":  "Kurtarmak / Kurtarma",
+        "sentence":  "(Acil durumlar için kullanılır.)"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Research",
-        "translation":  "Verb",
-        "sentence":  "Araştırma"
+        "translation":  "Araştırma / Araştırmak",
+        "sentence":  "I am doing research on silver market drivers."
     },
     {
         "pos":  "Noun",
@@ -22164,10 +22164,10 @@
         "sentence":  "I need to make a hotel reservation for my trip to Germany."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Reserve",
-        "translation":  "Verb",
-        "sentence":  "Rezerv"
+        "translation":  "Rezerv / Ayırmak",
+        "sentence":  "We should always keep a reserve of essential raw materials."
     },
     {
         "pos":  "Verb",
@@ -22182,10 +22182,10 @@
         "sentence":  "He changed his legal residence after moving to İzmir."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adjective",
         "word":  "Resident",
-        "translation":  "Adjective",
-        "sentence":  "Bölge sakini"
+        "translation":  "Bölge sakini / Yerleşik",
+        "sentence":  "I am a resident of İzmir, one of the most beautiful cities in Turkey."
     },
     {
         "pos":  "Adjective",
@@ -22248,10 +22248,10 @@
         "sentence":  "Human resources managed my 5th-year anniversary process."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Respect",
-        "translation":  "Verb",
-        "sentence":  "Saygı"
+        "translation":  "Saygı / Saygı duymak",
+        "sentence":  "We must respect the terms of the contract with our suppliers."
     },
     {
         "pos":  "Adjective",
@@ -22296,10 +22296,10 @@
         "sentence":  "I calculated 5 grams of gold, and the rest are silver coins."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Rest",
-        "translation":  "Verb",
-        "sentence":  "Dinlenme"
+        "translation":  "Dinlenme / Dinlenmek",
+        "sentence":  "I need to rest after a long day at the factory."
     },
     {
         "pos":  "Noun",
@@ -22338,10 +22338,10 @@
         "sentence":  "There are several restrictions on importing palladium."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Result",
-        "translation":  "Verb",
-        "sentence":  "Sonuç"
+        "translation":  "Sonuç / Sonuçlanmak",
+        "sentence":  "The result of the cost-down study was very positive."
     },
     {
         "pos":  "Verb",
@@ -22392,10 +22392,10 @@
         "sentence":  "I need to retrieve the contract details from the digital archive."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Return",
-        "translation":  "Noun",
-        "sentence":  "Dönmek"
+        "translation":  "Dönmek / Getiri, dönüş",
+        "sentence":  "The return on my gold investment has been quite high."
     },
     {
         "pos":  "Verb",
@@ -22428,10 +22428,10 @@
         "sentence":  "The court decided to reverse its previous ruling."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Review",
-        "translation":  "Verb",
-        "sentence":  "İnceleme"
+        "translation":  "İnceleme / Gözden geçirmek",
+        "sentence":  "I need to review my self-evaluation note one last time."
     },
     {
         "pos":  "Verb",
@@ -22470,10 +22470,10 @@
         "sentence":  "The new raw material is truly revolutionary for our industry."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Reward",
-        "translation":  "Verb",
-        "sentence":  "Ödül"
+        "translation":  "Ödül / Ödüllendirmek",
+        "sentence":  "Achieving the cost target was a great reward for the team."
     },
     {
         "pos":  "Noun",
@@ -22506,10 +22506,10 @@
         "sentence":  "We need to get rid of inefficient sourcing methods."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Ride",
-        "translation":  "Noun",
-        "sentence":  "Binmek"
+        "translation":  "Binmek / Binme, sürüş",
+        "sentence":  "I enjoy the ferry ride in İzmir every morning."
     },
     {
         "pos":  "Adjective",
@@ -22524,16 +22524,16 @@
         "sentence":  "The hunter cleaned his rifle before heading into the forest."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv. / N.",
         "word":  "Right",
-        "translation":  "Adv.",
-        "sentence":  "N."
+        "translation":  "Doğru / Hak / Sağ",
+        "sentence":  "You are right about the silver price increase."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Ring",
-        "translation":  "Verb",
-        "sentence":  "Yüzük"
+        "translation":  "Yüzük / Çalmak (telefon / zil)",
+        "sentence":  "My phone rang while I was calculating the gold grams."
     },
     {
         "pos":  "Noun",
@@ -22548,16 +22548,16 @@
         "sentence":  "Be careful not to rip the important document."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Rise",
-        "translation":  "Noun",
-        "sentence":  "Yükselmek"
+        "translation":  "Yükselmek / Yükseliş",
+        "sentence":  "The rise in palladium prices caught everyone’s attention."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Risk",
-        "translation":  "Verb",
-        "sentence":  "Risk"
+        "translation":  "Risk / Riski göze almak",
+        "sentence":  "Every investment has a certain level of risk."
     },
     {
         "pos":  "Adjective",
@@ -22622,8 +22622,8 @@
     {
         "pos":  "Noun",
         "word":  "Rock",
-        "translation":  "Kaya",
-        "sentence":  "Rock müzik"
+        "translation":  "Kaya / Rock müzik",
+        "sentence":  "(Genel terim.)"
     },
     {
         "pos":  "Noun",
@@ -22644,10 +22644,10 @@
         "sentence":  "My role in the company has evolved over the last five years."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Roll",
-        "translation":  "Noun",
-        "sentence":  "Yuvarlanmak"
+        "translation":  "Yuvarlanmak / Rulo",
+        "sentence":  "(Genel kullanım.)"
     },
     {
         "pos":  "Noun",
@@ -22676,8 +22676,8 @@
     {
         "pos":  "Noun",
         "word":  "Room",
-        "translation":  "Oda",
-        "sentence":  "Yer, alan"
+        "translation":  "Oda / Yer, alan",
+        "sentence":  "Is there any room for more silver coins in your safe?"
     },
     {
         "pos":  "Noun",
@@ -22728,10 +22728,10 @@
         "sentence":  "There are roughly 200 words in this English vocabulary list."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Adv. / Prep.",
         "word":  "Round",
-        "translation":  "Adv.",
-        "sentence":  "Prep."
+        "translation":  "Yuvarlak / Etrafında",
+        "sentence":  "Gold coins are usually round in shape."
     },
     {
         "pos":  "Noun",
@@ -22740,10 +22740,10 @@
         "sentence":  "What is the best route from Sabiha Gökçen to İzmir?"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adjective",
         "word":  "Routine",
-        "translation":  "Adjective",
-        "sentence":  "Rutin"
+        "translation":  "Rutin",
+        "sentence":  "Checking market prices is part of my daily routine."
     },
     {
         "pos":  "Noun",
@@ -22754,8 +22754,8 @@
     {
         "pos":  "Adjective",
         "word":  "Royal",
-        "translation":  "Kraliyet",
-        "sentence":  "Muhteşem"
+        "translation":  "Kraliyet / Muhteşem",
+        "sentence":  "(Genel terim.)"
     },
     {
         "pos":  "Verb",
@@ -22764,10 +22764,10 @@
         "sentence":  "(Genel kullanım.)"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adjective",
         "word":  "Rubber",
-        "translation":  "Adjective",
-        "sentence":  "Kauçuk, lastik"
+        "translation":  "Kauçuk, lastik",
+        "sentence":  "Rubber is an important raw material for some industries."
     },
     {
         "pos":  "Adjective",
@@ -22782,10 +22782,10 @@
         "sentence":  "Don\u0027t let a small mistake ruin your professional evaluation."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Rule",
-        "translation":  "Verb",
-        "sentence":  "Kural"
+        "translation":  "Kural / Yönetmek",
+        "sentence":  "We must follow the rules of the Birevim system."
     },
     {
         "pos":  "Noun",
@@ -22800,16 +22800,16 @@
         "sentence":  "I heard a rumor that the cost of silver is about to drop."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Run",
-        "translation":  "Noun",
-        "sentence":  "Koşmak"
+        "translation":  "Koşmak / Çalıştırmak",
+        "sentence":  "I want to run my own YouTube channel for kids."
     },
     {
-        "pos":  "Running",
+        "pos":  "Noun",
         "word":  "Runner",
-        "translation":  "Noun",
-        "sentence":  "Koşucu"
+        "translation":  "Running / Koşucu / Koşu",
+        "sentence":  "(Spor terimi.)"
     },
     {
         "pos":  "Adjective",
@@ -22818,10 +22818,10 @@
         "sentence":  "We are sourcing some materials from rural areas of the country."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Rush",
-        "translation":  "Noun",
-        "sentence":  "Acele etmek"
+        "translation":  "Acele etmek / Yoğunluk",
+        "sentence":  "There is no need to rush into a car purchase decision."
     },
     {
         "pos":  "Noun",
@@ -22842,10 +22842,10 @@
         "sentence":  "Success often requires a lot of hard work and sacrifice."
     },
     {
-        "pos":  "Sadly",
+        "pos":  "Adj. / Adv.",
         "word":  "Sad",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Sadly / Üzgün / Ne yazık ki",
+        "sentence":  "Sadly, my flight to İzmir was canceled yesterday."
     },
     {
         "pos":  "Adjective",
@@ -22860,10 +22860,10 @@
         "sentence":  "Employee safety is the top priority in our factory."
     },
     {
-        "pos":  "Sailing",
+        "pos":  "Verb / Noun",
         "word":  "Sail",
-        "translation":  "Sailor",
-        "sentence":  "Verb"
+        "translation":  "Sailing / Sailor / Yelken açmak / Denizci",
+        "sentence":  "(Denizcilik terimleri.)"
     },
     {
         "pos":  "Noun",
@@ -22902,16 +22902,16 @@
         "sentence":  "(Yiyecek.)"
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Pron. / Adv.",
         "word":  "Same",
-        "translation":  "Pron.",
-        "sentence":  "Adv."
+        "translation":  "Aynı",
+        "sentence":  "We use the same supplier for both gold and silver trading."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Sample",
-        "translation":  "Verb",
-        "sentence":  "Örnek"
+        "translation":  "Örnek / Örneklemek",
+        "sentence":  "I requested a sample of the new alternative raw material."
     },
     {
         "pos":  "Noun",
@@ -22944,10 +22944,10 @@
         "sentence":  "We strive for total customer satisfaction with every order."
     },
     {
-        "pos":  "Satisfy",
+        "pos":  "Adj. / Verb",
         "word":  "Satisfied",
-        "translation":  "Adj.",
-        "sentence":  "Verb"
+        "translation":  "Satisfy / Memnun / Memnun etmek",
+        "sentence":  "Are you satisfied with the performance of the alternative firm?"
     },
     {
         "pos":  "Noun",
@@ -22988,8 +22988,8 @@
     {
         "pos":  "Noun",
         "word":  "Scale",
-        "translation":  "Ölçek",
-        "sentence":  "Terazi"
+        "translation":  "Ölçek / Terazi",
+        "sentence":  "Use a digital scale to weigh your gold accurately."
     },
     {
         "pos":  "Verb",
@@ -23010,10 +23010,10 @@
         "sentence":  "The sudden drop in gold prices gave many investors a scare."
     },
     {
-        "pos":  "Scary",
+        "pos":  "Adjective",
         "word":  "Scared",
-        "translation":  "Adjective",
-        "sentence":  "Korkmuş"
+        "translation":  "Scary / Korkmuş / Korkutucu",
+        "sentence":  "High inflation can be scary for new investors."
     },
     {
         "pos":  "Adjective",
@@ -23034,10 +23034,10 @@
         "sentence":  "The first scene of the children\u0027s video is in a forest."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Schedule",
-        "translation":  "Verb",
-        "sentence":  "Program"
+        "translation":  "Program / Programlamak",
+        "sentence":  "I have a very tight schedule this week at the factory."
     },
     {
         "pos":  "Noun",
@@ -23058,10 +23058,10 @@
         "sentence":  "(Eğitim terimi.)"
     },
     {
-        "pos":  "Scientific",
+        "pos":  "Noun / Adjective",
         "word":  "Science",
-        "translation":  "Noun",
-        "sentence":  "Adjective"
+        "translation":  "Scientific / Bilim / Bilimsel",
+        "sentence":  "We use scientific methods to analyze market trends."
     },
     {
         "pos":  "Noun",
@@ -23076,10 +23076,10 @@
         "sentence":  "This issue is outside the scope of our current cost-down study."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Score",
-        "translation":  "Noun",
-        "sentence":  "Puan"
+        "translation":  "Puan / Skor",
+        "sentence":  "(Spor veya sınav terimi.)"
     },
     {
         "pos":  "Verb / Noun",
@@ -23088,16 +23088,16 @@
         "sentence":  "Be careful not to scratch the screen of your new laptop."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Scream",
-        "translation":  "Noun",
-        "sentence":  "Çığlık atmak"
+        "translation":  "Çığlık atmak",
+        "sentence":  "(Genel kullanım.)"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Screen",
-        "translation":  "Verb",
-        "sentence":  "Ekran"
+        "translation":  "Ekran / Taramak, incelemek",
+        "sentence":  "I spend many hours looking at my computer screen."
     },
     {
         "pos":  "Noun",
@@ -23142,28 +23142,28 @@
         "sentence":  "Please seal the envelope before you send the contract."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Search",
-        "translation":  "Verb",
-        "sentence":  "Arama"
+        "translation":  "Arama / Aramak",
+        "sentence":  "I did a Google search for Akbank palladium prices."
     },
     {
         "pos":  "Noun",
         "word":  "Season",
-        "translation":  "Mevsim",
-        "sentence":  "Sezon"
+        "translation":  "Mevsim / Sezon",
+        "sentence":  "The new season of the football league is very exciting."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Seat",
-        "translation":  "Verb",
-        "sentence":  "Koltuk"
+        "translation":  "Koltuk / Oturtmak",
+        "sentence":  "I hope I can get a window seat on my next flight."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Number",
         "word":  "Second",
-        "translation":  "Number",
-        "sentence":  "İkinci"
+        "translation":  "İkinci / Saniye",
+        "sentence":  "This is my second time analyzing this specific match."
     },
     {
         "pos":  "Adjective",
@@ -23178,10 +23178,10 @@
         "sentence":  "Secondly, we need to evaluate the quality of the new material."
     },
     {
-        "pos":  "Adjective",
+        "pos":  "Adjective / Noun",
         "word":  "Secret",
-        "translation":  "Noun",
-        "sentence":  "Gizli"
+        "translation":  "Gizli / Sır",
+        "sentence":  "What is the secret to finding alternative suppliers?"
     },
     {
         "pos":  "Noun",
@@ -23208,10 +23208,10 @@
         "sentence":  "Turkey is a secular republic with a modern legal system."
     },
     {
-        "pos":  "Security",
+        "pos":  "Verb / Adj. / N.",
         "word":  "Secure",
-        "translation":  "Verb",
-        "sentence":  "Adj."
+        "translation":  "Security / Güvenceye almak / Güvenlik",
+        "sentence":  "We need to secure a better deal with the new supplier."
     },
     {
         "pos":  "Verb",
@@ -23268,10 +23268,10 @@
         "sentence":  "I seldom have free time during the busy sourcing season."
     },
     {
-        "pos":  "Selection",
+        "pos":  "Verb / Noun",
         "word":  "Select",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Selection / Seçmek / Seçim",
+        "sentence":  "You must select the best financing path for your needs."
     },
     {
         "pos":  "Adjective",
@@ -23298,10 +23298,10 @@
         "sentence":  "I attended an informative seminar on digital asset management."
     },
     {
-        "pos":  "Senator",
+        "pos":  "Noun",
         "word":  "Senate",
-        "translation":  "Noun",
-        "sentence":  "Senato"
+        "translation":  "Senator / Senato / Senatör",
+        "sentence":  "(Siyasi terimler.)"
     },
     {
         "pos":  "Verb",
@@ -23322,10 +23322,10 @@
         "sentence":  "I had a strange sensation that I had met the supplier before."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Sense",
-        "translation":  "Verb",
-        "sentence":  "Anlam, duyu"
+        "translation":  "Anlam, duyu / Hissetmek",
+        "sentence":  "It makes sense to diversify your investments."
     },
     {
         "pos":  "Adjective",
@@ -23346,10 +23346,10 @@
         "sentence":  "Price sensitivity is high in the raw material market right now."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Sentence",
-        "translation":  "Verb",
-        "sentence":  "Cümle"
+        "translation":  "Cümle / Mahkum etmek",
+        "sentence":  "Can you write a sentence using the word \"sourcing\"?"
     },
     {
         "pos":  "Noun",
@@ -23358,10 +23358,10 @@
         "sentence":  "Market sentiment regarding silver has been very positive recently."
     },
     {
-        "pos":  "Adjective",
+        "pos":  "Adjective / Verb",
         "word":  "Separate",
-        "translation":  "Verb",
-        "sentence":  "Ayrı"
+        "translation":  "Ayrı / Ayırmak",
+        "sentence":  "Keep your professional and personal projects separate."
     },
     {
         "pos":  "Noun",
@@ -23394,10 +23394,10 @@
         "sentence":  "I am watching a series about investment strategies."
     },
     {
-        "pos":  "Seriously",
+        "pos":  "Adj. / Adv.",
         "word":  "Serious",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Seriously / Ciddi / Ciddiyetle",
+        "sentence":  "Are you serious about launching a YouTube channel?"
     },
     {
         "pos":  "Noun",
@@ -23406,10 +23406,10 @@
         "sentence":  "(Genel terim.)"
     },
     {
-        "pos":  "Service",
+        "pos":  "Verb / Noun",
         "word":  "Serve",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Service / Hizmet etmek / Hizmet",
+        "sentence":  "I have served this company for five years."
     },
     {
         "pos":  "Noun",
@@ -23418,10 +23418,10 @@
         "sentence":  "The morning session will focus on cost reduction."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Set",
-        "translation":  "Noun",
-        "sentence":  "Kurmak, koymak"
+        "translation":  "Kurmak, koymak / Set, grup",
+        "sentence":  "We need to set a target for our next cost-down study."
     },
     {
         "pos":  "Noun",
@@ -23454,16 +23454,16 @@
         "sentence":  "I really like your new home office setup in İzmir."
     },
     {
-        "pos":  "Seventeen",
+        "pos":  "Number",
         "word":  "Seven",
-        "translation":  "Seventy",
-        "sentence":  "Number"
+        "translation":  "Seventeen / Seventy / 7 / 17 / 70",
+        "sentence":  "(Sayılar.)"
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pronoun",
         "word":  "Several",
-        "translation":  "Pronoun",
-        "sentence":  "Birkaç"
+        "translation":  "Birkaç",
+        "sentence":  "There are several ways to calculate the gram value of gold."
     },
     {
         "pos":  "Adjective",
@@ -23478,10 +23478,10 @@
         "sentence":  "The supply chain was severely affected by the global crisis."
     },
     {
-        "pos":  "Sexual",
+        "pos":  "Noun / Adjective",
         "word":  "Sex",
-        "translation":  "Noun",
-        "sentence":  "Adjective"
+        "translation":  "Sexual / Cinsiyet / Cinsel",
+        "sentence":  "(Genel terimler.)"
     },
     {
         "pos":  "Noun",
@@ -23496,16 +23496,16 @@
         "sentence":  "The new marketing campaign has a very sexy and modern feel."
     },
     {
-        "pos":  "Shadow",
+        "pos":  "Noun",
         "word":  "Shade",
-        "translation":  "Noun",
-        "sentence":  "Gölge"
+        "translation":  "Shadow / Gölge",
+        "sentence":  "(Genel kullanım.)"
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Shake",
-        "translation":  "Noun",
-        "sentence":  "Sallamak"
+        "translation":  "Sallamak / Sarsıntı",
+        "sentence":  "(Genel kullanım.)"
     },
     {
         "pos":  "Modal Verb",
@@ -23526,10 +23526,10 @@
         "sentence":  "It\u0027s a shame that the flight was canceled."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Shape",
-        "translation":  "Verb",
-        "sentence":  "Şekil"
+        "translation":  "Şekil / Şekillendirmek",
+        "sentence":  "(Genel kullanım.)"
     },
     {
         "pos":  "Adjective",
@@ -23538,10 +23538,10 @@
         "sentence":  "The raw materials are shaped into various components for production."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Share",
-        "translation":  "Noun",
-        "sentence":  "Paylaşmak"
+        "translation":  "Paylaşmak / Pay, hisse",
+        "sentence":  "I will share my 5th-year review with my manager."
     },
     {
         "pos":  "Noun",
@@ -23562,10 +23562,10 @@
         "sentence":  "The news of the bankruptcy managed to shatter her confidence."
     },
     {
-        "pos":  "Sheep",
+        "pos":  "Pronoun / Noun",
         "word":  "She",
-        "translation":  "Pronoun",
-        "sentence":  "Noun"
+        "translation":  "Sheep / O (kadın) / Koyun",
+        "sentence":  "(Genel kullanım.)"
     },
     {
         "pos":  "Verb",
@@ -23598,28 +23598,28 @@
         "sentence":  "(Genel kullanım.)"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Shelter",
-        "translation":  "Verb",
-        "sentence":  "Barınak"
+        "translation":  "Barınak / Barınmak",
+        "sentence":  "(Genel kullanım.)"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Shift",
-        "translation":  "Verb",
-        "sentence":  "Vardiya"
+        "translation":  "Vardiya / Kaydırmak, değiştirmek",
+        "sentence":  "I\u0027m working the morning shift at the factory this week."
     },
     {
-        "pos":  "Shiny",
+        "pos":  "Verb / Adjective",
         "word":  "Shine",
-        "translation":  "Verb",
-        "sentence":  "Adjective"
+        "translation":  "Shiny / Parlamak / Parlak",
+        "sentence":  "Polished silver looks very shiny."
     },
     {
-        "pos":  "Shipping",
+        "pos":  "Noun / Verb",
         "word":  "Ship",
-        "translation":  "Noun",
-        "sentence":  "Verb"
+        "translation":  "Shipping / Gemi / Sevk etmek",
+        "sentence":  "We need to ship the materials to İzmir by Friday."
     },
     {
         "pos":  "Noun",
@@ -23634,10 +23634,10 @@
         "sentence":  "(Giyim.)"
     },
     {
-        "pos":  "Shocked",
+        "pos":  "Noun / Verb / Adj.",
         "word":  "Shock",
-        "translation":  "Noun",
-        "sentence":  "Verb"
+        "translation":  "Shocked / Şok / Şok olmuş",
+        "sentence":  "I was shocked by the sudden drop in silver prices."
     },
     {
         "pos":  "Adjective",
@@ -23658,16 +23658,16 @@
         "sentence":  "We are planning a video shoot for the new YouTube channel."
     },
     {
-        "pos":  "Shooting",
+        "pos":  "Verb / Noun",
         "word":  "Shoot",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Shooting / Ateş etmek, çekim yapmak",
+        "sentence":  "We are shooting a video for the YouTube channel today."
     },
     {
-        "pos":  "Shopping",
+        "pos":  "Noun / Verb",
         "word":  "Shop",
-        "translation":  "Noun",
-        "sentence":  "Verb"
+        "translation":  "Shopping / Dükkan / Alışveriş",
+        "sentence":  "I go shopping for electronics in İzmir."
     },
     {
         "pos":  "Noun",
@@ -23718,16 +23718,16 @@
         "sentence":  "(Vücut parçası.)"
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Shout",
-        "translation":  "Noun",
-        "sentence":  "Bağırmak"
+        "translation":  "Bağırmak / Bağırış",
+        "sentence":  "(Genel kullanım.)"
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Show",
-        "translation":  "Noun",
-        "sentence":  "Göstermek"
+        "translation":  "Göstermek / Gösteri",
+        "sentence":  "Can you show me the latest cost-down report?"
     },
     {
         "pos":  "Noun",
@@ -23748,10 +23748,10 @@
         "sentence":  "He just gave a shrug when I asked about the flight compensation."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Adjective",
         "word":  "Shut",
-        "translation":  "Adjective",
-        "sentence":  "Kapatmak"
+        "translation":  "Kapatmak / Kapalı",
+        "sentence":  "The sourcing office is shut on weekends."
     },
     {
         "pos":  "Adjective",
@@ -23796,16 +23796,16 @@
         "sentence":  "The port of İzmir is a beautiful sight."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Sign",
-        "translation":  "Verb",
-        "sentence":  "İşaret, tabela"
+        "translation":  "İşaret, tabela / İmzalamak",
+        "sentence":  "Don\u0027t forget to sign the delivery note."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Signal",
-        "translation":  "Verb",
-        "sentence":  "Sinyal"
+        "translation":  "Sinyal / Sinyal vermek",
+        "sentence":  "A rise in volume is a positive signal for the market."
     },
     {
         "pos":  "Noun",
@@ -23820,16 +23820,16 @@
         "sentence":  "The discovery of silver in the region was of great significance."
     },
     {
-        "pos":  "Significantly",
+        "pos":  "Adj. / Adv.",
         "word":  "Significant",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Significantly / Önemli / Önemli ölçüde",
+        "sentence":  "We saved a significant amount of money this month."
     },
     {
-        "pos":  "Silent",
+        "pos":  "Noun / Adjective",
         "word":  "Silence",
-        "translation":  "Noun",
-        "sentence":  "Adjective"
+        "translation":  "Silent / Sessizlik / Sessiz",
+        "sentence":  "It\u0027s important to remain silent and listen during negotiations."
     },
     {
         "pos":  "Noun",
@@ -23844,22 +23844,22 @@
         "sentence":  "Don\u0027t make a silly mistake with the gold weight calculation."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adjective",
         "word":  "Silver",
-        "translation":  "Adjective",
-        "sentence":  "Gümüş"
+        "translation":  "Gümüş",
+        "sentence":  "Silver is currently my favorite investment asset."
     },
     {
-        "pos":  "Similarity",
+        "pos":  "Adj. / N. / Adv.",
         "word":  "Similar",
-        "translation":  "Similarly",
-        "sentence":  "Adj."
+        "translation":  "Similarity / Similarly / Benzer / Benzerlik / Benzer şekilde",
+        "sentence":  "These two alternative firms are very similar."
     },
     {
-        "pos":  "Simply",
+        "pos":  "Adj. / Adv.",
         "word":  "Simple",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Simply / Basit / Basitçe",
+        "sentence":  "Strategic sourcing is simply about finding the best value."
     },
     {
         "pos":  "Verb",
@@ -23888,8 +23888,8 @@
     {
         "pos":  "Prep.",
         "word":  "Since",
-        "translation":  "Conj.",
-        "sentence":  "-den beri"
+        "translation":  "Conj. / -den beri / -dığı için",
+        "sentence":  "I have been with the company since 2021."
     },
     {
         "pos":  "Adjective",
@@ -23898,22 +23898,22 @@
         "sentence":  "Please accept my sincere thanks for your support."
     },
     {
-        "pos":  "Singer",
+        "pos":  "Verb / Noun",
         "word":  "Sing",
-        "translation":  "Singing",
-        "sentence":  "Verb"
+        "translation":  "Singer / Singing / Şarkı söylemek / Şarkıcı",
+        "sentence":  "My YouTube channel features singing for kids."
     },
     {
-        "pos":  "Adjective",
+        "pos":  "Adjective / Noun",
         "word":  "Single",
-        "translation":  "Noun",
-        "sentence":  "Tek, bekar"
+        "translation":  "Tek, bekar",
+        "sentence":  "We need a single point of contact for this supplier."
     },
     {
         "pos":  "Verb",
         "word":  "Sink",
-        "translation":  "Batmak",
-        "sentence":  "Lavabo"
+        "translation":  "Batmak / Lavabo",
+        "sentence":  "(Genel kullanım.)"
     },
     {
         "pos":  "Noun",
@@ -23952,10 +23952,10 @@
         "sentence":  "The supply situation is improving day by day."
     },
     {
-        "pos":  "Sixteen",
+        "pos":  "Number",
         "word":  "Six",
-        "translation":  "Sixty",
-        "sentence":  "Number"
+        "translation":  "Sixteen / Sixty / 6 / 16 / 60",
+        "sentence":  "(Sayılar.)"
     },
     {
         "pos":  "Noun",
@@ -23976,10 +23976,10 @@
         "sentence":  "Can you provide a quick sketch of the new YouTube channel logo?"
     },
     {
-        "pos":  "Skiing",
+        "pos":  "Verb / Noun",
         "word":  "Ski",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Skiing / Kayak yapmak / Kayak",
+        "sentence":  "(Spor.)"
     },
     {
         "pos":  "Noun",
@@ -23997,7 +23997,7 @@
         "pos":  "Noun",
         "word":  "Skin",
         "translation":  "Cilt, deri",
-        "sentence":  "(Vücut parçası.)"
+        "sentence":  "Use a high-quality lotion to keep your skin hydrated."
     },
     {
         "pos":  "Verb",
@@ -24009,7 +24009,7 @@
         "pos":  "Noun",
         "word":  "Skirt",
         "translation":  "Etek",
-        "sentence":  "(Giyim.)"
+        "sentence":  "She wore a long blue skirt to the party."
     },
     {
         "pos":  "Noun",
@@ -24021,7 +24021,7 @@
         "pos":  "Noun",
         "word":  "Sky",
         "translation":  "Gökyüzü",
-        "sentence":  "(Doğa.)"
+        "sentence":  "The sky is very clear tonight in İzmir."
     },
     {
         "pos":  "Verb",
@@ -24045,7 +24045,7 @@
         "pos":  "Noun",
         "word":  "Slave",
         "translation":  "Köle",
-        "sentence":  "(Tarihi"
+        "sentence":  "History books describe the difficult lives of slaves in ancient Rome."
     },
     {
         "pos":  "Noun",
@@ -24054,28 +24054,28 @@
         "sentence":  "Many historical books discuss the abolition of slavery in the 19th century."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Sleep",
-        "translation":  "Noun",
-        "sentence":  "Uyumak"
+        "translation":  "Uyumak / Uyku",
+        "sentence":  "I didn\u0027t get much sleep because of the match analysis."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Slice",
-        "translation":  "Verb",
-        "sentence":  "Dilim"
+        "translation":  "Dilim / Dilimlemek",
+        "sentence":  "Would you like another slice of pizza?"
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Slide",
-        "translation":  "Noun",
-        "sentence":  "Kaymak"
+        "translation":  "Kaymak / Slayt",
+        "sentence":  "I will show a slide about cost-down results."
     },
     {
-        "pos":  "Slightly",
+        "pos":  "Adj. / Adverb",
         "word":  "Slight",
-        "translation":  "Adj.",
-        "sentence":  "Adverb"
+        "translation":  "Slightly / Hafif / Hafifçe",
+        "sentence":  "There was a slight delay in the shipment of raw materials."
     },
     {
         "pos":  "Verb",
@@ -24090,10 +24090,10 @@
         "sentence":  "A catchy slogan is essential for a successful marketing campaign."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Slope",
-        "translation":  "Verb",
-        "sentence":  "Eğim, yamaç"
+        "translation":  "Eğim, yamaç / Eğilmek",
+        "sentence":  "The mountain slope is very steep and difficult to climb."
     },
     {
         "pos":  "Noun",
@@ -24102,10 +24102,10 @@
         "sentence":  "I have a free slot in my schedule at 3 PM for our meeting."
     },
     {
-        "pos":  "Slowly",
+        "pos":  "Adj. / Adverb",
         "word":  "Slow",
-        "translation":  "Adj.",
-        "sentence":  "Adverb"
+        "translation":  "Slowly / Yavaş / Yavaşça",
+        "sentence":  "The process of finding an alternative firm is slow but necessary."
     },
     {
         "pos":  "Adjective",
@@ -24132,22 +24132,22 @@
         "sentence":  "The waiter accidentally dropped the tray and watched the glasses smash."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Smell",
-        "translation":  "Noun",
-        "sentence":  "Koklamak"
+        "translation":  "Koklamak / Koku",
+        "sentence":  "I love the smell of fresh coffee in the morning."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Smile",
-        "translation":  "Noun",
-        "sentence":  "Gülümsemek"
+        "translation":  "Gülümsemek / Gülümseme",
+        "sentence":  "A friendly smile can help during a difficult negotiation."
     },
     {
-        "pos":  "Smoking",
+        "pos":  "Noun / Verb",
         "word":  "Smoke",
-        "translation":  "Noun",
-        "sentence":  "Verb"
+        "translation":  "Smoking / Duman / Sigara içmek",
+        "sentence":  "We saw thick black smoke coming from the factory chimney."
     },
     {
         "pos":  "Adjective",
@@ -24159,7 +24159,7 @@
         "pos":  "Noun",
         "word":  "Snake",
         "translation":  "Yılan",
-        "sentence":  "(Hayvan.)"
+        "sentence":  "Be careful while walking in the tall grass; there might be snakes."
     },
     {
         "pos":  "Verb",
@@ -24171,19 +24171,19 @@
         "pos":  "Noun",
         "word":  "Sneaker",
         "translation":  "Spor ayakkabı",
-        "sentence":  "(Giyim.)"
+        "sentence":  "I bought a new pair of sneakers for my morning runs."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Snow",
-        "translation":  "Verb",
-        "sentence":  "Kar"
+        "translation":  "Kar / Kar yağmak",
+        "sentence":  "It started to snow heavily while we were driving home."
     },
     {
         "pos":  "Adverb",
         "word":  "So",
-        "translation":  "Conj.",
-        "sentence":  "Öyle, çok"
+        "translation":  "Conj. / Öyle, çok / Bu yüzden",
+        "sentence":  "The flight was canceled, so I stayed in Istanbul one more night."
     },
     {
         "pos":  "Adjective",
@@ -24201,7 +24201,7 @@
         "pos":  "Noun",
         "word":  "Soap",
         "translation":  "Sabun",
-        "sentence":  "(Temizlik.)"
+        "sentence":  "Please wash your hands with soap and water."
     },
     {
         "pos":  "Verb",
@@ -24231,19 +24231,19 @@
         "pos":  "Noun",
         "word":  "Society",
         "translation":  "Toplum",
-        "sentence":  "(Genel terim.)"
+        "sentence":  "We all have a responsibility to contribute to our society."
     },
     {
         "pos":  "Noun",
         "word":  "Sock",
         "translation":  "Çorap",
-        "sentence":  "(Giyim.)"
+        "sentence":  "I need to buy some warm socks for the winter."
     },
     {
         "pos":  "Adjective",
         "word":  "Soft",
         "translation":  "Yumuşak",
-        "sentence":  "(Fiziksel özellik.)"
+        "sentence":  "This blanket is very soft and comfortable."
     },
     {
         "pos":  "Noun",
@@ -24255,7 +24255,7 @@
         "pos":  "Noun",
         "word":  "Soil",
         "translation":  "Toprak",
-        "sentence":  "(Doğa.)"
+        "sentence":  "The soil in this region is very rich and good for farming."
     },
     {
         "pos":  "Adjective",
@@ -24267,7 +24267,7 @@
         "pos":  "Noun",
         "word":  "Soldier",
         "translation":  "Asker",
-        "sentence":  "(Meslek.)"
+        "sentence":  "The brave soldier was honored for his service to the country."
     },
     {
         "pos":  "Adjective",
@@ -24282,10 +24282,10 @@
         "sentence":  "The decision was based solely on the information in the report."
     },
     {
-        "pos":  "Adjective",
+        "pos":  "Adjective / Noun",
         "word":  "Solid",
-        "translation":  "Noun",
-        "sentence":  "Katı, sağlam"
+        "translation":  "Katı, sağlam",
+        "sentence":  "Gold is a solid investment for the future."
     },
     {
         "pos":  "Noun",
@@ -24314,8 +24314,8 @@
     {
         "pos":  "Somebody",
         "word":  "Some",
-        "translation":  "Someone",
-        "sentence":  "Something"
+        "translation":  "Someone / Something / Sometimes / Somewhat / Somewhere / (Belgisiz zamirler / zarflar)",
+        "sentence":  "Sometimes silver prices are more volatile than gold."
     },
     {
         "pos":  "Adverb",
@@ -24333,7 +24333,7 @@
         "pos":  "Noun",
         "word":  "Son",
         "translation":  "Oğul",
-        "sentence":  "(Aile.)"
+        "sentence":  "My son is starting his first day of school tomorrow."
     },
     {
         "pos":  "Noun",
@@ -24362,14 +24362,14 @@
     {
         "pos":  "Adj.",
         "word":  "Sorry",
-        "translation":  "Excl.",
-        "sentence":  "Üzgün"
+        "translation":  "Excl. / Üzgün / Pardon",
+        "sentence":  "I\u0027m sorry for the late response to your request."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Sort",
-        "translation":  "Verb",
-        "sentence":  "Tür"
+        "translation":  "Tür / Sınıflandırmak",
+        "sentence":  "What sort of alternative raw materials do you manage?"
     },
     {
         "pos":  "Noun",
@@ -24384,16 +24384,16 @@
         "sentence":  "Despite the crisis, the company\u0027s financial position remains sound."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Sound",
-        "translation":  "Verb",
-        "sentence":  "Ses"
+        "translation":  "Ses / Ses çıkarmak, ... gibi gelmek",
+        "sentence":  "That sounds like a great plan for the YouTube channel."
     },
     {
         "pos":  "Noun",
         "word":  "Soup",
         "translation":  "Çorba",
-        "sentence":  "(Yiyecek.)"
+        "sentence":  "A hot bowl of soup is perfect for a cold winter day."
     },
     {
         "pos":  "Noun",
@@ -24402,10 +24402,10 @@
         "sentence":  "We are looking for a new source for raw materials."
     },
     {
-        "pos":  "Southern",
+        "pos":  "Noun / Adj.",
         "word":  "South",
-        "translation":  "Noun",
-        "sentence":  "Adj."
+        "translation":  "Southern / Güney / Güneye ait",
+        "sentence":  "We are planning to travel to the south of Turkey this summer."
     },
     {
         "pos":  "Noun",
@@ -24444,10 +24444,10 @@
         "sentence":  "The new law managed to spark a lot of controversy in the media."
     },
     {
-        "pos":  "Speaker",
+        "pos":  "Verb / Noun",
         "word":  "Speak",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Speaker / Konuşmak / Hoparlör, konuşmacı",
+        "sentence":  "I need to speak with the supplier about the price increase."
     },
     {
         "pos":  "Adjective",
@@ -24456,10 +24456,10 @@
         "sentence":  "This anniversary is very special to me because it\u0027s my 5th year."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Specialist",
-        "translation":  "Adj.",
-        "sentence":  "Uzman"
+        "translation":  "Uzman",
+        "sentence":  "You are becoming a specialist in strategic sourcing."
     },
     {
         "pos":  "Verb",
@@ -24477,13 +24477,13 @@
         "pos":  "Noun",
         "word":  "Species",
         "translation":  "Tür (canlılar için)",
-        "sentence":  "(Bilimsel terim.)"
+        "sentence":  "Scientists have discovered a new species of bird in the rainforest."
     },
     {
-        "pos":  "Specifically",
+        "pos":  "Adj. / Adv.",
         "word":  "Specific",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Specifically / Belirli, özel / Özellikle",
+        "sentence":  "I am looking for a specific type of silver coin."
     },
     {
         "pos":  "Noun",
@@ -24543,13 +24543,13 @@
         "pos":  "Noun",
         "word":  "Speech",
         "translation":  "Konuşma",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "The president gave a moving speech about unity and hope."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Speed",
-        "translation":  "Verb",
-        "sentence":  "Hız"
+        "translation":  "Hız / Hızlandırmak",
+        "sentence":  "We need to speed up the cost-down process."
     },
     {
         "pos":  "Noun",
@@ -24558,16 +24558,16 @@
         "sentence":  "We experienced a brief spell of cold weather early last month."
     },
     {
-        "pos":  "Spelling",
+        "pos":  "Verb / Noun",
         "word":  "Spell",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Spelling / Hecelemek / Yazım",
+        "sentence":  "How do you spell \"palladium\" in German?"
     },
     {
-        "pos":  "Spending",
+        "pos":  "Verb / Noun",
         "word":  "Spend",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Spending / Harcamak / Harcama",
+        "sentence":  "We should monitor our spending on alternative raw materials."
     },
     {
         "pos":  "Noun",
@@ -24585,13 +24585,13 @@
         "pos":  "Adjective",
         "word":  "Spicy",
         "translation":  "Baharatlı",
-        "sentence":  "(Yiyecek.)"
+        "sentence":  "I like my food spicy, but this is a bit too hot for me."
     },
     {
         "pos":  "Noun",
         "word":  "Spider",
         "translation":  "Örümcek",
-        "sentence":  "(Hayvan.)"
+        "sentence":  "I found a large spider in the corner of the room."
     },
     {
         "pos":  "Verb",
@@ -24612,10 +24612,10 @@
         "sentence":  "He injured his spine in a falling accident and needs physical therapy."
     },
     {
-        "pos":  "Spiritual",
+        "pos":  "Noun / Adj.",
         "word":  "Spirit",
-        "translation":  "Noun",
-        "sentence":  "Adj."
+        "translation":  "Spiritual / Ruh / Ruhsal",
+        "sentence":  "The team showed a great competitive spirit during the match."
     },
     {
         "pos":  "Noun",
@@ -24624,10 +24624,10 @@
         "sentence":  "He ignored her advice out of pure spite, which was a mistake."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Split",
-        "translation":  "Noun",
-        "sentence":  "Bölmek, paylaşmak"
+        "translation":  "Bölmek, paylaşmak",
+        "sentence":  "Let’s split the investment between gold and silver."
     },
     {
         "pos":  "Verb",
@@ -24660,10 +24660,10 @@
         "sentence":  "The company spokeswoman announced the new cost-down strategy."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Sponsor",
-        "translation":  "Noun",
-        "sentence":  "Sponsor olmak"
+        "translation":  "Sponsor olmak / Sponsor",
+        "sentence":  "Several local businesses decided to sponsor the charity event."
     },
     {
         "pos":  "Noun",
@@ -24675,7 +24675,7 @@
         "pos":  "Noun",
         "word":  "Spoon",
         "translation":  "Kaşık",
-        "sentence":  "(Mutfak eşyası.)"
+        "sentence":  "She used a wooden spoon to stir the boiling soup."
     },
     {
         "pos":  "Noun",
@@ -24684,10 +24684,10 @@
         "sentence":  "Analyzing sport matches is my favorite hobby."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Spot",
-        "translation":  "Verb",
-        "sentence":  "Nokta, yer"
+        "translation":  "Nokta, yer / Fark etmek",
+        "sentence":  "I found a great spot in İzmir for the YouTube video shoot."
     },
     {
         "pos":  "Noun",
@@ -24702,16 +24702,16 @@
         "sentence":  "Employees are invited to bring their spouses to the holiday party."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Spread",
-        "translation":  "Noun",
-        "sentence":  "Yaymak, yayılmak"
+        "translation":  "Yaymak, yayılmak",
+        "sentence":  "The news about silver prices spread quickly."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Spring",
-        "translation":  "Verb",
-        "sentence":  "İlkbahar"
+        "translation":  "İlkbahar / Yay",
+        "sentence":  "The flowers begin to bloom in early spring."
     },
     {
         "pos":  "Noun / Verb",
@@ -24726,10 +24726,10 @@
         "sentence":  "The police squad arrived quickly at the scene of the robbery."
     },
     {
-        "pos":  "Adj.",
+        "pos":  "Adj. / Noun",
         "word":  "Square",
-        "translation":  "Noun",
-        "sentence":  "Kare"
+        "translation":  "Kare / Meydan",
+        "sentence":  "The town square was decorated with colorful lights for the festival."
     },
     {
         "pos":  "Verb",
@@ -24765,7 +24765,7 @@
         "pos":  "Noun",
         "word":  "Stadium",
         "translation":  "Stadyum",
-        "sentence":  "(Spor terimi.)"
+        "sentence":  "The new stadium can hold more than fifty thousand people."
     },
     {
         "pos":  "Noun",
@@ -24774,16 +24774,16 @@
         "sentence":  "The factory staff is very experienced."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Stage",
-        "translation":  "Verb",
-        "sentence":  "Aşama"
+        "translation":  "Aşama / Sahnelemek",
+        "sentence":  "We are at the final stage of the supplier selection."
     },
     {
         "pos":  "Noun",
         "word":  "Stair",
         "translation":  "Basamak, merdiven",
-        "sentence":  "(Bina terimi.)"
+        "sentence":  "He walked up the stairs to get to the second floor."
     },
     {
         "pos":  "Noun",
@@ -24801,7 +24801,7 @@
         "pos":  "Noun",
         "word":  "Stamp",
         "translation":  "Pul, damga",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "Don\u0027t forget to put a stamp on the envelope before posting it."
     },
     {
         "pos":  "Noun",
@@ -24810,16 +24810,16 @@
         "sentence":  "The manager\u0027s stance on cost reduction was very clear."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Stand",
-        "translation":  "Noun",
-        "sentence":  "Ayakta durmak"
+        "translation":  "Ayakta durmak / Stand",
+        "sentence":  "She had to stand on the bus because there were no free seats."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Standard",
-        "translation":  "Adj.",
-        "sentence":  "Standart"
+        "translation":  "Standart",
+        "sentence":  "Quality standards must be met by all alternative firms."
     },
     {
         "pos":  "Adjective",
@@ -24828,16 +24828,16 @@
         "sentence":  "He has a standing invitation to join the executive board meetings."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Star",
-        "translation":  "Verb",
-        "sentence":  "Yıldız"
+        "translation":  "Yıldız / Yıldızı parlamak",
+        "sentence":  "We looked at the stars through a telescope last night."
     },
     {
         "pos":  "Verb",
         "word":  "Stare",
         "translation":  "Dik dik bakmak",
-        "sentence":  "(Davranış.)"
+        "sentence":  "It is rude to stare at people in public."
     },
     {
         "pos":  "Adjective",
@@ -24846,10 +24846,10 @@
         "sentence":  "There is a stark contrast between the two financing options."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Start",
-        "translation":  "Noun",
-        "sentence":  "Başlamak"
+        "translation":  "Başlamak / Başlangıç",
+        "sentence":  "Let\u0027s start the performance review meeting."
     },
     {
         "pos":  "Verb",
@@ -24858,16 +24858,16 @@
         "sentence":  "If we don\u0027t find a new supplier soon, the factory will starve for materials."
     },
     {
-        "pos":  "Statement",
+        "pos":  "Noun / Verb",
         "word":  "State",
-        "translation":  "Noun",
-        "sentence":  "Verb"
+        "translation":  "Statement / Durum, devlet / İfade, açıklama",
+        "sentence":  "I need to write a clear statement for my self-evaluation."
     },
     {
         "pos":  "Noun",
         "word":  "Station",
         "translation":  "İstasyon",
-        "sentence":  "(Ulaşım.)"
+        "sentence":  "I\u0027ll meet you at the train station at 5 PM."
     },
     {
         "pos":  "Noun",
@@ -24885,7 +24885,7 @@
         "pos":  "Noun",
         "word":  "Statue",
         "translation":  "Heykel",
-        "sentence":  "(Sanat.)"
+        "sentence":  "The statue in the park was made of solid bronze."
     },
     {
         "pos":  "Noun",
@@ -24894,10 +24894,10 @@
         "sentence":  "What is the current status of the car purchase process?"
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Stay",
-        "translation":  "Noun",
-        "sentence":  "Kalmak"
+        "translation":  "Kalmak / Kalış",
+        "sentence":  "I had to stay in an airport hotel due to the cancellation."
     },
     {
         "pos":  "Adverb",
@@ -24915,7 +24915,7 @@
         "pos":  "Verb",
         "word":  "Steal",
         "translation":  "Çalmak",
-        "sentence":  "(Hukuki terim.)"
+        "sentence":  "It is a crime to steal someone else\u0027s property."
     },
     {
         "pos":  "Noun",
@@ -24948,10 +24948,10 @@
         "sentence":  "Many of our current problems stem from a lack of communication."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Step",
-        "translation":  "Verb",
-        "sentence":  "Adım"
+        "translation":  "Adım / Adımlamak",
+        "sentence":  "The next step is to contact Akbank for a palladium account."
     },
     {
         "pos":  "Noun",
@@ -24960,22 +24960,22 @@
         "sentence":  "We must avoid the stereotype that all cheap materials are low quality."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Stick",
-        "translation":  "Noun",
-        "sentence":  "Yapıştırmak"
+        "translation":  "Yapıştırmak / Çubuk",
+        "sentence":  "Use a bit of glue to stick the label onto the box."
     },
     {
-        "pos":  "Stiff",
+        "pos":  "Adjective",
         "word":  "Sticky",
-        "translation":  "Adjective",
-        "sentence":  "Yapışkan"
+        "translation":  "Stiff / Yapışkan / Sert, katı",
+        "sentence":  "My fingers are sticky from eating that honey."
     },
     {
-        "pos":  "Adverb",
+        "pos":  "Adverb / Adj.",
         "word":  "Still",
-        "translation":  "Adj.",
-        "sentence":  "Hala"
+        "translation":  "Hala / Hareketsiz",
+        "sentence":  "I am still waiting for the flight compensation."
     },
     {
         "pos":  "Verb",
@@ -25014,10 +25014,10 @@
         "sentence":  "(Doğa.)"
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Stop",
-        "translation":  "Noun",
-        "sentence":  "Durmak"
+        "translation":  "Durmak / Durak",
+        "sentence":  "You should stop at the red light."
     },
     {
         "pos":  "Noun",
@@ -25026,34 +25026,34 @@
         "sentence":  "We need more storage space for the new alternative raw materials."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Store",
-        "translation":  "Verb",
-        "sentence":  "Mağaza"
+        "translation":  "Mağaza / Depolamak",
+        "sentence":  "We store our precious metals in a safe box."
     },
     {
         "pos":  "Noun",
         "word":  "Storm",
         "translation":  "Fırtına",
-        "sentence":  "(Hava durumu.)"
+        "sentence":  "A heavy storm is expected to hit the coast tonight."
     },
     {
         "pos":  "Noun",
         "word":  "Story",
         "translation":  "Hikaye",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "He told us an interesting story about his travels in Asia."
     },
     {
         "pos":  "Noun",
         "word":  "Stove",
         "translation":  "Ocak, fırın",
-        "sentence":  "(Mutfak.)"
+        "sentence":  "The pot of soup is simmering on the stove."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Adj.",
         "word":  "Straight",
-        "translation":  "Adj.",
-        "sentence":  "Doğruca, düz"
+        "translation":  "Doğruca, düz",
+        "sentence":  "Go straight ahead and then turn left at the corner."
     },
     {
         "pos":  "Adjective",
@@ -25074,10 +25074,10 @@
         "sentence":  "A single strand of hair was found at the crime scene."
     },
     {
-        "pos":  "Stranger",
+        "pos":  "Adj. / Noun",
         "word":  "Strange",
-        "translation":  "Adj.",
-        "sentence":  "Noun"
+        "translation":  "Stranger / Garip / Yabancı",
+        "sentence":  "I heard a strange noise coming from the basement."
     },
     {
         "pos":  "Adjective",
@@ -25095,13 +25095,13 @@
         "pos":  "Noun",
         "word":  "Stream",
         "translation":  "Akış, dere",
-        "sentence":  "(Doğa"
+        "sentence":  "There is a small stream of water flowing through the garden."
     },
     {
         "pos":  "Noun",
         "word":  "Street",
         "translation":  "Cadde, sokak",
-        "sentence":  "(Şehir.)"
+        "sentence":  "I live on a very quiet street in the suburbs."
     },
     {
         "pos":  "Noun",
@@ -25116,16 +25116,16 @@
         "sentence":  "We need to strengthen our relationships with alternative firms."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Stress",
-        "translation":  "Verb",
-        "sentence":  "Stres"
+        "translation":  "Stres / Vurgulamak",
+        "sentence":  "I want to stress the importance of cost-down projects."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Stretch",
-        "translation":  "Noun",
-        "sentence":  "Esnetmek"
+        "translation":  "Esnetmek / Esneme",
+        "sentence":  "It\u0027s important to stretch your muscles before exercising."
     },
     {
         "pos":  "Adjective",
@@ -25140,10 +25140,10 @@
         "sentence":  "The safety rules in the factory must be strictly followed."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Strike",
-        "translation":  "Noun",
-        "sentence":  "Vurmak"
+        "translation":  "Vurmak / Grev",
+        "sentence":  "The workers decided to go on strike for better pay."
     },
     {
         "pos":  "Adjective",
@@ -25155,7 +25155,7 @@
         "pos":  "Noun",
         "word":  "String",
         "translation":  "İp, dizi",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "I need a piece of string to tie this package."
     },
     {
         "pos":  "Noun",
@@ -25182,10 +25182,10 @@
         "sentence":  "He is recovering in the hospital after suffering a minor stroke."
     },
     {
-        "pos":  "Strongly",
+        "pos":  "Adj. / Adv.",
         "word":  "Strong",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Strongly / Güçlü / Güçlü bir şekilde",
+        "sentence":  "I strongly believe that silver will gain value this year."
     },
     {
         "pos":  "Adjective",
@@ -25194,34 +25194,34 @@
         "sentence":  "The engineers are checking the structural integrity of the building."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Structure",
-        "translation":  "Verb",
-        "sentence":  "Yapı"
+        "translation":  "Yapı / Yapılandırmak",
+        "sentence":  "The structure of the report should be easy to read."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Struggle",
-        "translation":  "Noun",
-        "sentence":  "Mücadele etmek"
+        "translation":  "Mücadele etmek / Mücadele",
+        "sentence":  "Many firms struggle with high raw material costs."
     },
     {
-        "pos":  "Study",
+        "pos":  "Noun / Verb",
         "word":  "Student",
-        "translation":  "Noun",
-        "sentence":  "Verb"
+        "translation":  "Study / Öğrenci / Çalışmak, ders çalışmak",
+        "sentence":  "I study English and German to improve my career prospects."
     },
     {
         "pos":  "Noun",
         "word":  "Studio",
         "translation":  "Stüdyo",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "The artist spent all day working in her studio."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Stuff",
-        "translation":  "Verb",
-        "sentence":  "Şeyler"
+        "translation":  "Şeyler / Doldurmak",
+        "sentence":  "I have a lot of stuff to move to my new apartment."
     },
     {
         "pos":  "Verb",
@@ -25245,7 +25245,7 @@
         "pos":  "Adjective",
         "word":  "Stupid",
         "translation":  "Aptalca",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "That was a stupid mistake and I should have known better."
     },
     {
         "pos":  "Noun",
@@ -25254,10 +25254,10 @@
         "sentence":  "I like the style of your content on YouTube."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Subject",
-        "translation":  "Adj.",
-        "sentence":  "Konu"
+        "translation":  "Konu / Tabi",
+        "sentence":  "The subject of the email was \"Cost-Down Results\"."
     },
     {
         "pos":  "Noun",
@@ -25353,19 +25353,19 @@
         "pos":  "Noun",
         "word":  "Subway",
         "translation":  "Metro",
-        "sentence":  "(Ulaşım.)"
+        "sentence":  "I take the subway to work every morning."
     },
     {
-        "pos":  "Success",
+        "pos":  "Verb / Noun",
         "word":  "Succeed",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Success / Başarmak / Başarı",
+        "sentence":  "Strategic sourcing is key to the company’s success."
     },
     {
-        "pos":  "Successfully",
+        "pos":  "Adj. / Adv.",
         "word":  "Successful",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Successfully / Başarılı / Başarılı bir şekilde",
+        "sentence":  "We successfully reduced the supply costs by 15%."
     },
     {
         "pos":  "Noun",
@@ -25386,10 +25386,10 @@
         "sentence":  "The company is currently looking for a successor to the CEO."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron.",
         "word":  "Such",
-        "translation":  "Pron.",
-        "sentence":  "Böyle, bu gibi"
+        "translation":  "Böyle, bu gibi",
+        "sentence":  "Such price increases are normal in the precious metals market."
     },
     {
         "pos":  "Verb",
@@ -25398,10 +25398,10 @@
         "sentence":  "Some insects use their long mouths to suck nectar from flowers."
     },
     {
-        "pos":  "Suddenly",
+        "pos":  "Adj. / Adv.",
         "word":  "Sudden",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Suddenly / Ani / Aniden",
+        "sentence":  "The flight was suddenly canceled due to bad weather."
     },
     {
         "pos":  "Verb",
@@ -25437,13 +25437,13 @@
         "pos":  "Noun",
         "word":  "Sugar",
         "translation":  "Şeker",
-        "sentence":  "(Yiyecek.)"
+        "sentence":  "Do you take sugar in your coffee?"
     },
     {
-        "pos":  "Suggestion",
+        "pos":  "Verb / Noun",
         "word":  "Suggest",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Suggestion / Önermek / Öneri",
+        "sentence":  "Can you suggest an alternative firm for this material?"
     },
     {
         "pos":  "Noun",
@@ -25452,10 +25452,10 @@
         "sentence":  "The news of his suicide was a shock to all his former colleagues."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Suit",
-        "translation":  "Verb",
-        "sentence":  "Takım elbise"
+        "translation":  "Takım elbise / Uymak",
+        "sentence":  "This car financing plan doesn\u0027t suit my budget."
     },
     {
         "pos":  "Adjective",
@@ -25470,22 +25470,22 @@
         "sentence":  "We booked a business suite for the conference in Istanbul."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Sum",
-        "translation":  "Verb",
-        "sentence":  "Toplam"
+        "translation":  "Toplam / Toplamak",
+        "sentence":  "The total sum of my investments is growing steadily."
     },
     {
-        "pos":  "Summary",
+        "pos":  "Verb / Noun",
         "word":  "Summarize",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Summary / Özetlemek / Özet",
+        "sentence":  "Can you provide a brief summary of the match analysis?"
     },
     {
         "pos":  "Noun",
         "word":  "Summer",
         "translation":  "Yaz",
-        "sentence":  "(Mevsim.)"
+        "sentence":  "We always go to the beach during the summer."
     },
     {
         "pos":  "Noun",
@@ -25494,10 +25494,10 @@
         "sentence":  "The world leaders gathered for an emergency summit on climate."
     },
     {
-        "pos":  "Sunday",
+        "pos":  "Noun",
         "word":  "Sun",
-        "translation":  "Noun",
-        "sentence":  "Güneş"
+        "translation":  "Sunday / Güneş / Pazar",
+        "sentence":  "The sun is shining brightly today."
     },
     {
         "pos":  "Adjective",
@@ -25527,7 +25527,7 @@
         "pos":  "Noun",
         "word":  "Supermarket",
         "translation":  "Süpermarket",
-        "sentence":  "(Alışveriş.)"
+        "sentence":  "I need to go to the supermarket to buy some groceries."
     },
     {
         "pos":  "Verb",
@@ -25554,16 +25554,16 @@
         "sentence":  "I take a vitamin supplement every morning to stay healthy."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Supply",
-        "translation":  "Verb",
-        "sentence":  "Tedarik"
+        "translation":  "Tedarik / Tedarik etmek",
+        "sentence":  "Managing the supply of alternative materials is my main task."
     },
     {
-        "pos":  "Supporter",
+        "pos":  "Verb / Noun",
         "word":  "Support",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Supporter / Desteklemek / Destekçi",
+        "sentence":  "My manager supports my career growth."
     },
     {
         "pos":  "Adjective",
@@ -25596,16 +25596,16 @@
         "sentence":  "The supreme court\u0027s decision is final and cannot be changed."
     },
     {
-        "pos":  "Surely",
+        "pos":  "Adj. / Adv.",
         "word":  "Sure",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Surely / Emin / Kesinlikle",
+        "sentence":  "I am sure that the Birevim system is the right choice for me."
     },
     {
         "pos":  "Noun",
         "word":  "Surface",
         "translation":  "Yüzey",
-        "sentence":  "(Fiziksel özellik.)"
+        "sentence":  "The surface of the table is very smooth."
     },
     {
         "pos":  "Noun / Verb",
@@ -25623,7 +25623,7 @@
         "pos":  "Noun",
         "word":  "Surgery",
         "translation":  "Ameliyat",
-        "sentence":  "(Tıp.)"
+        "sentence":  "He had to undergo surgery to repair his knee."
     },
     {
         "pos":  "Adjective",
@@ -25638,10 +25638,10 @@
         "sentence":  "We have a surplus of raw materials that we need to store."
     },
     {
-        "pos":  "Surprised",
+        "pos":  "N. / V. / Adj.",
         "word":  "Surprise",
-        "translation":  "Surprising",
-        "sentence":  "N."
+        "translation":  "Surprised / Surprising / Sürpriz / Şaşırmış / Şaşırtıcı",
+        "sentence":  "The surprising rise in silver prices made me happy."
     },
     {
         "pos":  "Verb",
@@ -25650,10 +25650,10 @@
         "sentence":  "After weeks of fighting, the rebels were forced to surrender."
     },
     {
-        "pos":  "Surrounding",
+        "pos":  "Verb / Adj.",
         "word":  "Surround",
-        "translation":  "Verb",
-        "sentence":  "Adj."
+        "translation":  "Surrounding / Çevrelemek / Çevreleyen",
+        "sentence":  "High mountains surround the small village on all sides."
     },
     {
         "pos":  "Noun",
@@ -25662,10 +25662,10 @@
         "sentence":  "The warehouse is under 24-hour video surveillance for security."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Survey",
-        "translation":  "Verb",
-        "sentence":  "Anket, inceleme"
+        "translation":  "Anket, inceleme / İncelemek",
+        "sentence":  "We conducted a survey to find the best alternative firms."
     },
     {
         "pos":  "Noun",
@@ -25677,7 +25677,7 @@
         "pos":  "Verb",
         "word":  "Survive",
         "translation":  "Hayatta kalmak",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "Many plants can survive for a long time without much water."
     },
     {
         "pos":  "Noun",
@@ -25686,10 +25686,10 @@
         "sentence":  "The survivors of the earthquake were taken to a safe location."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Suspect",
-        "translation":  "Noun",
-        "sentence":  "Şüphelenmek"
+        "translation":  "Şüphelenmek / Şüpheli",
+        "sentence":  "The police have arrested a suspect in connection with the robbery."
     },
     {
         "pos":  "Verb",
@@ -25736,8 +25736,8 @@
     {
         "pos":  "Verb",
         "word":  "Swear",
-        "translation":  "Yemin etmek",
-        "sentence":  "Küfretmek"
+        "translation":  "Yemin etmek / Küfretmek",
+        "sentence":  "You must swear to tell the truth in court."
     },
     {
         "pos":  "Noun",
@@ -25749,7 +25749,7 @@
         "pos":  "Verb",
         "word":  "Sweep",
         "translation":  "Süpürmek",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "Please sweep the floor before the guests arrive."
     },
     {
         "pos":  "Adjective",
@@ -25758,10 +25758,10 @@
         "sentence":  "(Lezzet.)"
     },
     {
-        "pos":  "Swimming",
+        "pos":  "Verb / Noun",
         "word":  "Swim",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Swimming / Yüzmek / Yüzme",
+        "sentence":  "I like swimming in the sea in İzmir."
     },
     {
         "pos":  "Verb / Noun",
@@ -25770,10 +25770,10 @@
         "sentence":  "The pendulum began to swing back and forth slowly."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Switch",
-        "translation":  "Noun",
-        "sentence":  "Değiştirmek"
+        "translation":  "Değiştirmek / Şalter, anahtar",
+        "sentence":  "We decided to switch to a more cost-effective supplier."
     },
     {
         "pos":  "Noun",
@@ -25800,10 +25800,10 @@
         "sentence":  "My supervisor was very sympathetic about my flight cancellation."
     },
     {
-        "pos":  "Symptom",
+        "pos":  "Noun",
         "word":  "Sympathy",
-        "translation":  "Noun",
-        "sentence":  "Sempati"
+        "translation":  "Symptom / Sempati / Belirti",
+        "sentence":  "I have a lot of sympathy for people who have lost their homes."
     },
     {
         "pos":  "Noun",
@@ -25878,16 +25878,16 @@
         "sentence":  "It will take five years to reach my investment goal."
     },
     {
-        "pos":  "Talent",
+        "pos":  "Noun / Adj.",
         "word":  "Tale",
-        "translation":  "Talented",
-        "sentence":  "Noun"
+        "translation":  "Talent / Talented / Masal / Yetenek / Yetenekli",
+        "sentence":  "You are a talented negotiator in sourcing tasks."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Talk",
-        "translation":  "Noun",
-        "sentence":  "Konuşmak"
+        "translation":  "Konuşmak / Konuşma",
+        "sentence":  "Let\u0027s talk about the silver price trends."
     },
     {
         "pos":  "Adjective",
@@ -25911,13 +25911,13 @@
         "pos":  "Noun",
         "word":  "Tape",
         "translation":  "Bant, şerit",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "I used some tape to fix the broken handle of the box."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Target",
-        "translation":  "Verb",
-        "sentence":  "Hedef"
+        "translation":  "Hedef / Hedeflemek",
+        "sentence":  "Our target for this month is a 5% cost reduction."
     },
     {
         "pos":  "Noun",
@@ -25926,16 +25926,16 @@
         "sentence":  "My daily task is managing suppliers."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Taste",
-        "translation":  "Verb",
-        "sentence":  "Tad"
+        "translation":  "Tad / Tadına bakmak",
+        "sentence":  "(Lezzet.)"
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Tax",
-        "translation":  "Verb",
-        "sentence":  "Vergi"
+        "translation":  "Vergi / Vergilendirmek",
+        "sentence":  "Tax rates can affect the total cost of importing materials."
     },
     {
         "pos":  "Noun",
@@ -25956,10 +25956,10 @@
         "sentence":  "(İçecek.)"
     },
     {
-        "pos":  "Teacher",
+        "pos":  "Verb / Noun",
         "word":  "Teach",
-        "translation":  "Teaching",
-        "sentence":  "Verb"
+        "translation":  "Teacher / Teaching / Öğretmek / Öğretmen / Öğretim",
+        "sentence":  "I want to teach kids through my YouTube channel."
     },
     {
         "pos":  "Noun",
@@ -25968,10 +25968,10 @@
         "sentence":  "Our sourcing team is working on a new project."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Tear",
-        "translation":  "Noun",
-        "sentence":  "Yırtmak"
+        "translation":  "Yırtmak / Gözyaşı",
+        "sentence":  "Be careful not to tear the paper when you open the envelope."
     },
     {
         "pos":  "Adjective",
@@ -26004,16 +26004,16 @@
         "sentence":  "Many teens spend a lot of time on social media nowadays."
     },
     {
-        "pos":  "Teenager",
+        "pos":  "Adj. / Noun",
         "word":  "Teenage",
-        "translation":  "Adj.",
-        "sentence":  "Noun"
+        "translation":  "Teenager / Ergenlik çağı / Ergen",
+        "sentence":  "(Yaş grubu.)"
     },
     {
-        "pos":  "Television",
+        "pos":  "Noun",
         "word":  "Telephone",
-        "translation":  "Noun",
-        "sentence":  "Telefon"
+        "translation":  "Television / Telefon / Televizyon",
+        "sentence":  "(Teknoloji.)"
     },
     {
         "pos":  "Verb",
@@ -26055,7 +26055,7 @@
         "pos":  "Number",
         "word":  "Ten",
         "translation":  "On (10)",
-        "sentence":  "(Sayı.)"
+        "sentence":  "There are ten students in the advanced English class."
     },
     {
         "pos":  "Noun",
@@ -26106,10 +26106,10 @@
         "sentence":  "During his tenure as manager, the company saw significant growth."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Term",
-        "translation":  "Verb",
-        "sentence":  "Terim, dönem"
+        "translation":  "Terim, dönem / Adlandırmak",
+        "sentence":  "\"Cost reduction\" is a common term in my profession."
     },
     {
         "pos":  "Noun / Adj.",
@@ -26184,10 +26184,10 @@
         "sentence":  "The terrorist attack caused significant damage to the city center."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Test",
-        "translation":  "Verb",
-        "sentence":  "Test"
+        "translation":  "Test / Test etmek",
+        "sentence":  "We need to test the quality of the alternative raw material."
     },
     {
         "pos":  "Verb",
@@ -26208,10 +26208,10 @@
         "sentence":  "Quality testing is an essential step in our sourcing process."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Text",
-        "translation":  "Verb",
-        "sentence":  "Metin"
+        "translation":  "Metin / Mesaj atmak",
+        "sentence":  "I will text you the details of the match analysis."
     },
     {
         "pos":  "Noun",
@@ -26232,10 +26232,10 @@
         "sentence":  "Gold is more expensive than silver."
     },
     {
-        "pos":  "Thanks",
+        "pos":  "Verb / Noun",
         "word":  "Thank",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Thanks / Teşekkür etmek / Teşekkürler",
+        "sentence":  "Thank you for your help with the English vocabulary list."
     },
     {
         "pos":  "Adverb",
@@ -26244,16 +26244,16 @@
         "sentence":  "Thankfully, no one was hurt in the minor factory accident."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron.",
         "word":  "That",
-        "translation":  "Pron.",
-        "sentence":  "O, şu"
+        "translation":  "O, şu",
+        "sentence":  "That supplier offers a better price than the previous one."
     },
     {
         "pos":  "Article",
         "word":  "The",
         "translation":  "(Belirtme eki)",
-        "sentence":  "(Dilbilgisi.)"
+        "sentence":  "The book on the table is mine."
     },
     {
         "pos":  "Noun",
@@ -26276,8 +26276,8 @@
     {
         "pos":  "Theirs",
         "word":  "Their",
-        "translation":  "Them",
-        "sentence":  "Themselves"
+        "translation":  "Them / Themselves / Pronouns / Onların / Onları / Kendilerini",
+        "sentence":  "They brought their own lunches to the meeting."
     },
     {
         "pos":  "Noun",
@@ -26319,7 +26319,7 @@
         "pos":  "Noun",
         "word":  "Therapy",
         "translation":  "Terapi",
-        "sentence":  "(Sağlık.)"
+        "sentence":  "He is attending speech therapy to improve his communication skills."
     },
     {
         "pos":  "Adverb",
@@ -26358,46 +26358,46 @@
         "sentence":  "They are our most reliable suppliers in Germany."
     },
     {
-        "pos":  "Thin",
+        "pos":  "Adjective",
         "word":  "Thick",
-        "translation":  "Adjective",
-        "sentence":  "Kalın"
+        "translation":  "Thin / Kalın / İnce",
+        "sentence":  "The walls of the old castle are very thick."
     },
     {
         "pos":  "Noun",
         "word":  "Thief",
         "translation":  "Hırsız",
-        "sentence":  "(Genel terim.)"
+        "sentence":  "The thief stole a valuable painting from the museum."
     },
     {
-        "pos":  "Thinking",
+        "pos":  "Noun / Verb",
         "word":  "Thing",
-        "translation":  "Thought",
-        "sentence":  "Noun"
+        "translation":  "Thinking / Thought / Şey / Düşünme / Düşünce",
+        "sentence":  "My first thought was to buy a car through Birevim."
     },
     {
-        "pos":  "Number",
+        "pos":  "Number / Noun",
         "word":  "Third",
-        "translation":  "Noun",
-        "sentence":  "Üçüncü"
+        "translation":  "Üçüncü",
+        "sentence":  "This is the third time I have recalculated the gold weight."
     },
     {
         "pos":  "Adjective",
         "word":  "Thirsty",
         "translation":  "Susamış",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "I am very thirsty after that long walk in the sun."
     },
     {
-        "pos":  "Thirty",
+        "pos":  "Number",
         "word":  "Thirteen",
-        "translation":  "Number",
-        "sentence":  "13"
+        "translation":  "Thirty / 13 / 30",
+        "sentence":  "She turned thirteen years old last month."
     },
     {
-        "pos":  "Det.",
+        "pos":  "Det. / Pron.",
         "word":  "This",
-        "translation":  "Pron.",
-        "sentence":  "Bu"
+        "translation":  "Bu",
+        "sentence":  "This evaluation note is very important for my career."
     },
     {
         "pos":  "Adjective",
@@ -26412,10 +26412,10 @@
         "sentence":  "Please review the cost reduction report thoroughly before the meeting."
     },
     {
-        "pos":  "Conj.",
+        "pos":  "Adverb",
         "word":  "Though",
-        "translation":  "Adverb",
-        "sentence":  "-e rağmen"
+        "translation":  "Conj. / -e rağmen",
+        "sentence":  "Even though the flight was canceled, I stayed positive."
     },
     {
         "pos":  "Adjective",
@@ -26442,10 +26442,10 @@
         "sentence":  "I followed the thread of the conversation on the professional forum."
     },
     {
-        "pos":  "Threaten",
+        "pos":  "Noun / Verb",
         "word":  "Threat",
-        "translation":  "Noun",
-        "sentence":  "Verb"
+        "translation":  "Threaten / Tehdit / Tehdit etmek",
+        "sentence":  "High inflation is a threat to our savings."
     },
     {
         "pos":  "Number",
@@ -26478,10 +26478,10 @@
         "sentence":  "(Sağlık.)"
     },
     {
-        "pos":  "Throughout",
+        "pos":  "Prep. / Adv.",
         "word":  "Through",
-        "translation":  "Prep.",
-        "sentence":  "Adv."
+        "translation":  "Throughout / Aracılığıyla / Boyunca",
+        "sentence":  "We reduced costs through strategic sourcing."
     },
     {
         "pos":  "Verb",
@@ -26520,10 +26520,10 @@
         "sentence":  "The tide comes in twice a day along this part of the coast."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Tie",
-        "translation":  "Noun",
-        "sentence":  "Bağlamak"
+        "translation":  "Bağlamak / Kravat, beraberlik",
+        "sentence":  "The score of the match was a tie."
     },
     {
         "pos":  "Adjective",
@@ -26538,10 +26538,10 @@
         "sentence":  "We need to tighten our control over the inventory of metals."
     },
     {
-        "pos":  "Conj.",
+        "pos":  "Prep.",
         "word":  "Till",
-        "translation":  "Prep.",
-        "sentence":  "-e kadar"
+        "translation":  "Conj. / -e kadar",
+        "sentence":  "I will work on the report till 6 PM."
     },
     {
         "pos":  "Noun",
@@ -26550,10 +26550,10 @@
         "sentence":  "The old warehouse was built using high-quality timber."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Time",
-        "translation":  "Verb",
-        "sentence":  "Zaman"
+        "translation":  "Zaman / Zamanlamak",
+        "sentence":  "Now is the perfect time to start a YouTube project."
     },
     {
         "pos":  "Adjective",
@@ -26574,10 +26574,10 @@
         "sentence":  "I have a tiny collection of silver coins."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Tip",
-        "translation":  "Verb",
-        "sentence":  "İpucu, bahşiş"
+        "translation":  "İpucu, bahşiş / Bahşiş vermek",
+        "sentence":  "Here is a tip for your self-evaluation note."
     },
     {
         "pos":  "Noun",
@@ -26589,7 +26589,7 @@
         "pos":  "Adjective",
         "word":  "Tired",
         "translation":  "Yorgun",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "I was so tired after the long meeting that I went straight to bed."
     },
     {
         "pos":  "Noun",
@@ -26598,16 +26598,22 @@
         "sentence":  "The doctor took a small sample of tissue for further testing."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Title",
-        "translation":  "Verb",
-        "sentence":  "Başlık, unvan"
+        "translation":  "Başlık, unvan / Başlıklandırmak",
+        "sentence":  "What is the title of your new YouTube video?"
     },
     {
-        "pos":  "Today",
-        "word":  "To",
-        "translation":  "Together",
-        "sentence":  "Prep."
+        "pos":  "Prep.",
+        "word":  "Today",
+        "translation":  "Bugün",
+        "sentence":  "Today is a good day to start working on your cost-down strategy."
+    },
+    {
+        "pos":  "Adv.",
+        "word":  "Together",
+        "translation":  "Birlikte",
+        "sentence":  "We are working together to achieve the cost-down goal."
     },
     {
         "pos":  "Noun",
@@ -26619,13 +26625,7 @@
         "pos":  "Noun",
         "word":  "Toe",
         "translation":  "Ayak parmağı",
-        "sentence":  "(Vücut parçası.)"
-    },
-    {
-        "pos":  "Tomato",
-        "word":  "Toilet",
-        "translation":  "Tomorrow",
-        "sentence":  "Noun"
+        "sentence":  "The big toe on my right foot is injured."
     },
     {
         "pos":  "Noun",
@@ -26642,32 +26642,26 @@
     {
         "pos":  "Noun",
         "word":  "Toll",
-        "translation":  "Ücret / Kayıp",
+        "translation":  "Kayıp",
         "sentence":  "The long hours are starting to take a toll on his health."
     },
     {
         "pos":  "Noun",
-        "word":  "Ton",
-        "translation":  "Ton (1000 kg)",
-        "sentence":  "We purchase several tons of raw materials every year."
-    },
-    {
-        "pos":  "Noun",
         "word":  "Tone",
-        "translation":  "Ton (ses",
-        "sentence":  "renk)"
+        "translation":  "Ton (ses,renk)",
+        "sentence":  "Keep a professional tone in your emails."
     },
     {
         "pos":  "Noun",
         "word":  "Tongue",
         "translation":  "Dil (organ)",
-        "sentence":  "(Vücut parçası.)"
+        "sentence":  "His tongue is injured."
     },
     {
-        "pos":  "Adv.",
+        "pos":  "Adv. / Noun",
         "word":  "Tonight",
-        "translation":  "Noun",
-        "sentence":  "Bu gece"
+        "translation":  "Bu gece",
+        "sentence":  "There is a big football match tonight."
     },
     {
         "pos":  "Adverb",
@@ -26682,10 +26676,10 @@
         "sentence":  "Excel is an essential tool for sourcing specialists."
     },
     {
-        "pos":  "Top",
+        "pos":  "Noun",
         "word":  "Tooth",
-        "translation":  "Noun",
-        "sentence":  "Diş"
+        "translation":  "Top / Diş / Tepe, üst",
+        "sentence":  "We are at the top of our department\u0027s performance list."
     },
     {
         "pos":  "Verb",
@@ -26718,16 +26712,16 @@
         "sentence":  "The savings from the cost-down study will total over a million lira."
     },
     {
-        "pos":  "Totally",
+        "pos":  "Adj. / Adv.",
         "word":  "Total",
-        "translation":  "Adj.",
-        "sentence":  "Adv."
+        "translation":  "Totally / Toplam / Tamamen",
+        "sentence":  "The total weight of the gold was exactly 10 grams."
     },
     {
-        "pos":  "Verb",
+        "pos":  "Verb / Noun",
         "word":  "Touch",
-        "translation":  "Noun",
-        "sentence":  "Dokunmak"
+        "translation":  "Dokunmak / Temas",
+        "sentence":  "Please do not touch the wet paint on the wall."
     },
     {
         "pos":  "Adjective",
@@ -26736,10 +26730,10 @@
         "sentence":  "Negotiating with alternative firms can be tough."
     },
     {
-        "pos":  "Tourism",
+        "pos":  "Noun / Verb",
         "word":  "Tour",
-        "translation":  "Tourist",
-        "sentence":  "Noun"
+        "translation":  "Tourism / Tourist / Tur / Turizm / Turist",
+        "sentence":  "İzmir is a very popular city for tourism."
     },
     {
         "pos":  "Noun",
@@ -26754,16 +26748,16 @@
         "sentence":  "We are moving toward our financial goals."
     },
     {
-        "pos":  "Tower",
+        "pos":  "Noun",
         "word":  "Towel",
-        "translation":  "Noun",
-        "sentence":  "Havlu"
+        "translation":  "Tower / Havlu / Kule",
+        "sentence":  "I need a fresh towel after my shower."
     },
     {
         "pos":  "Noun",
         "word":  "Town",
         "translation":  "Kasaba, şehir",
-        "sentence":  "(Yerleşim.)"
+        "sentence":  "I grew up in a small town near the mountains."
     },
     {
         "pos":  "Adjective",
@@ -26772,10 +26766,10 @@
         "sentence":  "Some of the chemicals used in the factory are highly toxic."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Adj.",
         "word":  "Toy",
-        "translation":  "Adj.",
-        "sentence":  "Oyuncak"
+        "translation":  "Oyuncak",
+        "sentence":  "I am researching educational toys for the YouTube channel."
     },
     {
         "pos":  "Verb / Noun",
@@ -26784,16 +26778,16 @@
         "sentence":  "We are trying to trace the origin of the faulty raw material."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Track",
-        "translation":  "Verb",
-        "sentence":  "İz, takip"
+        "translation":  "İz, takip / Takip etmek",
+        "sentence":  "I use an app to track my silver investments."
     },
     {
-        "pos":  "Noun",
+        "pos":  "Noun / Verb",
         "word":  "Trade",
-        "translation":  "Verb",
-        "sentence":  "Ticaret"
+        "translation":  "Ticaret / Ticaret yapmak",
+        "sentence":  "Global trade affects the price of palladium."
     },
     {
         "pos":  "Noun",
@@ -26808,10 +26802,10 @@
         "sentence":  "Online gold trading has become very popular in recent years."
     },
     {
-        "pos":  "Traditional",
+        "pos":  "Noun / Adj.",
         "word":  "Tradition",
-        "translation":  "Noun",
-        "sentence":  "Adj."
+        "translation":  "Traditional / Gelenek / Geleneksel",
+        "sentence":  "Buying gold for weddings is a traditional habit in Turkey."
     },
     {
         "pos":  "Noun",
@@ -26844,10 +26838,10 @@
         "sentence":  "I saw the trailer for the new movie and it looks very promising."
     },
     {
-        "pos":  "Trainer",
+        "pos":  "N. / V.",
         "word":  "Train",
-        "translation":  "Training",
-        "sentence":  "N."
+        "translation":  "Trainer / Training / Tren / Eğitmen / Eğitim",
+        "sentence":  "I attended a training session on strategic sourcing."
     },
     {
         "pos":  "Noun",
@@ -26868,10 +26862,10 @@
         "sentence":  "Please provide a transcript of your university grades with the application."
     },
     {
-        "pos":  "Transform",
+        "pos":  "Verb / Noun",
         "word":  "Transfer",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Transform / Transfer / Dönüştürmek",
+        "sentence":  "We need to transfer the funds to the Akbank account."
     },
     {
         "pos":  "Noun",
@@ -26892,10 +26886,10 @@
         "sentence":  "The transition to the new supplier system will take time."
     },
     {
-        "pos":  "Translation",
+        "pos":  "Verb / Noun",
         "word":  "Translate",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Translation / Çevirmek / Çeviri",
+        "sentence":  "Can you translate this German technical term into English?"
     },
     {
         "pos":  "Noun",
@@ -26922,10 +26916,10 @@
         "sentence":  "The reasons for the supplier change were completely transparent."
     },
     {
-        "pos":  "Transportation",
+        "pos":  "Verb / Noun",
         "word":  "Transport",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Transportation / Taşımak / Ulaşım, taşıma",
+        "sentence":  "Transportation costs are included in the final price."
     },
     {
         "pos":  "Verb / Noun",
@@ -26937,7 +26931,7 @@
         "pos":  "Noun",
         "word":  "Trash",
         "translation":  "Çöp",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "Please take the trash out to the bin before you go to bed."
     },
     {
         "pos":  "Noun",
@@ -26946,10 +26940,10 @@
         "sentence":  "He is recovering from the psychological trauma of the accident."
     },
     {
-        "pos":  "Traveler",
+        "pos":  "Verb / Noun",
         "word":  "Travel",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Traveler / Seyahat etmek / Gezgin",
+        "sentence":  "I love to travel between İzmir and Istanbul."
     },
     {
         "pos":  "Noun",
@@ -26958,10 +26952,10 @@
         "sentence":  "The divers found a chest of gold treasure at the bottom of the sea."
     },
     {
-        "pos":  "Treatment",
+        "pos":  "Verb / Noun",
         "word":  "Treat",
-        "translation":  "Verb",
-        "sentence":  "Noun"
+        "translation":  "Treatment / Davranmak, tedavi etmek / Tedavi",
+        "sentence":  "You should treat others with the same respect you want for yourself."
     },
     {
         "pos":  "Noun",
@@ -26985,7 +26979,7 @@
         "pos":  "Noun",
         "word":  "Trial",
         "translation":  "Deneme, duruşma",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "The new drug is currently undergoing a clinical trial."
     },
     {
         "pos":  "Adjective",
@@ -27073,8 +27067,8 @@
     },
     {
         "pos":  "Adj. / Adv.",
-        "word":  "True / Truly",
-        "translation":  "Doğru / Gerçekten",
+        "word":  "True",
+        "translation":  "Truly / Doğru / Gerçekten",
         "sentence":  "It is truly impressive to see the cost reduction results."
     },
     {
@@ -27109,9 +27103,9 @@
     },
     {
         "pos":  "Noun",
-        "word":  "Tube / Tunnel",
-        "translation":  "Tüp / Tünel",
-        "sentence":  "(Genel kullanım.)"
+        "word":  "Tube",
+        "translation":  "Tunnel / Tüp / Tünel",
+        "sentence":  "The train travels through a long tunnel under the mountain."
     },
     {
         "pos":  "Noun",
@@ -27163,15 +27157,15 @@
     },
     {
         "pos":  "Adj. / Adv.",
-        "word":  "Typical / Typically",
-        "translation":  "Tipik / Genellikle",
+        "word":  "Typical",
+        "translation":  "Typically / Tipik / Genellikle",
         "sentence":  "Typically, silver prices rise when there is economic uncertainty."
     },
     {
         "pos":  "Adjective",
         "word":  "Ugly",
         "translation":  "Çirkin",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "He thinks that old building is ugly, but I find it quite interesting."
     },
     {
         "pos":  "Adjective",
@@ -27189,7 +27183,7 @@
         "pos":  "Noun",
         "word":  "Umbrella",
         "translation":  "Şemsiye",
-        "sentence":  "(Eşya.)"
+        "sentence":  "Don\u0027t forget your umbrella; it\u0027s starting to rain outside."
     },
     {
         "pos":  "Adjective",
@@ -27213,7 +27207,7 @@
         "pos":  "Adjective",
         "word":  "Uncomfortable",
         "translation":  "Rahatsız",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "This chair is very uncomfortable to sit in for a long time."
     },
     {
         "pos":  "Adjective",
@@ -27223,8 +27217,8 @@
     },
     {
         "pos":  "Prep. / Adj.",
-        "word":  "Under / Underground",
-        "translation":  "Altında / Yer altı",
+        "word":  "Under",
+        "translation":  "Underground / Altında / Yer altı",
         "sentence":  "We keep the factory records under strict protection."
     },
     {
@@ -27253,8 +27247,8 @@
     },
     {
         "pos":  "Verb / Noun",
-        "word":  "Understand / Understanding",
-        "translation":  "Anlamak / Anlayış",
+        "word":  "Understand",
+        "translation":  "Understanding / Anlamak / Anlayış",
         "sentence":  "I understand the technical requirements of this raw material."
     },
     {
@@ -27309,7 +27303,7 @@
         "pos":  "Noun",
         "word":  "Union",
         "translation":  "Sendika, birlik",
-        "sentence":  "(İş dünyası terimi.)"
+        "sentence":  "The workers formed a union to fight for better working conditions."
     },
     {
         "pos":  "Adjective",
@@ -27343,9 +27337,9 @@
     },
     {
         "pos":  "Noun",
-        "word":  "Universe / University",
-        "translation":  "Evren / Üniversite",
-        "sentence":  "(Genel terimler.)"
+        "word":  "Universe",
+        "translation":  "University / Evren / Üniversite",
+        "sentence":  "Astronomers are always learning new things about our vast universe."
     },
     {
         "pos":  "Conjunction",
@@ -27372,9 +27366,9 @@
         "sentence":  "The rise in silver prices is unprecedented in recent history."
     },
     {
-        "pos":  "Conj. / Prep.",
+        "pos":  "Prep.",
         "word":  "Until",
-        "translation":  "-e kadar",
+        "translation":  "Conj. / -e kadar",
         "sentence":  "I will stay at the office until the report is finished."
     },
     {
@@ -27417,19 +27411,19 @@
         "pos":  "Adjective",
         "word":  "Upper",
         "translation":  "Üst",
-        "sentence":  "(Konum.)"
+        "sentence":  "She lives on the upper floor of that apartment building."
     },
     {
         "pos":  "Adj. / Verb",
         "word":  "Upset",
         "translation":  "Üzgün / Üzmek",
-        "sentence":  "(Duygu.)"
+        "sentence":  "She was very upset when she heard the bad news."
     },
     {
         "pos":  "Adv. / Adj.",
         "word":  "Upstairs",
         "translation":  "Üst kat",
-        "sentence":  "(Konum.)"
+        "sentence":  "The children are playing in the bedroom upstairs."
     },
     {
         "pos":  "Adjective",
@@ -27457,8 +27451,8 @@
     },
     {
         "pos":  "V. / N. / Adj.",
-        "word":  "Use / Used / User",
-        "translation":  "Kullanmak / Alışık / Kullanıcı",
+        "word":  "Use",
+        "translation":  "Used / User / Kullanmak / Alışık / Kullanıcı",
         "sentence":  "I am used to working under pressure in sourcing."
     },
     {
@@ -27553,8 +27547,8 @@
     },
     {
         "pos":  "N. / Adj. / V.",
-        "word":  "Variety / Various / Vary",
-        "translation":  "Çeşitlilik / Çeşitli / Değişmek",
+        "word":  "Variety",
+        "translation":  "Various / Vary / Çeşitlilik / Çeşitli / Değişmek",
         "sentence":  "We work with various alternative firms."
     },
     {
@@ -27567,7 +27561,7 @@
         "pos":  "Noun",
         "word":  "Vegetable",
         "translation":  "Sebze",
-        "sentence":  "(Yiyecek.)"
+        "sentence":  "It\u0027s important to eat plenty of fresh vegetables every day."
     },
     {
         "pos":  "Noun",
@@ -27675,7 +27669,7 @@
         "pos":  "Noun",
         "word":  "Victim",
         "translation":  "Mağdur, kurban",
-        "sentence":  "(Hukuki terim.)"
+        "sentence":  "The victim of the accident was rushed to the hospital immediately."
     },
     {
         "pos":  "Noun",
@@ -27685,8 +27679,8 @@
     },
     {
         "pos":  "Noun / Verb",
-        "word":  "Video / View / Viewer",
-        "translation":  "Video / Görünüm / İzleyici",
+        "word":  "Video",
+        "translation":  "View / Viewer / Video / Görünüm / İzleyici",
         "sentence":  "My YouTube viewers love educational songs."
     },
     {
@@ -27699,7 +27693,7 @@
         "pos":  "Noun",
         "word":  "Village",
         "translation":  "Köy",
-        "sentence":  "(Yerleşim.)"
+        "sentence":  "My grandparents live in a small, peaceful village in the countryside."
     },
     {
         "pos":  "Verb",
@@ -27715,9 +27709,9 @@
     },
     {
         "pos":  "Noun / Adj.",
-        "word":  "Violence / Violent",
-        "translation":  "Şiddet / Şiddetli",
-        "sentence":  "(Toplumsal terim.)"
+        "word":  "Violence",
+        "translation":  "Violent / Şiddet / Şiddetli",
+        "sentence":  "The movie was criticized for its unnecessary use of violence."
     },
     {
         "pos":  "Adjective",
@@ -27735,7 +27729,7 @@
         "pos":  "Noun",
         "word":  "Virus",
         "translation":  "Virüs",
-        "sentence":  "(Sağlık/Teknoloji.)"
+        "sentence":  "Make sure your computer has updated software to protect against viruses."
     },
     {
         "pos":  "Noun",
@@ -27757,8 +27751,8 @@
     },
     {
         "pos":  "Verb / Noun",
-        "word":  "Visit / Visitor",
-        "translation":  "Ziyaret etmek / Ziyaretçi",
+        "word":  "Visit",
+        "translation":  "Visitor / Ziyaret etmek / Ziyaretçi",
         "sentence":  "A visitor from the alternative firm is coming today."
     },
     {
@@ -27771,7 +27765,7 @@
         "pos":  "Noun",
         "word":  "Vitamin",
         "translation":  "Vitamin",
-        "sentence":  "(Sağlık.)"
+        "sentence":  "Oranges are a great source of Vitamin C."
     },
     {
         "pos":  "Adjective",
@@ -27781,8 +27775,8 @@
     },
     {
         "pos":  "Noun",
-        "word":  "Voice / Volume",
-        "translation":  "Ses / Hacim",
+        "word":  "Voice",
+        "translation":  "Volume / Ses / Hacim",
         "sentence":  "The volume of silver trade is rising in Akbank."
     },
     {
@@ -27795,13 +27789,13 @@
         "pos":  "Noun / Verb",
         "word":  "Volunteer",
         "translation":  "Gönüllü",
-        "sentence":  "(Toplumsal.)"
+        "sentence":  "Many people decided to volunteer their time to help the earthquake victims."
     },
     {
         "pos":  "Noun / Verb",
         "word":  "Vote",
         "translation":  "Oy / Oy kullanmak",
-        "sentence":  "(Siyasi.)"
+        "sentence":  "Every citizen has the right to vote in the national elections."
     },
     {
         "pos":  "Noun",
@@ -27835,15 +27829,15 @@
     },
     {
         "pos":  "Verb / Noun",
-        "word":  "Wait / Waiter",
-        "translation":  "Beklemek / Garson",
+        "word":  "Wait",
+        "translation":  "Waiter / Beklemek / Garson",
         "sentence":  "I will wait for the market to open before selling."
     },
     {
         "pos":  "Verb / Noun",
-        "word":  "Wake / Walk / Wall",
-        "translation":  "Uyanmak / Yürümek / Duvar",
-        "sentence":  "(Günlük eylemler.)"
+        "word":  "Wake",
+        "translation":  "Walk / Wall / Uyanmak / Yürümek / Duvar",
+        "sentence":  "I like to take a long walk in the park every morning."
     },
     {
         "pos":  "Verb",
@@ -27883,8 +27877,8 @@
     },
     {
         "pos":  "Adj. / V. / N.",
-        "word":  "Warm / Warn / Warning",
-        "translation":  "Ilık / Uyarmak / Uyarı",
+        "word":  "Warm",
+        "translation":  "Warn / Warning / Ilık / Uyarmak / Uyarı",
         "sentence":  "The manager warned us about the budget limits."
     },
     {
@@ -27907,9 +27901,9 @@
     },
     {
         "pos":  "Verb / Noun",
-        "word":  "Wash / Washing",
-        "translation":  "Yıkamak / Yıkama",
-        "sentence":  "(Günlük kullanım.)"
+        "word":  "Wash",
+        "translation":  "Washing / Yıkamak / Yıkama",
+        "sentence":  "You should always wash your hands before eating."
     },
     {
         "pos":  "Noun / Verb / Adj.",
@@ -27925,9 +27919,9 @@
     },
     {
         "pos":  "Noun / Verb",
-        "word":  "Water / Wave",
-        "translation":  "Su / Dalga",
-        "sentence":  "(Doğa.)"
+        "word":  "Water",
+        "translation":  "Wave / Su / Dalga",
+        "sentence":  "The surfers were waiting for the perfect wave to come in."
     },
     {
         "pos":  "Noun",
@@ -27937,8 +27931,8 @@
     },
     {
         "pos":  "Adj. / Noun",
-        "word":  "Weak / Weakness",
-        "translation":  "Zayıf / Zayıflık",
+        "word":  "Weak",
+        "translation":  "Weakness / Zayıf / Zayıflık",
         "sentence":  "Identifying the weakness of a supplier is important."
     },
     {
@@ -27949,8 +27943,8 @@
     },
     {
         "pos":  "Noun / Adj.",
-        "word":  "Wealth / Wealthy",
-        "translation":  "Servet / Zengin",
+        "word":  "Wealth",
+        "translation":  "Wealthy / Servet / Zengin",
         "sentence":  "Building wealth requires patience and silver!"
     },
     {
@@ -27963,13 +27957,13 @@
         "pos":  "Verb",
         "word":  "Wear",
         "translation":  "Giymek",
-        "sentence":  "(Giyim.)"
+        "sentence":  "You should wear a warm coat when you go outside in the winter."
     },
     {
         "pos":  "Noun",
         "word":  "Weather",
         "translation":  "Hava durumu",
-        "sentence":  "(Doğa.)"
+        "sentence":  "The weather in İzmir is usually very sunny and warm."
     },
     {
         "pos":  "Verb",
@@ -27979,21 +27973,21 @@
     },
     {
         "pos":  "Noun",
-        "word":  "Web / Website",
-        "translation":  "Ağ / İnternet sitesi",
+        "word":  "Web",
+        "translation":  "Website / Ağ / İnternet sitesi",
         "sentence":  "Check the website for current palladium rates."
     },
     {
         "pos":  "Noun",
         "word":  "Wedding",
         "translation":  "Düğün",
-        "sentence":  "(Sosyal.)"
+        "sentence":  "They are planning a big wedding for next summer."
     },
     {
         "pos":  "Noun",
-        "word":  "Wednesday / Week",
-        "translation":  "Çarşamba / Hafta",
-        "sentence":  "(Zaman.)"
+        "word":  "Wednesday",
+        "translation":  "Week / Çarşamba / Hafta",
+        "sentence":  "I have a very busy schedule this week."
     },
     {
         "pos":  "Noun",
@@ -28009,8 +28003,8 @@
     },
     {
         "pos":  "Verb / Noun",
-        "word":  "Weigh / Weight",
-        "translation":  "Tartmak / Ağırlık",
+        "word":  "Weigh",
+        "translation":  "Weight / Tartmak / Ağırlık",
         "sentence":  "What is the total weight of your gold grams?"
     },
     {
@@ -28023,7 +28017,7 @@
         "pos":  "Verb / Adj.",
         "word":  "Welcome",
         "translation":  "Hoş geldiniz / Karşılamak",
-        "sentence":  "(Sosyal.)"
+        "sentence":  "We were warmly welcomed by our hosts when we arrived."
     },
     {
         "pos":  "Noun",
@@ -28045,21 +28039,21 @@
     },
     {
         "pos":  "Noun / Adj.",
-        "word":  "West / Western",
-        "translation":  "Batı / Batılı",
-        "sentence":  "(Yön.)"
+        "word":  "West",
+        "translation":  "Western / Batı / Batılı",
+        "sentence":  "The sun sets in the west every evening."
     },
     {
         "pos":  "Adjective",
         "word":  "Wet",
         "translation":  "Islak",
-        "sentence":  "(Fiziksel.)"
+        "sentence":  "Be careful not to slip on the wet floor."
     },
     {
-        "pos":  "(Bağlaçlar)",
-        "word":  "Whatever / Whenever / Wherever / Whether",
-        "translation":  "Use alternative firms whenever it\u0027s possible.",
-        "sentence":  ""
+        "pos":  "Whenever",
+        "word":  "Whatever",
+        "translation":  "Wherever / Whether / (Bağlaçlar)",
+        "sentence":  "Use alternative firms whenever it\u0027s possible."
     },
     {
         "pos":  "Adverb",
@@ -28077,7 +28071,7 @@
         "pos":  "Noun",
         "word":  "Wheel",
         "translation":  "Tekerlek",
-        "sentence":  "(Araç parçası.)"
+        "sentence":  "The front wheel of my bicycle is a bit loose."
     },
     {
         "pos":  "Adverb",
@@ -28101,7 +28095,13 @@
         "pos":  "Verb / Noun",
         "word":  "Whisper",
         "translation":  "Fısıldamak",
-        "sentence":  "(Ses.)"
+        "sentence":  "She leaned over to whisper a secret in my ear."
+    },
+    {
+        "pos":  "Who",
+        "word":  "White",
+        "translation":  "Whole / Whom / Whose / Why",
+        "sentence":  "Can you explain why the project was delayed?"
     },
     {
         "pos":  "Pronoun",
@@ -28117,8 +28117,8 @@
     },
     {
         "pos":  "Adj. / Adv.",
-        "word":  "Wide / Widely",
-        "translation":  "Geniş / Yaygın olarak",
+        "word":  "Wide",
+        "translation":  "Widely / Geniş / Yaygın olarak",
         "sentence":  "This method is widely used in sourcing."
     },
     {
@@ -28149,13 +28149,13 @@
         "pos":  "Noun",
         "word":  "Wife",
         "translation":  "Eş (kadın)",
-        "sentence":  "(Aile.)"
+        "sentence":  "He lives in İzmir with his wife and two children."
     },
     {
         "pos":  "Adj. / Noun",
-        "word":  "Wild / Wildlife",
-        "translation":  "Vahşi / Yaban hayatı",
-        "sentence":  "(Doğa.)"
+        "word":  "Wild",
+        "translation":  "Wildlife / Vahşi / Yaban hayatı",
+        "sentence":  "We saw many wild animals during our safari in Africa."
     },
     {
         "pos":  "Modal Verb / Noun",
@@ -28177,9 +28177,15 @@
     },
     {
         "pos":  "Verb / Noun",
-        "word":  "Win / Winner",
-        "translation":  "Kazanmak / Kazanan",
+        "word":  "Win",
+        "translation":  "Winner / Kazanmak / Kazanan",
         "sentence":  "A good negotiation is a win-win for both sides."
+    },
+    {
+        "pos":  "Window",
+        "word":  "Wind",
+        "translation":  "Wine / Wing",
+        "sentence":  "The strong wind blew the leaves off the trees."
     },
     {
         "pos":  "Noun",
@@ -28224,10 +28230,10 @@
         "sentence":  "She is famous for her quick wit and sharp sense of humor."
     },
     {
-        "pos":  "(Edatlar)",
-        "word":  "With / Within / Without",
-        "translation":  "We can\u0027t finish the project without your help.",
-        "sentence":  ""
+        "pos":  "Within",
+        "word":  "With",
+        "translation":  "Without / (Edatlar)",
+        "sentence":  "We can\u0027t finish the project without your help."
     },
     {
         "pos":  "Verb",
@@ -28257,19 +28263,19 @@
         "pos":  "Noun",
         "word":  "Woman",
         "translation":  "Kadın",
-        "sentence":  "(Genel.)"
+        "sentence":  "She is a very successful woman in the business world."
     },
     {
         "pos":  "Verb / Adj.",
-        "word":  "Wonder / Wonderful",
-        "translation":  "Merak etmek / Harika",
+        "word":  "Wonder",
+        "translation":  "Wonderful / Merak etmek / Harika",
         "sentence":  "I wonder if silver prices will double this year."
     },
     {
         "pos":  "Noun / Adj.",
-        "word":  "Wood / Wooden / Wool",
-        "translation":  "Odun / Ahşap / Yün",
-        "sentence":  "(Malzemeler.)"
+        "word":  "Wood",
+        "translation":  "Wooden / Wool / Odun / Ahşap / Yün",
+        "sentence":  "Most of the furniture in the house is made of solid wood."
     },
     {
         "pos":  "Noun",
@@ -28279,8 +28285,8 @@
     },
     {
         "pos":  "V. / N. / Adj.",
-        "word":  "Work / Worker / Working",
-        "translation":  "Çalışmak / İşçi / Çalışan",
+        "word":  "Work",
+        "translation":  "Worker / Working / Çalışmak / İşçi / Çalışan",
         "sentence":  "Hard work pays off in strategic sourcing."
     },
     {
@@ -28309,8 +28315,8 @@
     },
     {
         "pos":  "Noun / Adj.",
-        "word":  "World / Worldwide",
-        "translation":  "Dünya / Dünya çapında",
+        "word":  "World",
+        "translation":  "Worldwide / Dünya / Dünya çapında",
         "sentence":  "Sourcing is a worldwide business."
     },
     {
@@ -28321,14 +28327,14 @@
     },
     {
         "pos":  "Verb / Adj.",
-        "word":  "Worry / Worried",
-        "translation":  "Endişelenmek / Endişeli",
+        "word":  "Worry",
+        "translation":  "Worried / Endişelenmek / Endişeli",
         "sentence":  "Don\u0027t worry about the temporary flight delay."
     },
     {
         "pos":  "Adj. / Adv.",
-        "word":  "Worse / Worst",
-        "translation":  "Daha kötü / En kötü",
+        "word":  "Worse",
+        "translation":  "Worst / Daha kötü / En kötü",
         "sentence":  "The worst thing for an investor is panic selling."
     },
     {
@@ -28365,19 +28371,25 @@
         "pos":  "Noun / Verb",
         "word":  "Wound",
         "translation":  "Yara / Yaralamak",
-        "sentence":  "(Sağlık.)"
+        "sentence":  "The doctor cleaned the wound and covered it with a bandage."
     },
     {
         "pos":  "Verb",
         "word":  "Wrap",
         "translation":  "Sarmak, paketlemek",
-        "sentence":  "(Genel kullanım.)"
+        "sentence":  "Please wrap the gift in colorful paper before the party."
     },
     {
         "pos":  "Noun",
         "word":  "Wrist",
         "translation":  "Bilek",
         "sentence":  "He hurt his wrist while carrying heavy boxes in the warehouse."
+    },
+    {
+        "pos":  "Writer",
+        "word":  "Write",
+        "translation":  "Writing / Written",
+        "sentence":  "I need to write a thank-you note to my manager."
     },
     {
         "pos":  "Adj. / Adv.",
@@ -28389,7 +28401,7 @@
         "pos":  "Noun",
         "word":  "Yard",
         "translation":  "Avlu, bahçe",
-        "sentence":  "(Yer.)"
+        "sentence":  "My house has a small yard."
     },
     {
         "pos":  "Exclamation",
@@ -28410,7 +28422,7 @@
         "sentence":  "There is no need to yell; I can hear you perfectly fine."
     },
     {
-        "pos":  "Adj. / Noun",
+        "pos":  "Adj.",
         "word":  "Yellow",
         "translation":  "Sarı",
         "sentence":  "Gold has a beautiful yellow color."
@@ -28422,10 +28434,16 @@
         "sentence":  "The high yield from our silver investment was very satisfying."
     },
     {
-        "pos":  "Adj. / Noun",
-        "word":  "Young / Youth",
-        "translation":  "Genç / Gençlik",
-        "sentence":  "(Yaş grubu.)"
+        "pos":  "Adj.",
+        "word":  "Young",
+        "translation":  "Genç",
+        "sentence":  "Young man didn\u0027t deserve to die."
+    },
+    {
+        "pos":  "Noun",
+        "word":  "Youth",
+        "translation":  "Gençlik",
+        "sentence":  "We used to work to support our families in our youth."
     },
     {
         "pos":  "Number",

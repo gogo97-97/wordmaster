@@ -2863,7 +2863,7 @@ Mood | Noun | Ruh hali, mod | My mood improved after seeing the successful cost-
 Moon | Noun | Ay (gökyüzündeki) | The moon was very bright during my flight back to İzmir.
 Moral | Adj. | Noun | Ahlaki | Moral, ders | Maintaining high moral standards is essential in sourcing.
 Morality | Noun | Ahlak, moralite | The film explores the boundaries of human morality.
-More | Det.|Pron.|Adv. | Daha fazla | We need more data about the drivers of silver prices.
+More |Adv. | Daha fazla | We need more data about the drivers of silver prices.
 Moreover | Adverb | Dahası, üstelik | The house is beautiful; moreover, it's in a great location.
 Morning | Noun | Sabah | Every morning, I check the betting analysis for the evening match.
 Mortgage | Noun | İpotekli konut kredisi | We took out a twenty-year mortgage to buy our first home.
@@ -3998,52 +3998,52 @@ Sketch | Noun | Verb | Taslak, çizim | Can you provide a quick sketch of the ne
 Ski | Skiing | Verb | Noun | Kayak yapmak | Kayak | (Spor.)
 Skill | Noun | Beceri, yetenek | Negotiating is a vital skill in my profession.
 Skilled | Adjective | Yetenekli, vasıflı | Finding skilled labor for managing raw materials is a challenge.
-Skin | Noun | Cilt, deri | (Vücut parçası.)
+Skin | Noun | Cilt, deri | Use a high-quality lotion to keep your skin hydrated.
 Skip | Verb | Atlamak, geçmek | I decided to skip the boring introduction and start from the first chapter.
-Skirt | Noun | Etek | (Giyim.)
+Skirt | Noun | Etek | She wore a long blue skirt to the party.
 Skull | Noun | Kafatası | The X-ray showed a small fracture in the patient's skull.
-Sky | Noun | Gökyüzü | (Doğa.)
+Sky | Noun | Gökyüzü | The sky is very clear tonight in İzmir.
 Slam | Verb | Sertçe kapatmak, çarpmak | Please don't slam the door; it's very loud in the office.
 Slap | Verb | Tokat atmak, sertçe vurmak | He managed to slap the mosquito on his arm.
 Slash | Verb | Hızla düşürmek (fiyat vb.), yarmak | The department store decided to slash prices for the winter sale.
-Slave | Noun | Köle | (Tarihi|Genel terim.)
+Slave | Noun | Köle | History books describe the difficult lives of slaves in ancient Rome.
 Slavery | Noun | Kölelik | Many historical books discuss the abolition of slavery in the 19th century.
 Sleep | Verb | Noun | Uyumak | Uyku | I didn't get much sleep because of the match analysis.
-Slice | Noun | Verb | Dilim | Dilimlemek | (Genel kullanım.)
+Slice | Noun | Verb | Dilim | Dilimlemek | Would you like another slice of pizza?
 Slide | Verb | Noun | Kaymak | Slayt | I will show a slide about cost-down results.
 Slight | Slightly | Adj. | Adverb | Hafif | Hafifçe | There was a slight delay in the shipment of raw materials.
 Slip | Verb | Kaymak, hata yapmak | Be careful not to slip on the wet floor in the factory.
 Slogan | Noun | Slogan | A catchy slogan is essential for a successful marketing campaign.
-Slope | Noun | Verb | Eğim, yamaç | Eğilmek | (Coğrafi|Teknik terim.)
+Slope | Noun | Verb | Eğim, yamaç | Eğilmek | The mountain slope is very steep and difficult to climb.
 Slot | Noun | Yer, yuva, zaman dilimi | I have a free slot in my schedule at 3 PM for our meeting.
 Slow | Slowly | Adj. | Adverb | Yavaş | Yavaşça | The process of finding an alternative firm is slow but necessary.
 Small | Adjective | Küçük | I have a small collection of 1 gram gold pieces.
 Smart | Adjective | Zeki, akıllı | Investing in precious metals is a smart way to manage your wealth.
 Smartphone | Noun | Akıllı telefon | I use my smartphone to track social media trends.
 Smash | Verb | Parçalamak, kırmak | The waiter accidentally dropped the tray and watched the glasses smash.
-Smell | Verb | Noun | Koklamak | Koku | (Genel kullanım.)
+Smell | Verb | Noun | Koklamak | Koku | I love the smell of fresh coffee in the morning.
 Smile | Verb | Noun | Gülümsemek | Gülümseme | A friendly smile can help during a difficult negotiation.
-Smoke | Smoking | Noun | Verb | Duman | Sigara içmek | (Genel kullanım.)
+Smoke | Smoking | Noun | Verb | Duman | Sigara içmek | We saw thick black smoke coming from the factory chimney.
 Smooth | Adjective | Pürüzsüz, sorunsuz | The transition to the new supplier was very smooth.
-Snake | Noun | Yılan | (Hayvan.)
+Snake | Noun | Yılan | Be careful while walking in the tall grass; there might be snakes.
 Snap | Verb | Aniden kırılmak, şıklatmak | The dry branch managed to snap under the weight of the heavy snow.
-Sneaker | Noun | Spor ayakkabı | (Giyim.)
-Snow | Noun | Verb | Kar | Kar yağmak | (Hava durumu.)
+Sneaker | Noun | Spor ayakkabı | I bought a new pair of sneakers for my morning runs.
+Snow | Noun | Verb | Kar | Kar yağmak | It started to snow heavily while we were driving home.
 So | Adverb | Conj. | Öyle, çok | Bu yüzden | The flight was canceled, so I stayed in Istanbul one more night.
 So-called | Adjective | Sözde | I don't trust his so-called expertise in financial asset management.
 Soak | Verb | Islatmak, suya bastırmak | You should soak the beans in water overnight before cooking them.
-Soap | Noun | Sabun | (Temizlik.)
+Soap | Noun | Sabun | Please wash your hands with soap and water.
 Soar | Verb | Hızla yükselmek | Property prices in coastal cities continue to soar this year.
 Soccer | Noun | Futbol | I enjoy analyzing soccer matches for betting options.
 Social | Adjective | Sosyal | I want to automate my social media tracking.
 Socialist | Adjective | Sosyalist | The candidate discussed his socialist views on healthcare reform.
-Society | Noun | Toplum | (Genel terim.)
-Sock | Noun | Çorap | (Giyim.)
-Soft | Adjective | Yumuşak | (Fiziksel özellik.)
+Society | Noun | Toplum | We all have a responsibility to contribute to our society.
+Sock | Noun | Çorap | I need to buy some warm socks for the winter.
+Soft | Adjective | Yumuşak | This blanket is very soft and comfortable.
 Software | Noun | Yazılım | I'm looking for software to track celebrity following trends.
-Soil | Noun | Toprak | (Doğa.)
+Soil | Noun | Toprak | The soil in this region is very rich and good for farming.
 Solar | Adjective | Güneşle ilgili | Solar panels require certain precious metals for production.
-Soldier | Noun | Asker | (Meslek.)
+Soldier | Noun | Asker | The brave soldier was honored for his service to the country.
 Sole | Adjective | Tek, yegane | My sole reason for calling was to invite you to the event.
 Solely | Adverb | Sadece, yalnızca | The decision was based solely on the information in the report.
 Solid | Adjective | Noun | Katı, sağlam | Gold is a solid investment for the future.
@@ -4054,7 +4054,7 @@ Solve | Verb | Çözmek | We need to solve the cost issue before the end of the 
 Some | Somebody | Someone | Something | Sometimes | Somewhat | Somewhere | (Belgisiz zamirler|zarflar) | Sometimes silver prices are more volatile than gold.
 Somehow | Adverb | Bir şekilde | Somehow, we managed to finish the project before the deadline.
 Sometime | Adverb | Bir ara, bazen | Let's meet for a coffee sometime next week to catch up.
-Son | Noun | Oğul | (Aile.)
+Son | Noun | Oğul | My son is starting his first day of school tomorrow.
 Song | Noun | Şarkı | The first song for my YouTube channel is about animals.
 Soon | Adverb | Yakında | I hope to buy my new car soon.
 Sophisticated | Adjective | Gelişmiş, sofistike | The new security system is highly sophisticated and hard to break.
@@ -4064,9 +4064,9 @@ Sort | Noun | Verb | Tür | Sınıflandırmak | What sort of alternative raw mat
 Soul | Noun | Ruh | He sold his soul for Money.
 Sound | Adjective | Sağlam, mantıklı | Despite the crisis, the company's financial position remains sound.
 Sound | Noun | Verb | Ses | Ses çıkarmak, ... gibi gelmek | That sounds like a great plan for the YouTube channel.
-Soup | Noun | Çorba | (Yiyecek.)
+Soup | Noun | Çorba | A hot bowl of soup is perfect for a cold winter day.
 Source | Noun | Kaynak | We are looking for a new source for raw materials.
-South | Southern | Noun | Adj. | Güney | Güneye ait | (Coğrafi terimler.)
+South | Southern | Noun | Adj. | Güney | Güneye ait | We are planning to travel to the south of Turkey this summer.
 Sovereignty | Noun | Egemenlik | The nation celebrated the anniversary of its sovereignty and independence.
 Space | Noun | Alan, boşluk, uzay | We need more space in the factory for the new production line.
 Spam | Noun | Gereksiz e-posta | My inbox is full of spam advertising products I don't need.
@@ -4078,7 +4078,7 @@ Special | Adjective | Özel | This anniversary is very special to me because it'
 Specialist | Noun | Adj. | Uzman | You are becoming a specialist in strategic sourcing.
 Specialize | Verb | Uzmanlaşmak | He decided to specialize in strategic sourcing and cost reduction.
 Specialized | Adjective | Uzmanlaşmış | This role requires specialized knowledge of raw material management.
-Species | Noun | Tür (canlılar için) | (Bilimsel terim.)
+Species | Noun | Tür (canlılar için) | Scientists have discovered a new species of bird in the rainforest.
 Specific | Specifically| Adj. | Adv. | Belirli, özel | Özellikle | I am looking for a specific type of silver coin.
 Specification | Noun | Şartname, teknik özellik | Please read the technical specifications before installing the machine.
 Specify | Verb | Belirtmek | You must specify which alternative supplier you prefer to work with.
@@ -4089,19 +4089,19 @@ Spectator | Noun | İzleyici | Thousands of spectators gathered at the stadium f
 Spectrum | Noun | Yelpaze, spektrum | The course covers a wide spectrum of topics in modern history.
 Speculate | Verb | Tahminde bulunmak | It is too early to speculate on the cause of the flight cancellation.
 Speculation | Noun | Tahmin, spekülasyon | There has been a lot of speculation about the rise in silver prices.
-Speech | Noun | Konuşma | (Genel kullanım.)
+Speech | Noun | Konuşma | The president gave a moving speech about unity and hope.
 Speed | Noun | Verb | Hız | Hızlandırmak | We need to speed up the cost-down process.
 Spell | Noun | Kısa süre, dönem | We experienced a brief spell of cold weather early last month.
 Spell | Spelling | Verb | Noun | Hecelemek | Yazım | How do you spell "palladium" in German?
 Spend | Spending | Verb | Noun | Harcamak | Harcama | We should monitor our spending on alternative raw materials.
 Sphere | Noun | Küre, alan | This falls outside my sphere of responsibility at the company.
 Spice | Noun | Baharat | Adding a bit of spice can make a simple meal much more interesting.
-Spicy | Adjective | Baharatlı | (Yiyecek.)
-Spider | Noun | Örümcek | (Hayvan.)
+Spicy | Adjective | Baharatlı | I like my food spicy, but this is a bit too hot for me.
+Spider | Noun | Örümcek | I found a large spider in the corner of the room.
 Spill | Verb | Dökmek (sıvı) | Be careful not to spill your coffee on the new office carpet.
 Spin | Verb | Noun | Döndürmek, dönmek | The dancer started to spin around faster and faster.
 Spine | Noun | Omurga | He injured his spine in a falling accident and needs physical therapy.
-Spirit | Spiritual | Noun | Adj. | Ruh | Ruhsal | (Genel terimler.)
+Spirit | Spiritual | Noun | Adj. | Ruh | Ruhsal | The team showed a great competitive spirit during the match.
 Spite | Noun | Kin, inat | He ignored her advice out of pure spite, which was a mistake.
 Split | Verb | Noun | Bölmek, paylaşmak | Let’s split the investment between gold and silver.
 Spoil | Verb | Bozmak, şımartmak | Don't tell me the ending of the movie; you'll spoil it for me!
@@ -4109,49 +4109,49 @@ Spoken | Adjective | Sözlü | My spoken English is improving every day.
 Spokesman | Noun | Sözcü (erkek) | The government spokesman denied the rumors of a tax increase.
 Spokesperson | Noun | Sözcü (genel) | A spokesperson for the airline apologized for the canceled flight.
 Spokeswoman | Noun | Sözcü (kadın) | The company spokeswoman announced the new cost-down strategy.
-Sponsor | Verb | Noun | Sponsor olmak | Sponsor | (İş dünyası terimi.)
+Sponsor | Verb | Noun | Sponsor olmak | Sponsor | Several local businesses decided to sponsor the charity event.
 Sponsorship | Noun | Sponsorluk | The event was made possible through the sponsorship of local firms.
-Spoon | Noun | Kaşık | (Mutfak eşyası.)
+Spoon | Noun | Kaşık | She used a wooden spoon to stir the boiling soup.
 Sport | Noun | Spor | Analyzing sport matches is my favorite hobby.
 Spot | Noun | Verb | Nokta, yer | Fark etmek | I found a great spot in İzmir for the YouTube video shoot.
 Spotlight | Noun | İlgi odağı, spot ışığı | The young actor found himself in the spotlight after his first film.
 Spouse | Noun | Eş | Employees are invited to bring their spouses to the holiday party.
 Spread | Verb | Noun | Yaymak, yayılmak | The news about silver prices spread quickly.
-Spring | Noun | Verb | İlkbahar | Yay | (Mevsim.)
+Spring | Noun | Verb | İlkbahar | Yay | The flowers begin to bloom in early spring.
 Spy | Noun | Verb | Casus | Casusluk yapmak | The movie tells the story of a spy working during the Cold War.
 Squad | Noun | Ekip, tim | The police squad arrived quickly at the scene of the robbery.
-Square | Adj. | Noun | Kare | Meydan | (Geometri|Şehir terimi.)
+Square | Adj. | Noun | Kare | Meydan | The town square was decorated with colorful lights for the festival.
 Squeeze | Verb | Sıkmak | You need to squeeze the lemon to get all the juice out.
 Stab | Verb | Bıçaklamak | He was lucky to survive after someone tried to stab him.
 Stability | Noun | İstikrar, denge | Economic stability is crucial for long-term precious metal investment.
 Stabilize | Verb | Stabilize etmek, dengelemek | The doctor worked quickly to stabilize the patient's condition.
 Stable | Adjective | İstikrarlı, sabit | We want the raw material prices to remain stable.
-Stadium | Noun | Stadyum | (Spor terimi.)
+Stadium | Noun | Stadyum | The new stadium can hold more than fifty thousand people.
 Staff | Noun | Personel, kadro | The factory staff is very experienced.
 Stage | Noun | Verb | Aşama | Sahnelemek | We are at the final stage of the supplier selection.
-Stair | Noun | Basamak, merdiven | (Bina terimi.)
+Stair | Noun | Basamak, merdiven | He walked up the stairs to get to the second floor.
 Stake | Noun | Pay, hisse, risk | The company has a large stake in the alternative energy market.
 Stall | Noun | Tezgah, kabin | He bought a fresh sandwich from a small food stall at the station.
-Stamp | Noun | Pul, damga | (Genel kullanım.)
+Stamp | Noun | Pul, damga | Don't forget to put a stamp on the envelope before posting it.
 Stance | Noun | Duruş, tutum | The manager's stance on cost reduction was very clear.
-Stand | Verb | Noun | Ayakta durmak | Stand | (Genel kullanım.)
+Stand | Verb | Noun | Ayakta durmak | Stand | She had to stand on the bus because there were no free seats.
 Standard | Noun | Adj. | Standart | Quality standards must be met by all alternative firms.
 Standing | Adjective | Daimi, ayakta | He has a standing invitation to join the executive board meetings.
-Star | Noun | Verb | Yıldız | Yıldızı parlamak | (Genel kullanım.)
-Stare | Verb | Dik dik bakmak | (Davranış.)
+Star | Noun | Verb | Yıldız | Yıldızı parlamak | We looked at the stars through a telescope last night.
+Stare | Verb | Dik dik bakmak | It is rude to stare at people in public.
 Stark | Adjective | Keskin, sert | There is a stark contrast between the two financing options.
 Start | Verb | Noun | Başlamak | Başlangıç | Let's start the performance review meeting.
 Starve | Verb | Açlıktan ölmek, çok acıkmak | If we don't find a new supplier soon, the factory will starve for materials.
 State | Statement | Noun | Verb | Durum, devlet | İfade, açıklama | I need to write a clear statement for my self-evaluation.
-Station | Noun | İstasyon | (Ulaşım.)
+Station | Noun | İstasyon | I'll meet you at the train station at 5 PM.
 Statistic | Noun | İstatistik | The statistics show a decrease in production costs.
 Statistical | Adjective | İstatistiksel | The report provides a detailed statistical analysis of the market.
-Statue | Noun | Heykel | (Sanat.)
+Statue | Noun | Heykel | The statue in the park was made of solid bronze.
 Status | Noun | Durum, statü | What is the current status of the car purchase process?
 Stay | Verb | Noun | Kalmak | Kalış | I had to stay in an airport hotel due to the cancellation.
 Steadily | Adverb | İstikrarlı bir şekilde | The value of silver has been rising steadily over the last few months.
 Steady | Adjective | İstikrarlı, düzenli | A steady increase in silver value is better for long-term profit.
-Steal | Verb | Çalmak | (Hukuki terim.)
+Steal | Verb | Çalmak | It is a crime to steal someone else's property.
 Steam | Noun | Buhar | The kitchen was filled with steam from the boiling water.
 Steel | Noun | Çelik | Steel is one of the main raw materials we manage.
 Steep | Adjective | Dik, sarp, aşırı | There was a steep drop in the market prices yesterday.
@@ -4159,8 +4159,8 @@ Steer | Verb | Yönlendirmek, sürmek | It is difficult to steer a large ship th
 Stem | Noun | Verb | Kök, gövde | -den gelmek | Many of our current problems stem from a lack of communication.
 Step | Noun | Verb | Adım | Adımlamak | The next step is to contact Akbank for a palladium account.
 Stereotype | Noun | Stereotip, kalıplaşmış örnek | We must avoid the stereotype that all cheap materials are low quality.
-Stick | Verb | Noun | Yapıştırmak | Çubuk | (Genel kullanım.)
-Sticky | Stiff | Adjective | Yapışkan | Sert, katı | (Fiziksel özellikler.)
+Stick | Verb | Noun | Yapıştırmak | Çubuk | Use a bit of glue to stick the label onto the box.
+Sticky | Stiff | Adjective | Yapışkan | Sert, katı | My fingers are sticky from eating that honey.
 Still | Adverb | Adj. | Hala | Hareketsiz | I am still waiting for the flight compensation.
 Stimulate | Verb | Uyarmak, teşvik etmek | Lower interest rates are intended to stimulate economic growth.
 Stimulus | Noun | Uyarıcı, teşvik | The tax cut provided a much-needed stimulus for small businesses.
@@ -4168,30 +4168,30 @@ Stir | Verb | Karıştırmak, harekete geçirmek | Please stir the soup occasion
 Stock | Noun | Stok, hisse senedi | We need to check the stock level of alternative firms.
 Stomach | Noun | Mide | (Sağlık.)
 Stone | Noun | Taş | (Doğa.)
-Stop | Verb | Noun | Durmak | Durak | (Genel kullanım.)
+Stop | Verb | Noun | Durmak | Durak | You should stop at the red light.
 Storage | Noun | Depolama | We need more storage space for the new alternative raw materials.
 Store | Noun | Verb | Mağaza | Depolamak | We store our precious metals in a safe box.
-Storm | Noun | Fırtına | (Hava durumu.)
-Story | Noun | Hikaye | (Genel kullanım.)
-Stove | Noun | Ocak, fırın | (Mutfak.)
-Straight | Adv. | Adj. | Doğruca, düz | (Yön|Biçim.)
+Storm | Noun | Fırtına | A heavy storm is expected to hit the coast tonight.
+Story | Noun | Hikaye | He told us an interesting story about his travels in Asia.
+Stove | Noun | Ocak, fırın | The pot of soup is simmering on the stove.
+Straight | Adv. | Adj. | Doğruca, düz | Go straight ahead and then turn left at the corner.
 Straightforward | Adjective | Basit, anlaşılır | The process for switching suppliers is quite straightforward.
 Strain | Noun | Gerginlik, yük | The long working hours are putting a lot of strain on the staff.
 Strand | Noun | Tel, iplik, lif | A single strand of hair was found at the crime scene.
-Strange | Stranger | Adj. | Noun | Garip | Yabancı | (Genel kullanım.)
+Strange | Stranger | Adj. | Noun | Garip | Yabancı | I heard a strange noise coming from the basement.
 Strategic | Adjective | Stratejik | Managing alternative suppliers is a strategic part of my role.
 Strategy | Noun | Strateji | My strategy is to diversify investments in gold and silver.
-Stream | Noun | Akış, dere | (Doğa|Dijital akış.)
-Street | Noun | Cadde, sokak | (Şehir.)
+Stream | Noun | Akış, dere | There is a small stream of water flowing through the garden.
+Street | Noun | Cadde, sokak | I live on a very quiet street in the suburbs.
 Strength | Noun | Güç, kuvvet | One of my strengths is analyzing supplier data.
 Strengthen | Verb | Güçlendirmek | We need to strengthen our relationships with alternative firms.
 Stress | Noun | Verb | Stres | Vurgulamak | I want to stress the importance of cost-down projects.
-Stretch | Verb | Noun | Esnetmek | Esneme | (Fiziksel.)
+Stretch | Verb | Noun | Esnetmek | Esneme | It's important to stretch your muscles before exercising.
 Strict | Adjective | Sıkı, sert | Our company has strict rules for choosing alternative suppliers.
 Strictly | Adverb | Kesinlikle, sıkıca | The safety rules in the factory must be strictly followed.
-Strike | Verb | Noun | Vurmak | Grev | (Genel kullanım.)
+Strike | Verb | Noun | Vurmak | Grev | The workers decided to go on strike for better pay.
 Striking | Adjective | Çarpıcı | There is a striking similarity between these two gold coins.
-String | Noun | İp, dizi | (Genel kullanım.)
+String | Noun | İp, dizi | I need a piece of string to tie this package.
 Strip (Piece) | Noun | Şerit, dar parça | Use a strip of tape to seal the box before shipping.
 Strip (Remove) | Verb | Soymak, çıkarmak | You need to strip the old paint off the wall before repainting.
 Strive | Verb | Çabalamak | We strive to achieve the highest level of cost reduction possible.
@@ -4201,12 +4201,12 @@ Structural | Adjective | Yapısal | The engineers are checking the structural in
 Structure | Noun | Verb | Yapı | Yapılandırmak | The structure of the report should be easy to read.
 Struggle | Verb | Noun | Mücadele etmek | Mücadele | Many firms struggle with high raw material costs.
 Student | Study | Noun | Verb | Öğrenci | Çalışmak, ders çalışmak | I study English and German to improve my career prospects.
-Studio | Noun | Stüdyo | (Genel kullanım.)
-Stuff | Noun | Verb | Şeyler | Doldurmak | (Günlük konuşma dili.)
+Studio | Noun | Stüdyo | The artist spent all day working in her studio.
+Stuff | Noun | Verb | Şeyler | Doldurmak | I have a lot of stuff to move to my new apartment.
 Stumble | Verb | Tökezlemek | Be careful not to stumble on the uneven sidewalk.
 Stun | Verb | Sersemletmek, şoka uğratmak | The news of the sudden layoffs managed to stun the whole team.
 Stunning | Adjective | Göz alıcı, şahane | The view of the sunset from the office was absolutely stunning.
-Stupid | Adjective | Aptalca | (Genel kullanım.)
+Stupid | Adjective | Aptalca | That was a stupid mistake and I should have known better.
 Style | Noun | Tarz, stil | I like the style of your content on YouTube.
 Subject | Noun | Adj. | Konu | Tabi | The subject of the email was "Cost-Down Results".
 Submission | Noun | Teslim, sunma | The deadline for the submission of your self-evaluation is Friday.
@@ -4224,7 +4224,7 @@ Substitution | Noun | Değiştirme, yerine geçme | The substitution of silver f
 Subtle | Adjective | İnce, hafif, belli belirsiz | There is a subtle difference between these two alternative materials.
 Suburb | Noun | Banliyö, kenar mahalle | Many people prefer to live in a quiet suburb and commute to İzmir.
 Suburban | Adjective | Banliyö ile ilgili | They moved to a suburban area to have a larger garden for the kids.
-Subway | Noun | Metro | (Ulaşım.)
+Subway | Noun | Metro | I take the subway to work every morning.
 Succeed | Success | Verb | Noun | Başarmak | Başarı | Strategic sourcing is key to the company’s success.
 Successful | Successfully| Adj. | Adv. | Başarılı | Başarılı bir şekilde | We successfully reduced the supply costs by 15%.
 Succession | Noun | Ardıllık, birbirini izleme | He won several awards in quick succession for his sourcing work.
@@ -4238,7 +4238,7 @@ Suffer | Verb | Acı çekmek, zarar görmek | Production will suffer if we don't
 Suffering | Noun | Acı, keder | The organization works to reduce the suffering of refugees.
 Sufficient | Adjective | Yeterli | We must ensure we have sufficient stock of raw materials.
 Sufficiently | Adverb | Yeterince | The results of the study were not sufficiently clear to make a decision.
-Sugar | Noun | Şeker | (Yiyecek.)
+Sugar | Noun | Şeker | Do you take sugar in your coffee?
 Suggest | Suggestion | Verb | Noun | Önermek | Öneri | Can you suggest an alternative firm for this material?
 Suicide | Noun | İntihar | The news of his suicide was a shock to all his former colleagues.
 Suit | Noun | Verb | Takım elbise | Uymak | This car financing plan doesn't suit my budget.
@@ -4246,14 +4246,14 @@ Suitable | Adjective | Uygun | We need to find a suitable date for the supplier 
 Suite | Noun | Süit, takım | We booked a business suite for the conference in Istanbul.
 Sum | Noun | Verb | Toplam | Toplamak | The total sum of my investments is growing steadily.
 Summarize | Summary | Verb | Noun | Özetlemek | Özet | Can you provide a brief summary of the match analysis?
-Summer | Noun | Yaz | (Mevsim.)
+Summer | Noun | Yaz | We always go to the beach during the summer.
 Summit | Noun | Zirve | The world leaders gathered for an emergency summit on climate.
-Sun | Sunday | Noun | Güneş | Pazar | (Gök cismi | Gün.)
+Sun | Sunday | Noun | Güneş | Pazar | The sun is shining brightly today.
 Super | Adjective | Harika, süper | You did a super job on the self-evaluation note for your anniversary.
 Superb | Adjective | Şahane, mükemmel | The service at the hotel in İzmir was absolutely superb.
 Superintendent| Noun | Müfettiş, yönetici | The school superintendent announced the new educational goals.
 Superior | Adjective | Üstün | This alternative material is actually superior to the original one.
-Supermarket | Noun | Süpermarket | (Alışveriş.)
+Supermarket | Noun | Süpermarket | I need to go to the supermarket to buy some groceries.
 Supervise | Verb | Denetlemek, gözetmek | My manager will supervise the implementation of the new strategy.
 Supervision | Noun | Denetim, gözetim | Children should be under adult supervision when playing near water.
 Supervisor | Noun | Danışman, şef | Please discuss your vacation plans with your immediate supervisor.
@@ -4266,21 +4266,21 @@ Supposedly | Adverb | Güya, sözde | The new machine is supposedly much faster 
 Suppress | Verb | Bastırmak, gizlemek | He tried to suppress his laughter during the serious meeting.
 Supreme | Adjective | Yüce, en üstün | The supreme court's decision is final and cannot be changed.
 Sure | Surely | Adj. | Adv. | Emin | Kesinlikle | I am sure that the Birevim system is the right choice for me.
-Surface | Noun | Yüzey | (Fiziksel özellik.)
+Surface | Noun | Yüzey | The surface of the table is very smooth.
 Surge | Noun | Verb | Dalgalanma, ani artış | We noticed a sudden surge in the price of palladium today.
 Surgeon | Noun | Cerrah | The surgeon performed a complicated operation on the patient.
-Surgery | Noun | Ameliyat | (Tıp.)
+Surgery | Noun | Ameliyat | He had to undergo surgery to repair his knee.
 Surgical | Adjective | Cerrahi | The patient is recovering well from the surgical procedure.
 Surplus | Noun | Fazlalık, artı | We have a surplus of raw materials that we need to store.
 Surprise | Surprised | Surprising| N. | V. | Adj. | Sürpriz | Şaşırmış | Şaşırtıcı | The surprising rise in silver prices made me happy.
 Surrender | Verb | Teslim olmak | After weeks of fighting, the rebels were forced to surrender.
-Surround | Surrounding | Verb | Adj. | Çevrelemek | Çevreleyen | (Genel kullanım.)
+Surround | Surrounding | Verb | Adj. | Çevrelemek | Çevreleyen | High mountains surround the small village on all sides.
 Surveillance | Noun | Gözetleme, takip | The warehouse is under 24-hour video surveillance for security.
 Survey | Noun | Verb | Anket, inceleme | İncelemek | We conducted a survey to find the best alternative firms.
 Survival | Noun | Hayatta kalma | The survival of the company depends on successful cost reduction.
-Survive | Verb | Hayatta kalmak | (Genel kullanım.)
+Survive | Verb | Hayatta kalmak | Many plants can survive for a long time without much water.
 Survivor | Noun | Hayatta kalan | The survivors of the earthquake were taken to a safe location.
-Suspect | Verb | Noun | Şüphelenmek | Şüpheli | (Genel kullanım.)
+Suspect | Verb | Noun | Şüphelenmek | Şüpheli | The police have arrested a suspect in connection with the robbery.
 Suspend | Verb | Askıya almak, durdurmak | The airline decided to suspend all flights to İzmir due to the storm.
 Suspension | Noun | Askıya alma | Süspansiyon | The driver noticed a problem with the car's front suspension.
 Suspicion | Noun | Şüphe | There is a strong suspicion that the supplier is hiding costs.
@@ -4288,9 +4288,9 @@ Suspicious | Adjective | Şüpheli | If you see any suspicious activity, please 
 Sustain | Verb | Sürdürmek, ayakta tutmak | It is hard to sustain such a high level of growth in this market.
 Sustainable | Adjective | Sürdürülebilir | We are looking for more sustainable ways to source raw materials.
 Swallow | Verb | Yutmak | It was difficult to swallow the pill without a glass of water.
-Swear | Verb | Yemin etmek | Küfretmek | (Genel kullanım.)
+Swear | Verb | Yemin etmek | Küfretmek | You must swear to tell the truth in court.
 Sweater | Noun | Kazak | (Giyim.)
-Sweep | Verb | Süpürmek | (Genel kullanım.)
+Sweep | Verb | Süpürmek | Please sweep the floor before the guests arrive.
 Sweet | Adjective | Tatlı | (Lezzet.)
 Swim | Swimming | Verb | Noun | Yüzmek | Yüzme | I like swimming in the sea in İzmir.
 Swing | Verb | Noun | Sallanmak | Salıncak | The pendulum began to swing back and forth slowly.
@@ -4299,7 +4299,7 @@ Sword | Noun | Kılıç | The museum has a collection of ancient swords from the
 Symbol | Noun | Sembol | Ag is the chemical symbol for silver.
 Symbolic | Adjective | Sembolik | The key to the city was given as a symbolic gesture of welcome.
 Sympathetic | Adjective | Sempatik, anlayışlı | My supervisor was very sympathetic about my flight cancellation.
-Sympathy | Symptom | Noun | Sempati | Belirti | (Genel terimler.)
+Sympathy | Symptom | Noun | Sempati | Belirti | I have a lot of sympathy for people who have lost their homes.
 Syndrome | Noun | Sendrom | Irritable bowel syndrome can be managed with a proper diet.
 Synthesis | Noun | Sentez | The report is a synthesis of information from various suppliers.
 System | Noun | Sistem | The Birevim system has two different paths to buy a car.
@@ -4317,7 +4317,7 @@ Talk | Verb | Noun | Konuşmak | Konuşma | Let's talk about the silver price tr
 Tall | Adjective | Uzun (boylu) | (Fiziksel özellik.)
 Tank | Noun | Tank, depo | The factory has a large water tank.
 Tap | Verb | Noun | Hafifçe vurmak | Musluk | He turned on the tap to fill the kettle with water.
-Tape | Noun | Bant, şerit | (Genel kullanım.)
+Tape | Noun | Bant, şerit | I used some tape to fix the broken handle of the box.
 Target | Noun | Verb | Hedef | Hedeflemek | Our target for this month is a 5% cost reduction.
 Task | Noun | Görev, iş | My daily task is managing suppliers.
 Taste | Noun | Verb | Tad | Tadına bakmak | (Lezzet.)
@@ -4327,7 +4327,7 @@ Taxpayer | Noun | Vergi mükellefi | The new project will be funded by the local
 Tea | Noun | Çay | (İçecek.)
 Teach | Teacher | Teaching| Verb | Noun | Öğretmek | Öğretmen | Öğretim | I want to teach kids through my YouTube channel.
 Team | Noun | Takım, ekip | Our sourcing team is working on a new project.
-Tear | Verb | Noun | Yırtmak | Gözyaşı | (Genel kullanım.)
+Tear | Verb | Noun | Yırtmak | Gözyaşı | Be careful not to tear the paper when you open the envelope.
 Technical | Adjective | Teknik | I am learning the technical terminology of strategic sourcing.
 Technique | Noun | Teknik, yöntem | We are using a new technique for cost-down studies.
 Technological | Adjective | Teknolojik | Rapid technological change is transforming the sourcing industry.
@@ -4341,7 +4341,7 @@ Temple | Noun | Tapınak | The ancient temple is one of the most visited sites i
 Temporarily | Adverb | Geçici olarak | The office will be temporarily closed for a scheduled renovation.
 Temporary | Adjective | Geçici | The flight delay was only temporary.
 Tempt | Verb | Cezbetmek, özendirmek | The low price of silver might tempt more people to invest.
-Ten | Number | On (10) | (Sayı.)
+Ten | Number | On (10) | There are ten students in the advanced English class.
 Tenant | Noun | Kiracı | The new tenant will move into the apartment on the first of May.
 Tend | Verb | Eğiliminde olmak | Silver prices tend to rise during economic uncertainty.
 Tendency | Noun | Eğilim | There is a growing tendency for companies to automate sourcing.
@@ -4374,30 +4374,30 @@ Than | Conj. | -den, -dan (karşılaştırma) | Gold is more expensive than silv
 Thank | Thanks | Verb | Noun | Teşekkür etmek | Teşekkürler | Thank you for your help with the English vocabulary list.
 Thankfully | Adverb | Şükür ki, neyse ki | Thankfully, no one was hurt in the minor factory accident.
 That | Det. | Pron. | O, şu | That supplier offers a better price than the previous one.
-The | Article | (Belirtme eki) | (Dilbilgisi.)
+The | Article | (Belirtme eki) | The book on the table is mine.
 Theater | Noun | Tiyatro | (Sanat.)
 Theatrical | Adjective | Tiyatral | The play was a very theatrical performance with amazing costumes.
 Theft | Noun | Hırsızlık | The company is taking steps to prevent the theft of raw materials.
-Their | Theirs | Them | Themselves| Pronouns | Onların | Onları | Kendilerini | (Zamirler.)
+Their | Theirs | Them | Themselves| Pronouns | Onların | Onları | Kendilerini | They brought their own lunches to the meeting.
 Theme | Noun | Tema | The theme of the YouTube channel is education through songs.
 Then | Adverb | O zaman, ondan sonra | We will analyze the match, and then place a bet.
 Theology | Noun | Teoloji, ilahiyat | He is a professor of theology at a prestigious university.
 Theoretical | Adjective | Teorik | My understanding of asset management was purely theoretical at first.
 Theory | Noun | Teori | In theory, cost-down studies should increase our profit.
 Therapist | Noun | Terapist | She visits a physical therapist twice a week for her back injury.
-Therapy | Noun | Terapi | (Sağlık.)
+Therapy | Noun | Terapi | He is attending speech therapy to improve his communication skills.
 There | Adverb | Orada | There is a chance to buy more palladium this week.
 Thereafter | Adverb | Ondan sonra | He resigned in 2024 and moved to İzmir shortly thereafter.
 Thereby | Adverb | Bu nedenle, böylece | He reduced costs and thereby increased the company's profit.
 Therefore | Adverb | Bu nedenle | Silver is undervalued; therefore, it is a good investment.
 Thesis | Noun | Tez | She is currently writing her thesis on social media automation.
 They | Pronoun | Onlar | They are our most reliable suppliers in Germany.
-Thick | Thin | Adjective | Kalın | İnce | (Fiziksel özellikler.)
-Thief | Noun | Hırsız | (Genel terim.)
+Thick | Thin | Adjective | Kalın | İnce | The walls of the old castle are very thick.
+Thief | Noun | Hırsız | The thief stole a valuable painting from the museum.
 Thing | Thinking | Thought | Noun | Verb | Şey | Düşünme | Düşünce | My first thought was to buy a car through Birevim.
 Third | Number | Noun | Üçüncü | This is the third time I have recalculated the gold weight.
-Thirsty | Adjective | Susamış | (Genel kullanım.)
-Thirteen | Thirty | Number | 13 | 30 | (Sayılar.)
+Thirsty | Adjective | Susamış | I am very thirsty after that long walk in the sun.
+Thirteen | Thirty | Number | 13 | 30 | She turned thirteen years old last month.
 This | Det. | Pron. | Bu | This evaluation note is very important for my career.
 Thorough | Adjective | Kapsamlı, titiz | We conducted a thorough investigation into the supplier's history.
 Thoroughly | Adverb | Tamamen, titizlikle | Please review the cost reduction report thoroughly before the meeting.
@@ -4430,19 +4430,18 @@ Timing | Noun | Zamanlama | The timing of the investment in palladium was absolu
 Tiny | Adjective | Küçücük | I have a tiny collection of silver coins.
 Tip | Noun | Verb | İpucu, bahşiş | Bahşiş vermek | Here is a tip for your self-evaluation note.
 Tire | Noun | Lastik (araç) | The car needs a new set of tires.
-Tired | Adjective | Yorgun | (Genel kullanım.)
+Tired | Adjective | Yorgun | I was so tired after the long meeting that I went straight to bed.
 Tissue | Noun | Doku, kağıt mendil | The doctor took a small sample of tissue for further testing.
 Title | Noun | Verb | Başlık, unvan | Başlıklandırmak | What is the title of your new YouTube video?
-To | Today | Together | Prep. | Adv. | -e | Bugün | Birlikte | We are working together to achieve the cost-down goal.
+Today | Prep. | Bugün | Today is a good day to start working on your cost-down strategy.
+Together |  Adv. | Birlikte | We are working together to achieve the cost-down goal.
 Tobacco | Noun | Tütün | The government is increasing taxes on tobacco products again.
-Toe | Noun | Ayak parmağı | (Vücut parçası.)
-Toilet | Tomato | Tomorrow | Noun | Adv. | Tuvalet | Domates | Yarın | (Genel kullanım.)
+Toe | Noun | Ayak parmağı | The big toe on my right foot is injured.
 Tolerance | Noun | Tolerans, hoşgörü | Our company has zero tolerance for any form of discrimination.
 Tolerate | Verb | Tolere etmek | We cannot tolerate any further delays from this alternative firm.
-Toll | Noun | Ücret | Kayıp | The long hours are starting to take a toll on his health.
-Ton | Noun | Ton (1000 kg) | We purchase several tons of raw materials every year.
-Tone | Noun | Ton (ses|renk) | Keep a professional tone in your emails.
-Tongue | Noun | Dil (organ) | (Vücut parçası.)
+Toll | Noun | Kayıp | The long hours are starting to take a toll on his health.
+Tone | Noun | Ton (ses,renk) | Keep a professional tone in your emails.
+Tongue | Noun | Dil (organ) | His tongue is injured.
 Tonight | Adv. | Noun | Bu gece | There is a big football match tonight.
 Too | Adverb | De-da, çok | Silver is a great investment, and gold is too.
 Tool | Noun | Araç, alet | Excel is an essential tool for sourcing specialists.
@@ -4453,13 +4452,13 @@ Torture | Noun | Verb | İşkence | İşkence etmek | The survivors described th
 Toss | Verb | Atmak, fırlatmak | He decided to toss the old documents into the recycling bin.
 Total | Verb | Toplamına ulaşmak | The savings from the cost-down study will total over a million lira.
 Total | Totally | Adj. | Adv. | Toplam | Tamamen | The total weight of the gold was exactly 10 grams.
-Touch | Verb | Noun | Dokunmak | Temas | (Genel kullanım.)
+Touch | Verb | Noun | Dokunmak | Temas | Please do not touch the wet paint on the wall.
 Tough | Adjective | Zorlu, sert | Negotiating with alternative firms can be tough.
 Tour | Tourism | Tourist | Noun | Verb | Tur | Turizm | Turist | İzmir is a very popular city for tourism.
 Tournament | Noun | Turnuva | He is preparing for a regional chess tournament in İzmir.
 Toward | Preposition | -e doğru | We are moving toward our financial goals.
-Towel | Tower | Noun | Havlu | Kule | (Genel kullanım.)
-Town | Noun | Kasaba, şehir | (Yerleşim.)
+Towel | Tower | Noun | Havlu | Kule | I need a fresh towel after my shower.
+Town | Noun | Kasaba, şehir | I grew up in a small town near the mountains.
 Toxic | Adjective | Zehirli | Some of the chemicals used in the factory are highly toxic.
 Toy | Noun | Adj. | Oyuncak | I am researching educational toys for the YouTube channel.
 Trace | Verb | Noun | İzini sürmek | İz | We are trying to trace the origin of the faulty raw material.
@@ -4488,15 +4487,15 @@ Transparency | Noun | Şeffaflık | We value transparency in our negotiations wi
 Transparent | Adjective | Şeffaf | The reasons for the supplier change were completely transparent.
 Transport | Transportation | Verb | Noun | Taşımak | Ulaşım, taşıma | Transportation costs are included in the final price.
 Trap | Verb | Noun | Tuzak | Tuzağa düşürmek | The animal was caught in a wooden trap set by the hunter.
-Trash | Noun | Çöp | (Genel kullanım.)
+Trash | Noun | Çöp | Please take the trash out to the bin before you go to bed.
 Trauma | Noun | Travma | He is recovering from the psychological trauma of the accident.
 Travel | Traveler | Verb | Noun | Seyahat etmek | Gezgin | I love to travel between İzmir and Istanbul.
 Treasure | Noun | Hazine | The divers found a chest of gold treasure at the bottom of the sea.
-Treat | Treatment | Verb | Noun | Davranmak, tedavi etmek | Tedavi | (Genel kullanım.)
+Treat | Treatment | Verb | Noun | Davranmak, tedavi etmek | Tedavi | You should treat others with the same respect you want for yourself.
 Treaty | Noun | Antlaşma | The two nations signed a peace treaty to end the long conflict.
 Tremendous | Adjective | Muazzam | We have seen a tremendous improvement in cost reduction this year.
 Trend | Noun | Eğilim, akım | I am following the upward trend in silver prices.
-Trial | Noun | Deneme, duruşma | (Genel kullanım.)
+Trial | Noun | Deneme, duruşma | The new drug is currently undergoing a clinical trial.
 Tribal | Adjective | Kabile ile ilgili | The museum features a collection of traditional tribal art.
 Tribe | Noun | Kabile | The documentary explores the life of a remote tribe in the Amazon.
 Tribute | Noun | Saygı gösterisi, övgü | The event was a tribute to his long and successful career.
@@ -4517,7 +4516,7 @@ Trustee | Noun | Mütevelli heyeti üyesi | He serves as a trustee for a local e
 Truth | Noun | Gerçek | To tell you the truth, I prefer palladium over gold right now.
 Try | Verb | Noun | Denemek | Deneme | I will try to finish the self-evaluation note tonight.
 Tsunami | Noun | Tsunami | The coast was hit by a massive tsunami after the earthquake.
-Tube | Tunnel | Noun | Tüp | Tünel | (Genel kullanım.)
+Tube | Tunnel | Noun | Tüp | Tünel | The train travels through a long tunnel under the mountain.
 Tuition | Noun | Okul ücreti | The university decided to increase its tuition fees for next year.
 Tumor | Noun | Tümör | The surgery was successful in removing the benign tumor.
 Turn | Verb | Noun | Dönmek | Sıra | It is my turn to present the strategic sourcing report.
@@ -4527,14 +4526,14 @@ Twice | Adverb | İki kez | I checked the gold weight twice to be sure.
 Twist | Verb | Noun | Bükmek, beklenmedik gelişme | The movie has a shocking twist at the very end.
 Type | Noun | Verb | Tip, tür | Yazmak | What type of car are you planning to buy via Birevim?
 Typical | Typically | Adj. | Adv. | Tipik | Genellikle | Typically, silver prices rise when there is economic uncertainty.
-Ugly | Adjective | Çirkin | (Genel kullanım.)
+Ugly | Adjective | Çirkin | He thinks that old building is ugly, but I find it quite interesting.
 Ultimate | Adjective | Nihai, temel | Our ultimate goal is to become the leader in strategic sourcing.
 Ultimately | Adverb | En nihayetinde | Ultimately, our goal is to achieve maximum cost efficiency.
-Umbrella | Noun | Şemsiye | (Eşya.)
+Umbrella | Noun | Şemsiye | Don't forget your umbrella; it's starting to rain outside.
 Unable | Adjective | Muktedir olamamak | I was unable to fly to İzmir because of the cancellation.
 Unacceptable | Adjective | Kabul edilemez | This level of quality from a supplier is completely unacceptable.
 Uncertainty | Noun | Belirsizlik | Economic uncertainty is making people cautious about investing.
-Uncomfortable | Adjective | Rahatsız | (Genel kullanım.)
+Uncomfortable | Adjective | Rahatsız | This chair is very uncomfortable to sit in for a long time.
 Unconstitutional| Adjective | Anayasaya aykırı | The supreme court ruled that the new law was unconstitutional.
 Under | Underground | Prep. | Adj. | Altında | Yer altı | We keep the factory records under strict protection.
 Undergo | Verb | Maruz kalmak, geçirmek | All new alternative raw materials must undergo rigorous testing.
@@ -4550,13 +4549,13 @@ Unfortunate | Adjective | Talihsiz | It was unfortunate that your flight was can
 Unfortunately | Adverb | Maalesef | Unfortunately, the supplier couldn't meet our deadline.
 Uniform | Noun | Üniforma | Workers must wear their uniform in the production zone.
 Unify | Verb | Birleştirmek | The goal of the new policy is to unify the sourcing processes.
-Union | Noun | Sendika, birlik | (İş dünyası terimi.)
+Union | Noun | Sendika, birlik | The workers formed a union to fight for better working conditions.
 Unique | Adjective | Benzersiz | This is a unique opportunity to reduce our sourcing costs.
 Unit | Noun | Birim | We calculate the cost per unit for every product.
 Unite | Verb | Birleşmek, birleştirmek | The two rival firms decided to unite to compete globally.
 Unity | Noun | Birlik, beraberlik | There is a strong sense of unity among the members of the team.
 Universal | Adjective | Evrensel | The need for clean water is a universal human issue.
-Universe | University | Noun | Evren | Üniversite | (Genel terimler.)
+Universe | University | Noun | Evren | Üniversite | Astronomers are always learning new things about our vast universe.
 Unless | Conjunction | -medikçe | We cannot switch firms unless the quality is proven.
 Unlikely | Adjective | Beklenmedik, düşük ihtimal | It is unlikely that gold prices will drop this week.
 Unnecessary | Adjective | Gereksiz | Avoid unnecessary spending before buying the car.
@@ -4568,9 +4567,9 @@ Upcoming | Adjective | Yaklaşan | I am preparing a presentation for the upcomin
 Update | Verb | Noun | Güncellemek | Güncelleme | I need to update my CV for the 5th-year review.
 Upgrade | Verb | Noun | Yükseltmek | Yükseltme | We need to upgrade our software to manage alternative suppliers better.
 Uphold | Verb | Korumak, onaylamak | The court decided to uphold the original verdict.
-Upper | Adjective | Üst | (Konum.)
-Upset | Adj. | Verb | Üzgün | Üzmek | (Duygu.)
-Upstairs | Adv. | Adj. | Üst kat | (Konum.)
+Upper | Adjective | Üst | She lives on the upper floor of that apartment building.
+Upset | Adj. | Verb | Üzgün | Üzmek | She was very upset when she heard the bad news.
+Upstairs | Adv. | Adj. | Üst kat | The children are playing in the bedroom upstairs.
 Urban | Adjective | Kentsel | Urban transportation in İzmir is quite efficient.
 Urge | Verb | Israr etmek, dürtü | I urge the team to focus on alternative suppliers.
 Urgent | Adjective | Acil | We need an urgent solution to the raw material shortage.
@@ -4593,7 +4592,7 @@ Variation | Noun | Varyasyon, değişim | We noticed a slight variation in the q
 Varied | Adjective | Çeşitli, türlü | My daily tasks are quite varied, ranging from sourcing to reporting.
 Variety | Various | Vary | N. | Adj. | V. | Çeşitlilik | Çeşitli | Değişmek | We work with various alternative firms.
 Vast | Adjective | Çok büyük, devasa | There is a vast market for recycled materials.
-Vegetable | Noun | Sebze | (Yiyecek.)
+Vegetable | Noun | Sebze | It's important to eat plenty of fresh vegetables every day.
 Vehicle | Noun | Araç | I am comparing two different ways to buy a vehicle.
 Vein | Noun | Damar | The nurse had a hard time finding a vein to draw blood.
 Venture | Noun | Verb | Girişim | Cüret etmek | The two firms decided to start a joint venture in the energy sector.
@@ -4611,35 +4610,35 @@ Viable | Adjective | Uygulanabilir, karlı | We need a viable plan to reduce cos
 Vibrant | Adjective | Canlı, enerjik | İzmir has a very vibrant atmosphere, especially during the summer.
 Vice | Noun | Kusur, kötü alışkanlık | Greed is often seen as a major vice in the financial world.
 Vicious | Adjective | Kötü niyetli, hırçın | High inflation can lead to a vicious cycle of rising prices.
-Victim | Noun | Mağdur, kurban | (Hukuki terim.)
+Victim | Noun | Mağdur, kurban | The victim of the accident was rushed to the hospital immediately.
 Victory | Noun | Zafer | Reducing costs by 20% was a big victory for me.
 Video | View | Viewer | Noun | Verb | Video | Görünüm | İzleyici | My YouTube viewers love educational songs.
 Viewpoint | Noun | Bakış açısı | From my viewpoint, the alternative supplier is the better choice.
-Village | Noun | Köy | (Yerleşim.)
+Village | Noun | Köy | My grandparents live in a small, peaceful village in the countryside.
 Violate | Verb | İhlal etmek | The company was fined because it managed to violate safety rules.
 Violation | Noun | İhlal | The factory was closed due to a serious violation of environmental laws.
-Violence | Violent | Noun | Adj. | Şiddet | Şiddetli | (Toplumsal terim.)
+Violence | Violent | Noun | Adj. | Şiddet | Şiddetli | The movie was criticized for its unnecessary use of violence.
 Virtual | Adjective | Sanal | We had a virtual meeting with the German supplier.
 Virtue | Noun | Erdem | Patience is a virtue when waiting for the right investment opportunity.
-Virus | Noun | Virüs | (Sağlık|Teknoloji.)
+Virus | Noun | Virüs | Make sure your computer has updated software to protect against viruses.
 Visa | Noun | Vize | I need to apply for a visa before my business trip to Germany.
 Visible | Adjective | Görünür | The impact of the cost reduction strategy is already visible.
 Vision | Noun | Vizyon, görüş | My vision for the channel is to reach 1,000 subscribers.
 Visit | Visitor | Verb | Noun | Ziyaret etmek | Ziyaretçi | A visitor from the alternative firm is coming today.
 Vital | Adjective | Hayati | Cost-down studies are vital for our company's profit.
-Vitamin | Noun | Vitamin | (Sağlık.)
+Vitamin | Noun | Vitamin | Oranges are a great source of Vitamin C.
 Vocal | Adjective | Sesli, düşüncelerini açıkça söyleyen | He was very vocal about his concerns regarding the new supplier.
 Voice | Volume | Noun | Ses | Hacim | The volume of silver trade is rising in Akbank.
 Voluntary | Adjective | Gönüllü | Participation in the social responsibility project is completely voluntary.
-Volunteer | Noun | Verb | Gönüllü | (Toplumsal.)
-Vote | Noun | Verb | Oy | Oy kullanmak | (Siyasi.)
+Volunteer | Noun | Verb | Gönüllü | Many people decided to volunteer their time to help the earthquake victims.
+Vote | Noun | Verb | Oy | Oy kullanmak | Every citizen has the right to vote in the national elections.
 Voting | Noun | Oylama | The voting process for the new board members will begin on Monday.
 Vow | Verb | Yemin etmek, söz vermek | I vow to complete the YouTube project before the end of the year.
 Vulnerability| Noun | Kırılganlık, zafiyet | The audit revealed a major vulnerability in the supply chain.
 Vulnerable | Adjective | Savunmasız, kırılgan | Small firms are more vulnerable to sudden changes in the market.
 Wage | Noun | Ücret, maaş | (İş dünyası.)
 Wait | Waiter | Verb | Noun | Beklemek | Garson | I will wait for the market to open before selling.
-Wake | Walk | Wall | Verb | Noun | Uyanmak | Yürümek | Duvar | (Günlük eylemler.)
+Wake | Walk | Wall | Verb | Noun | Uyanmak | Yürümek | Duvar | I like to take a long walk in the park every morning.
 Wander | Verb | Dolaşmak, gezinmek | I like to wander around the historic streets of İzmir on weekends.
 Want | Verb | İstemek | I want to finalize the Birevim car plan soon.
 War | Noun | Savaş | Global war threats often push gold prices up.
@@ -4650,40 +4649,40 @@ Warm | Warn | Warning | Adj. | V. | N. | Ilık | Uyarmak | Uyarı | The manager 
 Warming | Noun | Isınma | Global warming is having a significant impact on agriculture.
 Warrant | Noun | Verb | Garanti, yetki | Hak etmek | The police had a warrant to search the office for evidence.
 Warrior | Noun | Savaşçı | The story tells the tale of a brave warrior from ancient times.
-Wash | Washing | Verb | Noun | Yıkamak | Yıkama | (Günlük kullanım.)
+Wash | Washing | Verb | Noun | Yıkamak | Yıkama | You should always wash your hands before eating.
 Waste | Noun | Verb | Adj.| Atık, israf | Boşa harcamak | Don't waste time with unreliable suppliers.
 Watch | Verb | Noun | İzlemek | Saat | I watch the football match analysis every weekend.
-Water | Wave | Noun | Verb | Su | Dalga | (Doğa.)
+Water | Wave | Noun | Verb | Su | Dalga | The surfers were waiting for the perfect wave to come in.
 Way | Noun | Yol, yöntem | Strategic sourcing is a great way to improve efficiency.
 Weak | Weakness | Adj. | Noun | Zayıf | Zayıflık | Identifying the weakness of a supplier is important.
 Weaken | Verb | Zayıflatmak | Rising interest rates might weaken the demand for luxury goods.
 Wealth | Wealthy | Noun | Adj. | Servet | Zengin | Building wealth requires patience and silver!
 Weapon | Noun | Silah | Information is your best weapon in negotiations.
-Wear | Verb | Giymek | (Giyim.)
-Weather | Noun | Hava durumu | (Doğa.)
+Wear | Verb | Giymek | You should wear a warm coat when you go outside in the winter.
+Weather | Noun | Hava durumu | The weather in İzmir is usually very sunny and warm.
 Weave | Verb | Dokumak, örmek | She can weave beautiful patterns using traditional methods.
 Web | Website | Noun | Ağ | İnternet sitesi | Check the website for current palladium rates.
-Wedding | Noun | Düğün | (Sosyal.)
-Wednesday | Week | Noun | Çarşamba | Hafta | (Zaman.)
+Wedding | Noun | Düğün | They are planning a big wedding for next summer.
+Wednesday | Week | Noun | Çarşamba | Hafta | I have a very busy schedule this week.
 Weed | Noun | Yabani ot | I spent the morning pulling weeds out of my garden in İzmir.
 Weekly | Adjective | Haftalık | We have a weekly meeting to discuss cost reduction strategies.
 Weigh | Weight | Verb | Noun | Tartmak | Ağırlık | What is the total weight of your gold grams?
 Weird | Adjective | Tuhaf, garip | I had a weird dream about palladium prices last night.
-Welcome | Verb | Adj. | Hoş geldiniz | Karşılamak | (Sosyal.)
+Welcome | Verb | Adj. | Hoş geldiniz | Karşılamak | We were warmly welcomed by our hosts when we arrived.
 Welfare | Noun | Refah, yardım | The government is responsible for the welfare of its citizens.
 Well | Noun | Kuyu | The old village relied on a deep well for its water supply.
 Well-being | Noun | Esenlik, refah | Employee well-being is a top priority for our company.
-West | Western | Noun | Adj. | Batı | Batılı | (Yön.)
-Wet | Adjective | Islak | (Fiziksel.)
+West | Western | Noun | Adj. | Batı | Batılı | The sun sets in the west every evening.
+Wet | Adjective | Islak | Be careful not to slip on the wet floor.
 Whatever | Whenever | Wherever | Whether | (Bağlaçlar) | Use alternative firms whenever it's possible.
 Whatsoever | Adverb | Hiç mi hiç, her neyse | There is no reason whatsoever to delay the supplier switch.
 Wheat | Noun | Buğday | Wheat is one of the most important crops grown in this province.
-Wheel | Noun | Tekerlek | (Araç parçası.)
+Wheel | Noun | Tekerlek | The front wheel of my bicycle is a bit loose.
 Whereby | Adverb | Sayesinde, vasıtasıyla | We have a system whereby all alternative firms are evaluated fairly.
 While | Conjunction | -iken | I studied English while waiting at the airport.
 Whip | Verb | Kamçılamak, hızla hareket ettirmek | He managed to whip up a quick meal before heading to work.
-Whisper | Verb | Noun | Fısıldamak | (Ses.)
-White | Who | Whole | Whom | Whose | Why | (Soru ve tanımlama kelimeleri.)
+Whisper | Verb | Noun | Fısıldamak | She leaned over to whisper a secret in my ear.
+White | Who | Whole | Whom | Whose | Why | Can you explain why the project was delayed?
 Whoever | Pronoun | Her kim | Whoever finds the mistake in the report will get a small reward.
 Wholly | Adverb | Tamamen, bütünüyle | The responsibility for the error is wholly mine.
 Wide | Widely | Adj. | Adv. | Geniş | Yaygın olarak | This method is widely used in sourcing.
@@ -4691,13 +4690,13 @@ Widen | Verb | Genişletmek | We need to widen our search for alternative raw ma
 Widespread | Adjective | Yaygın | There is widespread support for the new environmental policy.
 Widow | Noun | Dul (kadın) | The poor widow lived alone in a small house near the coast.
 Width | Noun | Genişlik | Please measure the width of the warehouse entrance carefully.
-Wife | Noun | Eş (kadın) | (Aile.)
-Wild | Wildlife | Adj. | Noun | Vahşi | Yaban hayatı | (Doğa.)
+Wife | Noun | Eş (kadın) | He lives in İzmir with his wife and two children.
+Wild | Wildlife | Adj. | Noun | Vahşi | Yaban hayatı | We saw many wild animals during our safari in Africa.
 Will | Modal Verb | Noun | -ecek | İrade, vasiyet | I will celebrate my 5th service year in December.
 Willing | Adjective | İstekli | I am willing to take more responsibility at work.
 Willingness | Noun | İsteklilik | His willingness to learn new things is very impressive.
 Win | Winner | Verb | Noun | Kazanmak | Kazanan | A good negotiation is a win-win for both sides.
-Wind | Window | Wine | Wing | (Genel kelimeler.)
+Wind | Window | Wine | Wing | The strong wind blew the leaves off the trees.
 Winter | Noun | Kış | (Mevsim.)
 Wipe | Verb | Silmek | Don't forget to wipe the dust off the raw material samples.
 Wire | Noun | Tel, kablo | (Teknik malzeme.)
@@ -4710,9 +4709,9 @@ Withdraw | Verb | Geri çekilmek, para çekmek | I need to withdraw some cash fr
 Withdrawal | Noun | Geri çekilme, para çekme | The withdrawal of the product from the market was very costly.
 Witness | Noun | Verb | Şahit | Şahit olmak | You will witness the growth of the YouTube channel.
 Wolf | Noun | Kurt | We heard a wolf howling in the distance during our camping trip.
-Woman | Noun | Kadın | (Genel.)
+Woman | Noun | Kadın | She is a very successful woman in the business world.
 Wonder | Wonderful | Verb | Adj. | Merak etmek | Harika | I wonder if silver prices will double this year.
-Wood | Wooden | Wool | Noun | Adj. | Odun | Ahşap | Yün | (Malzemeler.)
+Wood | Wooden | Wool | Noun | Adj. | Odun | Ahşap | Yün | Most of the furniture in the house is made of solid wood.
 Word | Noun | Kelime | Learning 200 words for a game is a great idea.
 Work | Worker | Working | V. | N. | Adj. | Çalışmak | İşçi | Çalışan | Hard work pays off in strategic sourcing.
 Workforce | Noun | İş gücü | Our company has a highly skilled and diverse workforce.
@@ -4728,12 +4727,12 @@ Worth | Adj. | Noun | Değerinde | Değer | Is it worth buying more gold at this
 Worthwhile | Adjective | Değer, zahmete değer | Finding a cheaper supplier was a very worthwhile effort.
 Worthy | Adjective | Değerli, layık | She is a worthy candidate for the senior manager position.
 Would | Modal Verb | -erdi, -ardı | I would like to see the alternative firm's samples.
-Wound | Noun | Verb | Yara | Yaralamak | (Sağlık.)
-Wrap | Verb | Sarmak, paketlemek | (Genel kullanım.)
+Wound | Noun | Verb | Yara | Yaralamak | The doctor cleaned the wound and covered it with a bandage.
+Wrap | Verb | Sarmak, paketlemek | Please wrap the gift in colorful paper before the party.
 Wrist | Noun | Bilek | He hurt his wrist while carrying heavy boxes in the warehouse.
-Write | Writer | Writing | Written| (Yazma ile ilgili eylemler.)
+Write | Writer | Writing | Written| I need to write a thank-you note to my manager.
 Wrong | Adj. | Adv. | Yanlış | It is wrong to assume that prices will always go up.
-Yard | Noun | Avlu, bahçe | (Yer.)
+Yard | Noun | Avlu, bahçe | My house has a small yard.
 Yeah | Exclamation | Evet (samimi) | Yeah, the analysis for the Göztepe match was correct!
 Year | Noun | Yıl | This is my fifth year at the firm.
 Yell | Verb | Bağırmak | There is no need to yell; I can hear you perfectly fine.
